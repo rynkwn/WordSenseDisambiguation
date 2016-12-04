@@ -14,10 +14,11 @@ public class WordSenseTrainer {
 
     public static SentenceDetectorME sentenceDetector;
     public static Tokenizer tokenizer;
-    public HashMap<String, List<String>> concordance;
+    public HashMap<String, ArrayList<String>> concordance;
 
     // Mapping from Word -> (Index -> Value).
-    public HashMap<String, HashMap<Integer, Integer>> randomIndex;
+    public HashMap<String, HashMap<Integer, Integer>> randomIndex = new HashMap<String, HashMap<Integer, Integer>>();
+    public HashMap<String, HashMap<Integer, Integer>> context = new HashMap<String, HashMap<Integer, Integer>>();
 
     // Constructor that does training.
     // Reading in the corpus and tokenizing it.
@@ -132,20 +133,61 @@ public class WordSenseTrainer {
 	 
 	String[] tokens = tokenizer.tokenize(sentence);
 	
+	for (String t : tokens){
+	    // Random indexing: generate the random vector for this word if it doesn't exist
+	    if (!randomIndex.containsKey(t)){
+		randomIndex.put(t, createRandomVector());
+	    }
+
+	    // add this sentence to this word's concordance entry
+	    ArrayList<String> entry = concordance.get(t);
+	    if (entry == null){
+		entry = new ArrayList<String>();
+		concordance.put(t, entry);
+	    } 
+	    entry.add(sentence);
+	}
 	
-	// Random Indexing.
-	//
+	for (int i = 0; i < tokens.length; i++){
+	    for (int c = Math.max(0, i-CONTEXT_WINDOW_SIZE);
+		 c < Math.min(tokens.length-1, i+CONTEXT_WINDOW_SIZE);
+		 c++){
+		if (!tokens[c].equals(tokens[i])){
+		    HashMap<Integer, Integer> wordContext = context.get(tokens[i]);
+		    if (wordContext == null){
+			wordContext = new HashMap<Integer, Integer>();
+		    }
+		    sumVectors(wordContext, randomIndex.get(tokens[c]));
+		}
+	    }
+	}
     }
 
     
     // Creates a random vector using VECTOR_SIZE and VECTOR_FILL constants.
     public HashMap<Integer, Integer> createRandomVector() {
-	HashMap<Integer, Integer> vector = new HashMap<Integer, Integer>();
-
 	
+	HashMap<Integer, Integer> vector = new HashMap<Integer, Integer>();
+	Random r = new Random();
+	
+	while (vector.size() < VECTOR_FILL){
+	    // set random index in vector to 1 or -1 (1 - (0*2), or 1 - (1*2));
+	    vector.put(r.nextInt(VECTOR_SIZE), 1-(r.nextInt(2)*2));
+	}
+
+	return vector;
     }
     
-    
+    // Adds contents of v2 to v1, and returns v1
+    public void sumVectors(HashMap<Integer, Integer> v1, HashMap<Integer, Integer> v2){
+	for (int index : v2.keySet()){
+	    int toAdd = v2.get(index);
+
+	    int val = (v1.get(index) == null) ? 0 : v1.get(index);
+	    v1.put(index, val + toAdd);
+	}
+    }
+
     // Retrieve list of sentences that use this word ranked by
     // closest word sense.
     public ArrayList<String> retrieve(String inputSentence, String word) {
