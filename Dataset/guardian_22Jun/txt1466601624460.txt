@@ -1,0 +1,162 @@
+
+The cleverest new business strategy to emerge because of the internet must be 
+Amazon’s cloud model.
+
+Google’s AdSense <https://www.google.com/adsense/start/#?modal_active=none> 
+probably ranks up there. It’s brilliant, too. Everyone engaged in a 
+relationship with Google benefited in one way or another as their ecosystem 
+expanded, advertisers and publishers alike.
+
+But Amazon’s Web Services <http://aws.amazon.com/> seem to go from strength to 
+strength in a way that media networks must surely envy. They built an 
+incredible technology environment that makesAmazon.com <http://Amazon.com> 
+possible, which is no small feat. Then they exposed their internal 
+infrastructure for pay-as-you-go style fees on a self-serve basis to startups 
+and eventually large enterprise customers.
+
+Companies have sold or leased their assets including real estate and financial 
+assets to other companies for years, but Amazon found a way to capitalise on a 
+unique asset. By selling spare capacity, their customers have subsidised 
+Amazon’s investment in technology infrastructure that in turn benefits from 
+future development.
+
+It’s nearly a virtuous circle.
+
+I’m reminded of this while learning more about the Washington Post’s 
+intentions to sell their content management tools to other publishers. The 
+platform is calledArc <https://www.arcpublishing.com/>.
+
+Matthew Monahan is senior product manager responsible for Arc at the 
+Washington Post <http://www.theguardian.com/media/washington-post>. He said, 
+“At first we were just building solutions to problems we had with existing 
+systems. Then these things started to come together and we developed this 
+vision that this could be a true platform. We gave it away for free to 
+university newspapers like the Columbia Spectator to test our idea and begin 
+getting feedback from users.”
+
+Not surprisingly, Amazon founder Jeff Bezos 
+<https://www.theguardian.com/technology/jeff-bezos> also owns the Washington 
+Post.
+
+Arc or elements of it started at WaPo well before Bezos got there. In fact, 
+tech teams within media orgs have tried to spin out their publishing tools 
+since CMS became an acronym. But having the backing of the most successful 
+person to pursue the model will be a real advantage for them.
+
+Every business can do this kind of thing – providing internal capabilities to 
+others. Media is certainly full of capability, and they would be wise to profit 
+from it. The trick is working out which things make sense to sell and how to 
+position them.
+
+Media’s long history with content syndication is proof it’s possible. Getting 
+ongoing fees from other publishers for content you’ve already used and paid for 
+is a good idea. That is, if you can get money for it. Good luck with that.
+
+More recently, media organisations have set up internal marketing agencies. 
+Custom publishing is a sensible idea because content is something the 
+organisation knows how to do. Might as well profit as a content mercenary if 
+you can. But selling editorial independence or the appearance thereof kills 
+media brands. It can be a huge distraction if handled poorly.
+
+There are more internet-native ways to achieve the kinds of results Amazon and 
+Google <https://www.theguardian.com/technology/google> earned with their 
+respective strategies.
+
+Of course, content management is basically commoditised technology now. There 
+are many technology companies focused on it, and media companies may not have 
+all the operational resources required to be competitive. Monahan said: “We’re 
+going to walk before we run. With every agreement we evaluate our capability to 
+deliver on the SLA. We have to be able to support it, so I have to be careful 
+not to oversell it.”
+
+But media companies have advantages that pure software companies don’t.
+
+First, any media organisation with a good tech team has been customising 
+publishing tools hand in hand with content creators for a long time. They’ve 
+worked out real needs directly with the people using the tools.
+
+Monahan said Arc’s Pagebuilder tool was built so that developers at the 
+Washington Post could iterate quickly along with editors and their changing 
+needs on the newsdesk and create templates and configurable tools to use again.
+
+That process of making useful things for editors on a daily basis is unique to 
+media organisations.
+
+Second, media organisations have real content in their publishing systems. 
+That content could be shared with other customers and vice versa. Content 
+sharing doesn’t come easily to publishers, but it could be used as a piece of 
+the puzzle in a way that software companies can’t offer.
+
+Third, media organisations have readers and advertisers. A lot of them. 
+Pooling access to them could enable some interesting new partnerships and make 
+them more competitive against the many forces challenging the wider media 
+industry.
+
+Again, publishers often feel very proprietary about these things and struggle 
+to create federated networks of either audience or advertisers, much less both. 
+Or if they do succeed in agreeing to connect their resources, they often fail 
+to actually support the network and invest in it.
+
+Instead, publishers give inventory to ad networks and other third parties who 
+then create those audience and advertising pools, profiting from them and 
+sharing only a slice of the value back to the publisher.
+
+Publishers could negotiate more effectively when big changes happen in the 
+market if they had means for steering their many resources collectively. They 
+need to look outside their office walls and form networks that benefit everyone 
+who participates.
+
+And therein lies the problem. Publishers tend to look inward and miss out on 
+the internet’s greatest strengths. They fail to create the kind of 
+bi-directional relationships with partners that Amazon, Google and other 
+Silicon Valley platforms have mastered over the years.
+
+BuzzFeed’s outward-looking mentality offers many lessons for the rest of the 
+media market.
+
+At the SXSW event in Austin, Texas, last month BuzzFeed chief marketing 
+officer Frank Cooper talked about an advertising product they plan to offer as 
+a service.Swarm 
+<http://www.adweek.com/news/technology/buzzfeed-launches-new-ad-format-further-monetize-its-big-social-reach-170172>
+ will help marketers create better buzz across the many social platforms people 
+use today.
+
+Similarly, Vox Media offers a product to advertisers called Chorus 
+<http://adage.com/article/special-report-sxsw/media-companies-focused-marketing-platforms/303089/>
+ that optimises content created for a campaign and amplifies it on social 
+platforms. They plan to push that strategy further by offering their content 
+platform as part of the relationship with their customers.
+
+The tools these companies are offering give them a lot of leverage for future 
+revenue. They don’t need to sell the software. Instead, it helps them do 
+larger-sized advertising deals.
+
+Platform business strategies may not come easily to a company with broadcast 
+traditions, but once you get through the many walls that exist between 
+organisation there’s a lot of potential in the networks that can arise.
+
+“The friction in setting up deals with publishing partners is what keeps 
+people from experimenting with these new models,” said Monahan. “You might be 
+able to find a way to offer something really valuable to readers with a partner 
+or group of partners, but you’d have to convince developers to join up and set 
+up a joint venture. But if everyone is on the same platform it becomes a lot 
+easier. You could build products that allow people to negotiate those deals 
+electronically.”
+
+Media companies should focus more on creating Minimum Viable Platforms or 
+collaborating with others that are doing it already. They ask “How high?” when 
+Facebook and Google want them to jump. If they would stop viewing the world as 
+a zero-sum game and work together more they might find they can create 
+ecosystems that are even more amazing than their tech predecessors.
+
+To get weekly news analysis, job alerts and event notifications direct to your 
+inbox,sign up free for Media & Tech Network membership 
+<https://register.theguardian.com/media/>.
+
+All Guardian Media & Tech Network content is editorially independent except 
+for pieces labelled “Paid for by” – find out morehere 
+<http://www.theguardian.com/sponsored-content>.
+
+• This article was amended on 12 April 2016. An earlier version incorrectly 
+stated that Amazon Web Services was built using the spare capacity from the 
+technology behindAmazon.com <https://www.theguardian.com/technology/amazon>.

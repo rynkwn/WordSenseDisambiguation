@@ -1,0 +1,107 @@
+
+Human excrement is rife with pathogens, “odorant volatiles” (the chemicals 
+that make it smell) and parasites, but it has something going for it: it’s 
+about 75% water. What’s more, water is the smallest of all its component 
+molecules.
+
+It’s these qualities of our faecal matter that got researchers at Cranfield 
+Water <https://www.theguardian.com/environment/water> Science Institute 
+thinking about how to make a new kind of toilet that can provide safe 
+sanitation to the 2.5 billion people around the world who do not currently have 
+it.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fgu.com%2Fp%2F4g8fe%2Fsfb%23img-2&redirect_uri=http%3A%2F%2Fgu.com%2Fp%2F4g8fe%2Fsfb%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fb619eeed45582e1df7107df89d993d686a3f900c%2F0_0_960_720%2Fmaster%2F960.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=The%20waterless%20toilet%20that%20turns%20your%20poo%20into%20power&url=http%3A%2F%2Fgu.com%2Fp%2F4g8fe%2Fstw%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=The+waterless+toilet+that+turns+your+poo+into+power&url=http%3A%2F%2Fgu.com%2Fp%2F4g8fe%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fb619eeed45582e1df7107df89d993d686a3f900c%2F0_0_960_720%2Fmaster%2F960.jpg>
+ The nano membrane toilet: how it works Illustration: Cranfield Water Science 
+Institute 
+The result was the nano-membrane toilet <http://www.nanomembranetoilet.org/> 
+which removes the water from human waste and leaves solids that can be used as 
+fuel or fertiliser. It works by using a process called “pervaporation” – where 
+mixtures of liquids are separated by vaporisation through a membrane.
+
+The vapour is then recovered and drained into a collection vessel so it can be 
+used for irrigation, household washing or even human consumption. The ingenuity 
+of the nano membrane toilet is that it works without water or electricity, two 
+key services lacking for many of those without access to toilets.
+
+Instead of a flush, the toilet uses a scraper mechanism that sends the waste 
+from the toilet bowl into a collection tank below, where the solids collect at 
+the bottom as sediment and where the liquid waste is filtered. The solid waste 
+is removed into a gasifier which converts it into gas and energy. According to 
+Alison Parker, a water and sanitation expert at Cranfield University, there 
+should be enough surplus power to charge a mobile phone.
+
+The smart toilet is currently being trialled in Ghana. As well as the evident 
+environmental advantages from its self-sustaining treatment system, the toilet 
+promises to provide people with a clean and safe household alternative to the 
+public lavatories that many currently use. This is of particular value to women 
+and girls, who areoften vulnerable when going to the toilet outside the house. 
+<http://www.theguardian.com/sustainable-business/women-girls-india-toilets-sanitation-business>
+
+Market uptake challenges
+
+Even if the technology proves robust outside the lab, numerous challenges 
+still stand in the way of the toilet’s uptake.
+
+Commercialisation is the most obvious. Parker and her colleagues are weighing 
+up a range of options, but the most likely is a rental model that removes the 
+need for customers to pay up front. Local entrepreneurs could also benefit from 
+providing regular maintenance, the cost of which could be easily bundled into 
+the regular rental package.
+
+It’s an approach that has a proven record, says Parker, pointing to the Clean 
+Team 
+<http://www.theguardian.com/sustainable-business/2014/nov/19/world-toilet-day-business-coalition-open-defecation>
+ project in Ghana. The project rents portable toilets to residents in Ghana’s 
+Kumasi district and charges them a fee to collect the waste two or three times 
+a week. To date, nearly 700 toilets have been installed, benefitting 4,500 
+people.
+
+Loowatt 
+<https://www.theguardian.com/business/2014/jul/06/loowatt-waterless-toilet-virginia-gardiner-latitude-festival>
+, another waterless toilet manufacturer on Parker’s radar, also uses a regular 
+low-cost payment system for its operations in Madagascar. Loowatt, which uses 
+an anaerobic digestion system, charges customers $1.10 (76p) per week to buy 
+refills of the packaging where the waste is stored. “We set the price at an 
+affordable level. If they need more refills they buy more; if they need fewer, 
+they buy fewer,” says Virginia Gardiner, the firm’s chief executive.
+
+Driving down costs
+
+Another issue is affordability. The toilet’s designers have yet to fully cost 
+out the nano-membrane toilet as it remains at a prototype stage. However, 
+Parker notes that the hollow-fibre membrane materials are available off the 
+shelf, given their current use in industrial applications such as blood 
+oxygenation and beer nitrogenation, so don’t have to be specially manufactured.
+
+In-country manufacture, an approach envisioned by RTI International 
+<http://abettertoilet.org/> is another practical means of keeping production 
+costs low. In addition, RTI’s multi-use toilet block, which converts human 
+waste into burnable fuel and stored energy, uses uniform-sized tanks in an 
+effort to standardise production as much as possible.
+
+Related: How to turn human waste into drinking water – and more 
+<http://www.theguardian.com/sustainable-business/2015/jan/20/turning-human-waste-into-drinking-water>
+
+“During 2016 we’re working with commercial partners in India to demonstrate 
+[the technology] and hopefully progress towards manufacturing in-country,” says 
+Myles Elledge, a senior director at RTI. “We are targeting [a cost] of about 
+$2,500 per unit, which would serve about 50 users per day and would get us to
+the Gates Foundation target 
+<http://www.gatesfoundation.org/Media-Center/Press-Releases/2011/07/Gates-Foundation-Launches-Effort-to-Reinvent-the-Toilet>
+ of five cents per person per day over a 10-year life.”
+
+Cultural context is all-important, too. You can have the most efficient, most 
+sustainable, most affordable toilet in the world, but social mores and cultural 
+habits may still prevent people using it. According to Parker demand for 
+western-style seat toilets in Africa is high, while squat toilets remain 
+culturally preferable in Asia.
+
+In the case of the nano-membrane toilet, its promoters are looking to pitch it 
+as an “aspirational product”. As Parker says, “We need to make sure we get the 
+marketing right so that people believe it’s a product that they want to invest 
+in.”
+

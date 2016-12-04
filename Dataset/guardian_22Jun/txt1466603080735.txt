@@ -1,0 +1,100 @@
+
+Rapid urbanisation in many parts of the developing world is putting an 
+increasing strain on the ability of cities to deliver critical services such as 
+water and sanitation. More thanhalf of the world’s population 
+<http://www.un.org/en/development/desa/news/population/world-urbanization-prospects-2014.html>
+ – 54% – live in urban areas and some700 million 
+<http://www.unicef.org/publications/files/Progress_on_Sanitation_and_Drinking_Water_2015_Update_.pdf>
+ of them do not use an improved sanitation facility, where human waste is 
+separated from human contact.
+
+Related: 'We want to turn poo into gold': how SMS is transforming Senegal's 
+sanitation 
+<https://www.theguardian.com/global-development-professionals-network/2015/aug/12/poo-uber-sms-senegal-sanitation>
+
+But even where there are such facilities, this does not necessarily translate 
+into environmentally safe practices. More thantwo billion people 
+<http://www.gatesfoundation.org/What-We-Do/Global-Development/Water-Sanitation-and-Hygiene>
+ in urban areas use toilets connected to septic tanks or latrine pits that are 
+not safely emptied or that discharge raw sewage into open drains or surface 
+waters. With another2.5 billion people 
+<http://www.un.org/en/development/desa/news/population/world-urbanization-prospects-2014.html>
+ expected to live in cities by 2050, authorities urgently need to keep up with 
+the growing urban population, ensure equitable access to improved sanitation, 
+and safeguard the appropriate and environmentally-safe management of human 
+waste.
+
+Believe it or not, mapping the journey of faecal waste is an important part of 
+the solution. IRC’snew sanitation assessment tool 
+<http://www.ircwash.org/blog/calculating-shit-volumes-can-be-messy-business%20> 
+offers a simple representation of the volumes of sludge safely (and unsafely) 
+dealt with at each stage of the sanitation chain, allowing city planners to 
+determine where the biggest losses are and where to focus their (often limited) 
+budgets.
+
+Although tools to assess faecal sludge management (FSM) do already exist, they 
+are either not able to include qualitative information or the scorecards they 
+provide do not give adequate explanations for a bad score, nor do they provide 
+actual volumes, which makes it difficult to translate the results into action. 
+IRC’s tool, however, analyses the availability and enforcement of policy and 
+legislation, and the presence of and adherence to health and safety through 
+specific scorecards.
+
+The tool works by conducting interviews with relevant city officials and 
+collecting information about the current sanitation situation, which is 
+supplemented by data from existing plans and reports. Teams of sanitation 
+professionals and local support staff will then visit selected neighbourhoods 
+to check the various facilities and validate the data already obtained. Teams 
+will also visit existing wastewater or faecal sludge treatment plants to verify 
+whether the waste actually gets there.
+
+After all this data is collected and validated, it is entered into various 
+spreadsheets that make up IRC’s tool. The tool then processes the calculated 
+volumes and generates score cards, which are reviewed and used for reporting.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fgu.com%2Fp%2F4te3p%2Fsfb%23img-2&redirect_uri=http%3A%2F%2Fgu.com%2Fp%2F4te3p%2Fsfb%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F8e013a9ccb4a6e64dd5f65faaee8c373ed096496%2F0_0_960_720%2Fmaster%2F960.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Can%20mapping%20faecal%20flows%20cut%20the%20crap%20in%20developing%20cities%3F&url=http%3A%2F%2Fgu.com%2Fp%2F4te3p%2Fstw%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Can+mapping+faecal+flows+cut+the+crap+in+developing+cities%3F&url=http%3A%2F%2Fgu.com%2Fp%2F4te3p%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F8e013a9ccb4a6e64dd5f65faaee8c373ed096496%2F0_0_960_720%2Fmaster%2F960.jpg>
+ Percentage scores are given a traffic light code. A score below 50% = red, 
+between 50% and 75% = orange and above 75% = green. In this example, from a 
+site in Indonesia, many percentages are in red which means these areas would 
+need improvement. Photograph: IRC Wash 
+The tool was tested in the city of Mataram, the capital of West Nusa Tenggara 
+province in Lombok, central Indonesia. The city has an estimated population of 
+450,000 people, but within two weeks enough data was collected to give the 
+local government a comprehensive insight into the current sanitation situation. 
+While city authorities were worried about citizens who did not have access to 
+any type of toilet facility, the findings of the rapid assessment revealed a 
+much bigger challenge.
+
+Even though 99% of the population use a toilet, the findings of our rapid 
+assessment show that close to 100% of the faecal waste accumulated was ending 
+up somewhere in the environment. Although it is not clear where exactly the 
+faecal waste that has been collected ends up, it can be safely assumed that 
+most of it pollutes fields, rivers and tourist beaches as most of it never 
+reaches a treatment facility.
+
+Related: We only have five years to achieve clean water and safe toilets for 
+all 
+<https://www.theguardian.com/global-development-professionals-network/2015/jul/01/we-only-have-five-years-to-achieve-clean-water-and-safe-toilets-for-all>
+
+These findings from Indonesia are not a cause for pessimism, though. It is a 
+great start for a thorough understanding of where things go wrong, and the 
+results are expected to be a wake-up call for city authorities. Using the 
+results of the rapid assessment, authorities in Mataram now know which problems 
+need to be addressed most urgently, and can start making the necessary plans 
+for incremental change. This kind of assessment can hopefully help more local 
+governments start considering the entire sanitation service chain and treat 
+faecal waste more seriously.
+
+Erick Baetings is a senior sanitation specialist, and Ingeborg Krukkert leads 
+Asia programmes, atIRC <http://www.ircwash.org/>, a water sanitation and 
+hygiene think-and-do tank in the Netherlands.
+
+Join our community <https://register.theguardian.com/global-development> of 
+development professionals and humanitarians. Follow@GuardianGDP 
+<https://twitter.com/GuardianGDP> on Twitter, and have your say on issues 
+around water in development using#H2Oideas 
+<https://twitter.com/search?q=%23H2Oideas&src=typd>.

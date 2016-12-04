@@ -1,0 +1,151 @@
+
+1. The smartphone
+
+Although not new, the smartphone’s potential is yet to be realised in health 
+and care. Efforts to curate quality apps, for example through an NHS app 
+library, have had little success. Sophisticated apps can fit into health 
+services.Ginger.io <https://ginger.io/> offers people with depression or 
+anxiety problems the ability to track their mood and share data with clinicians 
+to offer interventions.
+
+
+Smartphones can serve as the hub for new diagnostic and treatment 
+technologies. Some people with type 1 diabetes, dissatisfied with medical 
+technology companies’ progress, are driving forward the development of an 
+artificial pancreas.
+
+Their ubiquity also makes them ideal to gather large amounts of data to 
+improve understanding of disease at a population level.BigPD <http://bigpd.org/>
+ is a project seeking to sign up 100,000 people to track their health and 
+develop new insights into Parkinson’s disease.
+
+ 2. At-home or portable diagnostics
+
+Clinicians can bring hospital-level diagnostics to the home through portable 
+x-ray machines, blood-testing kits and other technologies. Patients can use 
+tools like theAliveCOR ECG 
+<http://www.imedicalapps.com/2013/03/physician-review-iphone-alivecor-ecg-heart-monitor/#>
+, embedded in a smartphone case, which helps interpret heart test results via 
+an app and facilitates sharing with clinicians.
+
+
+Some people with disabilities or long-term conditions use assistive devices to 
+help them perform certain tasks or activities. Assisted devices could have 
+embedded sensors capable of gathering data on their use. A tremor spoon is 
+already on the market for use by people with Parkinson’s disease. By 
+incorporating sensors and deploying its data analytic expertise, the aim is to 
+understand how someone’s disease changes over time.
+
+ 3. Implantable drug-delivery mechanisms
+
+Between a third and a half of all medication prescribed to people with 
+long-term conditions is not taken as recommended. Several technologies in 
+development could enable patients and care professionals to monitor and improve 
+adherence to a prescribed drug regime.
+
+
+There is sensor technology so small it can be swallowed and combined with 
+drugs in pill form. When the pill dissolves in the stomach, the sensor is 
+activated and transmits data via a wearable patch to a smartphone app. Patients 
+and clinicians can see how well they are adhering to their prescription, though 
+it raises important questions about patients’ privacy and autonomy.
+
+4. Digital therapy
+
+Digital therapeutics are health or social care interventions delivered through 
+a smartphone or a laptop. They embed clinical practice and therapy into a 
+digital form.
+
+Computerised cognitive behavioural therapy (CBT)
+
+A new generation of automated digital therapies has been developed that aims 
+to deliver CBT at scale with better engagement.Sleepio 
+<https://www.sleepio.com/> is one example, a six-week tailored programme 
+delivered through the web designed to treat insomnia and help alleviate anxiety 
+and depression. There have been positive early results in randomised controlled 
+trials.
+
+ 5. Genome sequencing
+
+Advances in genome sequencing and the associated field of genomics will give 
+us better understanding of how diseases affect different individuals. With the 
+genetic profile of a person’s disease and knowledge of their response to 
+treatment, it should be possible to better predict their response to treatment.
+
+
+Population-level studies
+
+Major projects are underway internationally to understand the relationship 
+between genes and health at a population scale. In the UK, the government is 
+sponsoring the100,000 Genomes project <http://www.genomicsengland.co.uk/> in 
+England. In the US, one company promises to build a database featuring 1m 
+genomes by 2020 and currently has 20,000 sequenced genomes linked to other data 
+about people’s physical characteristics.
+
+ 6. Artificial intelligence
+
+Machine learning is a type of artificial intelligence that enables computers 
+to learn without being explicitly programmed, meaning they can teach themselves 
+to change when exposed to new data.
+
+
+New insights into big datasets
+
+Several businesses hope to use these techniques to provide diagnostic support. 
+Enlitic, IBM’s Watson division and Google’s Deep Mind have started to explore 
+potential applications in healthcare.
+
+ 7. Blockchains
+
+Blockchains are decentralised databases that keep a record of how data is 
+created and changed over time. Their key feature is they can be trusted as 
+authoritative records without a single, central authority guaranteeing accuracy 
+and security.
+
+
+Electronic health records are widely used, but they are usually centralised, 
+provided by a small number of suppliers. Some commentators have described how 
+records using blockchain technology would bring benefits like resilience and 
+encourage interoperability, with the patient or clinician given the encryption 
+keys to control who sees the data.
+
+ 8. Online communities
+
+Social networks like MedHelp <http://www.medhelp.org/>, PatientsLikeMe 
+<https://www.patientslikeme.com/> and HealthUnlocked 
+<https://healthunlocked.com/> bring together people with interests in health 
+and care to support each other, share learning and even provide a platform for 
+tracking health data, helping people manage their condition and contributing to 
+research.
+
+
+With new technologies like these come new opportunities for our health and 
+care system: improving the accuracy and usefulness of information we can gather 
+on our health as citizens and patients; changing how and where care is 
+delivered; and offering new ways to prevent, predict, detect and treat illness.
+
+
+Challenges include how to ensure universal access to the benefits of 
+technologies through theNHS <https://www.theguardian.com/society/nhs>. The 
+system needs to get better at dealing with the great volume of health 
+information these technologies generate.
+
+
+Matthew Honeyman is a policy researcher at the King’s Fund and Dr Cosima 
+Gretton is an academic foundation doctor at Guy’s and St Thomas’ NHS foundation 
+trust
+
+This is an abridged version of an article that first appeared on 
+kingsfund.org.uk 
+<http://www.kingsfund.org.uk/publications/articles/eight-technologies-will-change-health-and-care>
+.
+
+Join the Healthcare Professionals Network 
+<https://register.theguardian.com/healthcare-professionals/?CMP=dis-166> to 
+read more pieces like this. And follow us on Twitter (@GdnHealthcare 
+<https://twitter.com/GdnHealthcare>) to keep up with the latest healthcare news 
+and views.
+
+ * This article was amended on 29 April 2016 to make clear it was jointly 
+written by Matthew Honeyman and Cosima Gretton; it had previously been 
+attributed to just Honeyman

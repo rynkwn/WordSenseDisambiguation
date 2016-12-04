@@ -1,0 +1,110 @@
+
+The Glastonbury festival magics up a small, temporary city in rural Somerset – 
+a city with its own health service, staffed largely byNHS 
+<https://www.theguardian.com/society/nhs> professionals. Until last year, they 
+had no precise way to locate people in emergencies, instead relying on a 
+large-scale grid and their volunteers’ knowledge of the site.
+
+Festival Medical Services <http://festival-medical.org/> (FMS) is a charity 
+set up in 1979 to provide healthcare for the Glastonbury festival. This year, 
+the charity will have 850 volunteers including doctors, nurses, podiatrists, 
+ultrasound technicians, paramedics and dentists. “It’s the world’s biggest 
+music festival, so it has to have the world’s best medical service,” says FMS 
+operations director Dave Parry.
+
+Imagine a field full of orange tents – ‘I’m by the third tent from the left’ 
+doesn’t really narrow it down
+Dave Parry, FMS operations director 
+Until last year, the charity relied on a 10,000 sq metre grid coordinated with 
+the names of various areas to locate people. “Imagine a field full of orange 
+tents,” says Parry. “‘I’m by the third tent from the left’ doesn’t really 
+narrow it down. We thought, ‘there’s got to be a better way to do this’.”
+
+Parry was previously a locality manager for the Welsh ambulance service in 
+Powys, the least-densely populated area of Wales. “We attended rural incidences 
+where people had fallen from horses in remote areas,” he says. “It’s taken 
+quite a long time to find them because of where they are.”
+
+Last year, FMS trialled a location system from tech company What3Words 
+<http://what3words.com/> at the Glastonbury festival, superimposing a new grid 
+on an aerial image of the event on its opening morning, and asked its first 
+responders to use the app on their smartphones.
+
+What3Words allocates a unique three-word combination to each of the 57tn 
+three-by-three sq metre areas covering the planet. Users can now locate the 
+festival stone circle by inputting the three-word combination 
+“pushy.inert.teaspoons” into the app.
+
+The responders follow the crowds, so from 6am until midday, they concentrate 
+on the market areas, moving later to the stage areas and on to the 
+entertainment areas after the stages have closed. “We can normally get a 
+responder to someone within 10-15 minutes, and if it’s a higher-priority call 
+we get there a lot quicker,” he says.
+
+What3Words was co-founded by Chris Sheldrick, an event manager who previously 
+ran a music business organising events for musicians such as Lionel Ritchie and 
+Billy Joel.
+
+“This whole idea came from me giving an address, let’s say of a site entrance 
+at a festival or event venue, to a load of musicians and suppliers and seeing 
+the carnage that ensued when people put that into whatever their mapping app or 
+satnav was,” says Sheldrick. “They used to show up at all sorts of places – 
+none of which were correct.”
+
+Trying to solve the problem, Sheldrick started providing latitude and 
+longitude coordinates, which when used with a device with GPS such as a 
+smartphone is usually accurate to within a few metres – particularly in the 
+countryside where satellite signals can be clearly received. But doing so means 
+entering figures precise to five decimal points.
+
+“It’s just amazing how prone to human error they are,” says Sheldrick. “You’re 
+dealing with a long string of numbers. We had truck drivers mixing up a four 
+and a five and depositing all the equipment an hour north of Rome rather than 
+an hour south of Rome.”
+
+The word combinations are easier to remember, solving problems with lengthy 
+longitude and latitude coordinates. To avoid confusion, the system keeps 
+similar word combinations geographically separate – “pushy.inert.teaspoon” is a 
+location in Texas and “inert.pushy.teaspoons” is in Alaska. “We’ve built it for 
+human error,” says Sheldrick.
+
+What3Words provides a free-to-download smartphone app that works with or 
+without a network signal, with a computerised compass using GPS to point the 
+way to a chosen location. The system is also available through a website, and 
+can be used by other businesses for a fee.
+
+Related: The NHS needs a strong dose of tech investment 
+<https://www.theguardian.com/healthcare-network/2016/jun/20/nhs-strong-dose-tech-investment>
+
+The system – which is available in 12 languages – has been used by the Red 
+Cross and local medical staff in Tanzania to map water points and collect 
+samples during a cholera outbreak and also by a medical courier to deliver 
+drugs to patients in the Khayelitsha township of Cape Town in South Africa.
+
+At Glastonbury, the service is particularly useful when a responder needs to 
+call for other staff or a vehicle, such as in cases of haemorrhage and trauma, 
+or when they move away from their initially-reported location. “It was 
+remarkably accurate,” says Parry. “It was able to pinpoint where responders 
+were on site so we could dispatch the relevant assistance to them.” This year, 
+he expects that some festival-goers will also begin using it to locate friends 
+at events.
+
+He believes that What3Words could be used for walkers, canoeists and marine 
+rescue – its grid covers sea as well as land. “The potential is enormous.”
+
+Join the Healthcare Professionals Network 
+<https://register.theguardian.com/healthcare-professionals/?CMP=dis-166> to 
+read more pieces like this. And follow us on Twitter (@GdnHealthcare 
+<https://twitter.com/GdnHealthcare>) to keep up with the latest healthcare news 
+and views.
+
+
+
+
+
+
+
+
+
+
+

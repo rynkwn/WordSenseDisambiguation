@@ -1,0 +1,110 @@
+
+On a beautiful barren stretch of the Scottish Highlands, just south of 
+Inverness, spin 20 brand new 3,300-kilowatt wind turbines. The second these 
+industrial-scale turbines came on stream last month, allMars UK’s 
+<http://www.mars.com/uk/en/press-center/press-list/news-releases.aspx?SiteId=70&Id=7164>
+ factories and offices became immediately zero carbon.
+
+The US confectionary giant negotiated with the UK arm of Eneco, the Dutch 
+utility behind theMoy Wind Farm 
+<http://projects.eneco.com/moy-wind-farm/about-eneco/>, to buy 85% of the 
+turbines’ output over the next 10 years. The move follows similar steps in the 
+US, where Mars says its operations are carbon neutral thanks to a deal to buy 
+power from a large-scale wind farm in Mesquite Creek, Texas.
+
+The two deals – known generically as renewable power purchase agreements 
+(PPAs) – represent a new trend in the drive by big business to go green. Adobe, 
+BT Group, Goldman Sachs, Google, Microsoft, Nestlé, Novo Nordisk, Salesforce, 
+and Unilever are just a handful of the large corporations now using the 
+mechanism to meet their ambitions of going fully renewable.
+
+On the face of it, such deals appear all upside. The buyer gets to boast about 
+their green credentials, while the developer locks in a high-profile, reliable 
+corporate customer for 10 years or more.
+
+So are these deals as good as they look? Or should customers and the public 
+take corporate claims to carbon neutrality with a pinch of salt?
+
+Emily Farnworth of the non-profit Climate Group is quick to defend both the 
+business and environmental rationale behind long-term purchase agreements. 
+That’s not entirely surprising: it’s her job. She is campaign director forRE100 
+<http://there100.org/>, an initiative launched 18 months ago to encourage 
+multinational companies to commit to using 100% renewable energy. PPAs 
+represent the “simplest route” to doing so, as one RE100 signatory concedes.
+
+The green credentials of PPAs appear relatively robust. Unlike carbon credits 
+<https://www.theguardian.com/environment/carbon-offset-projects>, where 
+companies essentially pay to offset their ongoing use of dirty energy, 
+renewable PPAs genuinely result in a switch to the clean stuff. Companies still 
+buy from the conventional grid, but they receive green certificates that prove 
+that the electricity they take from the grid equates to the zero-carbon energy 
+put in by the likes of Eneco.
+
+Related: Facebook criticised for ‘worrying lack of transparency’ over climate 
+change 
+<https://www.theguardian.com/sustainable-business/2015/nov/04/facebook-criticised-lack-of-transparency-climate-change>
+
+So far RE100 has 65 signatories to the 100% renewable campaign, with more to 
+be announced at the end of this month. But if PPAs offer such a winning 
+formula, why aren’t more companies jumping on the bandwagon? Farnworth says it 
+a case of raising awareness and overcoming historical misconceptions about the 
+high cost of renewables.
+
+It’s not quite as straightforward as that, however. On the environment side, 
+there are persistent question marks over double counting. How can consumers be 
+sure that the clean power put into the grid isn’t being “used” by more than one 
+buyer? There are nowrules 
+<https://www.ofgem.gov.uk/environmental-programmes/renewable-energy-guarantees-origin-rego>
+ in place “which help clarify where energy comes from and therefore make it 
+easier to claim carbon neutrality,” says Myles McCarthy, director of 
+implementation at the London-based Carbon Trust, a low-carbon advisory group.
+
+A more serious issue is what happens when the sun doesn’t shine or the wind 
+stops blowing? While McCarthy says that power storage is evolving 
+significantly, he concedes that there remains a “slight discrepancy” in the 
+event of such shortfalls.
+
+For multinational companies, supply constraints make a global commitment to 
+going 100% renewable problematic. In some regions of the world, the 
+infrastructure for low-carbon power generation doesn’t yet exist at the 
+required scale. Hence Mars’ carbon-neutral claims are still only on a 
+country-by-country basis. That will need to change if it’s to meet its 2040 
+goal of 100% renewable energy across its entire operations.
+
+In other, more developed markets, a surge in demand for PPAs could feasibly 
+saturate existing clean energy supply and potentially push up clean energy 
+prices. The competitiveness of renewables could also wobble as governments 
+reduce their support for the renewables sector, such as the UK’s decision to
+abolish the Renewables Obligation 
+<https://www.theguardian.com/environment/2015/jun/01/uk-renewable-energy-industry-warns-of-legal-action-over-subsidies>
+ in April next year.
+
+Related: Can you power a business on 100% renewable energy? Ikea wants to try 
+<https://www.theguardian.com/sustainable-business/2016/apr/08/renewable-energy-ikea-walmart-google-mars-hp-wind-solar-power>
+
+Arguably, the biggest issue is not around the technicalities of PPAs but the 
+ambition that underpins them. Not all PPAs suppose a 100% conversion to 
+renewables. Indeed, many of the early movers set themselves fairly modest 
+targets, says Gordon Edge, director of policy at the trade association 
+RenewablesUK. As a consequence, some corporates find that they are achieving 
+their renewable targets well ahead of time.
+
+Last month, for instance, Dow Chemicals nearly doubled its 2025 renewables 
+goal to 750MW after hitting its initial 400 MW target in just one year. The 
+quick success follows an agreement by the US chemicals giant with power 
+producer NRGEnergy <https://www.theguardian.com/environment/energy> to purchase 
+output from two of its wind farms in Texas. Because PPAs potentially enable 
+companies to become 100% renewable at the stroke of a pen, there’s a 
+theoretical danger that they might slow down on energy efficiency measures too.
+
+One sign of true ambition would be to build renewable facilities on-site, 
+rather than outsourcing the responsibility. Lego, Ford andIkea 
+<http://www.theguardian.com/sustainable-business/2016/apr/08/renewable-energy-ikea-walmart-google-mars-hp-wind-solar-power>
+ are among the few experimenting with this approach. The benefit of doing so is 
+that corporations – as clean power producers themselves – can help their key 
+suppliers and even consumers to begin to cut their own power-related carbon 
+footprint.
+
+So while 100% renewable is certainly a laudable objective and while PPAs can 
+help companies get there, both are interim steps to what should be a wider 
+corporate commitment to greening the world’s energy consumption.

@@ -1,0 +1,86 @@
+
+An innovative, effective and low-cost system which replicates the 
+pheromone-based communication of insect swarms in robots is now being made 
+available to robotics and artificial intelligence researchers, after an 
+important breakthrough atthe University of Lincoln 
+<http://www.lincoln.ac.uk/home/> in the UK.
+
+Swarm robotics is an emerging approach to the coordination of multi-robot 
+systems, which takes inspiration from the natural world to examine the 
+possibilities for improved interaction between robots and their surrounding 
+environment.
+
+In recent years research in this field has been important for advancing the 
+biological study of insects, ants and other species known for their swarm 
+behaviour. It has also contributed to the development of highly accurate 
+vehicle collision sensors, surveillance technology and even aided video game 
+programming.
+
+Until now, researchers specialising in swarm robotic applications have been 
+unable to replicate all the aspects of pheromone communication that occur in 
+the natural world.
+
+Scientists have employed both chemical means, using alcohol to simulate 
+pheromones, and physical techniques, using light and sound, to try to 
+accurately replicate pheromone-based communication, but none of these 
+approaches have been completely effective.
+
+Specialists from the University of Lincoln’s School of Computer Science have 
+now produced a novel artificial pheromone system that is reliable, accurate and 
+only uses off-the-shelf components.
+
+Using an LCD screen and a low-cost USB camera, the system allows users to 
+simulate several pheromones – displayed in the form of visual trails on the 
+screen – and to change their strength to allow for controllable experiments. 
+The visual “pheromone” image on the screen is sensed by two light sensors on 
+the swarm robots, which replicate ants’ antennas.
+
+The new system is called COS-phi (Communication System via Pheromone) and 
+consists of a low-cost open-hardware micro robot and an open-source 
+localisation system, which tracks the robots’ trajectories and releases the 
+artificial pheromone.
+
+Led by Farshad Arvin, PhD researcher in the School of Computer Science, the 
+Lincoln team developed the system using their own Colias platform. They created 
+Colias - an open-platform system that can be used to investigate collective 
+behaviours and be applied to swarm applications - in 2014 in collaboration with 
+experts from Tsinghua University in China.
+
+Farshad said: “Nature is one of the best sources of inspiration for solutions 
+to different problems in different domains, and this is why swarm robotics has 
+developed into such an important area of study. It takes insights from the 
+behaviours and coordination capabilities of social insects, where the success 
+of a group in accomplishing a task relies heavily on the interactions among its 
+members. Among social injects, the use of pheromones is one of the most 
+effective means of communication, but for the swarm robotics community it has 
+also been one of the most difficult to reproduce.
+
+“That is why we are pleased to have devised an effective new system based on 
+fast and precise visual localisation. It allows us to simulate a virtually 
+unlimited number of different pheromones and showcases the results of their 
+interactions as a gray-scale image on a horizontal LCD screen which the robots 
+move on.
+
+“The system means that we can produce precise and high resolution trails, 
+control the diffusion, evaporation and density of the pheromones, and encode 
+individual pheromones using different colours. COS-phi also simulates the 
+interaction of different pheromones that can amplify or suppress each other, 
+resulting in complex swarm behaviours, just as they do in the natural world.”
+
+Using the COS-phi system, the researchers found that their micro robots were 
+able to follow the leader, or pheromone distributor, without any explicit 
+direction or communication.
+
+The success of the system means that it can now be widely used in bio-inspired 
+swarm robotic research projects, and it paves the way for further studies in 
+this area. The team from Lincoln’s School of Computer Science will now 
+investigate the influence of the rate of pheromone diffusion and evaporation on 
+swarm performance and behaviour in more complex environments with obstacles.
+
+Their original findings, published in the paper COS-phi: A novel artificial 
+pheromone communication system for swarm robotic applications, were presented 
+at the International Conference on Intelligent Robots and Systems (IROS) 
+conference in Hamburg.
+
+ * Find out more about the University of Lincoln 
+<http://www.lincoln.ac.uk/home/>

@@ -1,0 +1,99 @@
+
+New research into May’s general election sheds light on what went wrong with 
+the opinion polls, which notoriously all failed to predict David Cameron’s 
+outright win.
+
+
+The face-to-face survey of nearly 3,000 adults in 300 constituencies was 
+conducted soon after polling day as part ofthe British Election Study 
+<http://www.britishelectionstudy.com/> (BES), and it accurately gauged the 
+Conservative advantage over Labour at about seven percentage points. That is in 
+marked contrast to the final pre-election polls, which predicted a dead heat.
+
+The results of the survey suggest that pre-election polling may have failed to 
+accurately reflect the electorate’s preferences because those interviewed were 
+not selected randomly.
+
+A graphic explaining the various polling results. 
+<https://interactive.guim.co.uk/uploader/embed/2015/11/election_study_poll/giv-32650MFebZDBcGTB5/>
+ The 2015 general election result was the most surprising in British history. 
+The BES data suggests 40% of British voters had backed the Tories, and that 
+33% had sided withLabour <http://www.theguardian.com/politics/labour>. The 
+study is not perfect: both these figures are two points up on the actual score 
+that each party achieved. But because the errors run in the same direction, the 
+all-important winning margin is correct – in marked contrast to the final 
+average of the pre-election polls, which suggested the two parties were tied on 
+34% apiece.
+
+The new study has significant implications for the ongoing British Polling 
+Council postmortem 
+<http://www.britishpollingcouncil.org/general-election-7-may-2015/> into what 
+went wrong, which is chaired byProf Patrick Sturgis of Southampton University 
+<http://www.southampton.ac.uk/demography/about/staff/ps1r07.page> and is due to 
+report its first findings in January. It is tasked with assessing several 
+competing theories of what went wrong when the most polled election in British 
+history also proved to be the most surprising.
+
+One logical possibility would be a late swing to the Conservatives; another 
+would be that those voters who kept their cards close to their chests during 
+the campaign – saying “don’t know” – broke disproportionately for the Tories on 
+the day. But several polling companies have undertaken “recontact” surveys with 
+the voters from their final pre-election samples to look for such signs of late 
+movement and, Sturgis says, “these exercises have not, in general, pointed to 
+any obvious explanations”. Even after the election, theConservatives 
+<http://www.theguardian.com/politics/conservatives> were not as far ahead as 
+they should have been.
+
+
+This suggests that the BES survey did a better job than all the pre-election 
+phone and online polls of building a genuinely representative sample. Sturgis 
+explains that by using genuinely random sampling, “in which everybody has at 
+least some chance of being asked to take part in the survey”, the BES study 
+sets a gold standard, against which the shortcomings of both telephone and 
+online polling can be judged.
+
+Sturgis says that it is possible for online polling, which draws samples from 
+large panels of volunteers, to be compromised by the way that they collect 
+data. “Not everyone puts themselves forward to take part, and those who do will 
+not be representative”.
+
+Phone polling used to be regarded as less biased, but Sturgis cautions: “Many 
+households are increasingly reluctant to pick up their landline, and a growing 
+proportion of young people in particular rely exclusively on mobile phones”. 
+There is no exhaustive database of mobile numbers to draw on, and there is no 
+consensus among the pollsters on a comprehensive and cost-effective way to 
+factor mobiles into the mix.
+
+Instead of relying on online volunteers or citizens who are happy to talk to 
+strangers on their landline, the BES data is collected – at considerable cost – 
+by going out and knocking on doors. As such it sheds valuable new light on who 
+was undersampled in the pre-election polls.
+
+Related: The Guardian view on opinion polling: quality before quantity | 
+Editorial 
+<https://www.theguardian.com/commentisfree/2015/nov/13/the-guardian-view-on-opinion-polling-quality-before-quantity>
+
+BES director, Prof Ed Fieldhouse of Manchester University, believes that the 
+most crucial missing group were non-voters, and particularly younger 
+non-voters. “Our data performs well with respect to lower reported turnout,” he 
+says, and also has “a good distribution of age”. As a result, it finds a 
+substantial 43% of the under 30s saying they didn’t vote, whereas among the 
+less representative young people in the pre-election polls, 15% or fewer 
+sometimes identified themselves as non-voters.
+
+
+BES research fellow Jon Mellon explains: “Opinion pollsters are very good at 
+making their samples reflect the general population. But the general population 
+and the electorate are very different things, because around 40% of adults 
+don’t vote. There are far too many young voters in polling samples, and not 
+enough young non-voters. Because young people tend to be more Labour leaning, 
+this means we end up with too many Labour voters in the polls”.
+
+In the months since the election, the various pollsters have been 
+experimenting with different adjustments 
+<http://ukpollingreport.co.uk/blog/archives/9447> that could have brought their 
+final polls into line with the actual result. ComRes, for example, has 
+developed a new turnout model based on socio-economic factors. Meanwhile, Ipsos 
+Mori has been experimenting with using data on how often respondents report 
+having voted in the past as an additional factor in determining how likely they 
+are to vote in the future.

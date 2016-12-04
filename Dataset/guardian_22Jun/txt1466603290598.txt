@@ -1,0 +1,125 @@
+
+Another week, another set of bad headlines 
+<http://www.dailymail.co.uk/news/article-3218987/How-RSPCA-snoops-wills-donors-claimed-seen-walking-wallets-charities.html>
+ for charities, and again the allegations revolve around data.
+
+Earlier this week reports suggested that charity fundraisers had bought and 
+sold the personal data of an elderly man 
+<https://www.theguardian.com/society/2015/sep/01/charities-face-scrutiny-over-trading-of-elderly-mans-data>
+, which resulted in him losing thousands of pounds. And,today, the Daily Mail 
+accused the RSPCA 
+<http://www.dailymail.co.uk/news/article-3218987/How-RSPCA-snoops-wills-donors-claimed-seen-walking-wallets-charities.html>
+ of using personal data to work out how much money individuals can donate. The 
+RSPCA hasdisputed the claims 
+<http://www.thirdsector.co.uk/rspca-refutes-daily-mail-allegation-targets-elderly-vulnerable-people/fundraising/article/1362546>
+.
+
+These are serious accusations, with public trust in charities at their very 
+heart. But what charities shouldn’t do, is retreat from collecting and using 
+data.Data 
+<http://www.theguardian.com/global-development-professionals-network/data> is 
+now so intrinsic to the way we live, from shopping to dating, that it would be 
+absurd for the voluntary sector to pull away.
+
+However, the Data Protection Act 
+<https://www.gov.uk/data-protection/the-data-protection-act> (DPA) outlines how 
+organisations should handle personal information securely. Based on these 
+guidelines we, at New Philanthropy Capital (NPC), have produced anew report 
+<http://www.thinknpc.org/publications/safe-use-of-personal-data/> that explains 
+10 simple steps charities should take when dealing with personal data.
+
+Related: Cyber security for charities – top tips 
+<http://www.theguardian.com/voluntary-sector-network/2015/feb/04/cyber-security-charities-top-tips>
+
+1. Understand what you have got
+
+Charities have access to plenty of information, especially about their 
+beneficiaries. So they should know where such data is stored (failure to know 
+this iswhat got the British Pregnancy Advisory Service into trouble 
+<https://www.theguardian.com/world/2014/mar/07/abortion-service-website-hacker-information-commissioner-fine>
+. Its website was hacked and the information commissioner ruled that the data 
+was not secure enough).
+
+2. Wherever possible, make sure people know what you’re going to do
+
+The DPA requires people with access to data to act fairly and lawfully. In 
+practice, this means letting the subjects of that data know who controls it and 
+for what purposes. If a charity collects data as part of delivering its 
+services, it will need consent before using it as part of fundraising.
+
+
+3. You don’t always need people’s consent
+
+For some charities — those working with the homeless, for example — obtaining 
+consent will be especially difficult. One way around this is to anonymise your 
+data: the DPA does not apply to anonymised datasets. But even without this, the 
+DPA can be flexible, with exemptions for using data for research being one 
+example.
+
+
+4. Do you need the data you hold?
+
+Don’t be a hoarder. Poorly stored data can get your charity into trouble. If 
+you don’t need it, delete it.
+
+
+Related: How charities can understand and manage data 
+<http://www.theguardian.com/voluntary-sector-network/2014/aug/21/how-charities-can-understand-and-manage-data>
+
+5. Remove it securely
+
+The DPA doesn’t say how long you should keep personal data, but charities can 
+make a sensible judgment call. An organisation providing intensive support to 
+children in their early years will probably need to hold on to data much longer 
+than somewhere providing non-intensive afterschool activities. TheInformation 
+Commissioner’s Office <https://ico.org.uk/> (ICO) outlines lots of ways to 
+delete data appropriately.
+
+
+6. Keep your data up to date
+
+No matter how onerous it feels, update your records as and when changes occur. 
+If a client disputes the information you hold, either delete the record or add 
+a note making this dispute clear.
+
+
+7. Respect individual wishes
+
+Fundraising controversies have shone a light on the obscure Privacy in 
+Electronic Communications Regulations 
+<https://ico.org.uk/for-organisations/guide-to-pecr/>, which gives strong 
+protections preventing direct marketing using individual data. Charity 
+beneficiaries don’t want to read through long, complicated terms and 
+conditions, they just need to know that a charity is transparent about its 
+intentions and will respect consent given or refused.
+
+
+Related: Everything you need to know about the charity fundraising crisis 
+<http://www.theguardian.com/voluntary-sector-network/2015/jul/10/everything-you-need-to-know-charity-fundraising-crisis>
+
+8. Train your staff
+
+Fifty per cent of fines issued by the ICO related to insufficient staff 
+training on handling private data, according to data watchdogBreach Watch 
+<http://breachwatch.com/about/>. Staff should not, for example, be taking large 
+amounts of personal data out of the office — it isn’t only public sector 
+employees wholose sensitive information 
+<http://www.derryjournal.com/news/probe-as-charity-misplaces-client-information-1-6083042>
+.
+
+
+9. Is your data even in the UK?
+
+Cloud computing means that data might be stored far from the country where the 
+charity is actually based. It’s important to remember that data should not be 
+transferred outside of the European Economic Area unless to a country with 
+adequate levels of data protection.
+
+
+10. If in doubt, ask for help
+
+There is no substitute for understanding the DPA in full. The Small Charities 
+Coalition <http://www.smallcharities.org.uk/> provides a list of organisations 
+that can help navigate these questions, as does theICO website 
+<https://ico.org.uk/for-organisations/charity/>. Charities should use them.
+

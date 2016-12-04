@@ -1,0 +1,143 @@
+
+Every minute most of us will take somewhere between a dozen and 20 breaths 
+without ever consciously thinking about them.
+
+With every inhalation our lungs fill with air made up of about three-quarters 
+nitrogen and one-fifth oxygen by volume, followed by smaller quantities of 
+argon, water vapour and carbon dioxide.
+
+But during this life-sustaining process, every breath we draw in comes with 
+other microscopic particles that are risk factors for a range of respiratory 
+conditions.
+
+These may be pollens, grasses and other seasonal allergens that act as 
+triggers outdoors but they can also simply be the home environment.
+
+“Wherever you live breathing clean air is important,” says Philips global 
+business leader in air Boyd Mulder. “Every breath matters, whether that’s in a 
+country where the pollution is high or whether you live in a space where there 
+are many allergens like pollen, dust or mould, or gaseous irritants such as 
+formaldehyde from new paint and furniture.”
+Seasonal Fluctuations 
+<https://interactive.guim.co.uk/embed/labs/a-healthier-brighter-future/ep6/seasonal-fluctuations.html>
+Mulder has spent the past five years living in Shanghai and says while city 
+pollution levels tend to grab the headlines, what many people do not realise is 
+that indoor air quality can often be worse than what they are breathing outside.
+
+However, he says this is becoming increasingly easy to manage through advances 
+enabled by sensors on appliances connected to the internet – part of what is 
+known as the “Internet of Things”.
+
+“Although many people suffer from allergies and respiratory conditions like 
+asthma, there is still not enough awareness of what people can do about it,” 
+Mulder says.
+
+“The Internet of Things allows us to connect products with sensors and 
+monitors that will tell a machine what to do at what time based on the pollen 
+count and the pollution particle count that is either in or outside the home.
+
+“With that information, and also tracking behaviour of people, the Internet of 
+Things can help us to motivate people to change their behaviour and also to 
+give them advice on what to do at every moment in time.”
+
+See how clearing the air has helped one boy follow his musical dream 
+<http://www.philips.com.au/a-w/innovationandyou/article/full-video-story/follow-your-dreams.html>
+
+Despite our relatively clean air, Australia has one of the highest asthma 
+rates in the world, joining the UK, Canada, New Zealand and the US as countries 
+with more than one in 10 of the population – or about 2.3 million here – 
+affected by the disease.
+
+There is no single reason why we have such a high prevalence of the chronic 
+condition compared to international standards but research points to lifestyle 
+factors in developed countries as populations become urbanised.
+Pollen 
+<https://interactive.guim.co.uk/embed/labs/a-healthier-brighter-future/ep6/pollen.html>
+As well as outdoor pollens and grasses, common triggers can include smoke, 
+pets, moulds, dust mites and cockroaches. Even a change in the weather such as 
+the cold, dry air of winter air or thunderstorms can do it.
+
+Others can include strong perfumes, some medications or foods and drinks like 
+wine.
+
+National Asthma Council Australia spokeswoman Judi Wicking says because of all 
+these factors, and with about 400 deaths a year in Australia, an effective 
+management plan means adopting preventative measures rather than waiting for an 
+attack.
+
+“It’s about the environment we are living and working in but it’s complex,” 
+Wicking, a trained clinical nurse and asthma educator, says. “Certainly the 
+quality of the air can affect people with asthma.
+
+“It is very important that we are identifying what the trigger is for that 
+individual person and, if it is possible, to avoid that trigger. If avoidance 
+is not possible then having well-controlled asthma and a management plan is 
+very important.
+
+“With asthma management it’s about being proactive rather than reactive. 
+Preventative healthcare is really important.”
+Quote module 
+<https://interactive.guim.co.uk/embed/labs/a-healthier-brighter-future/ep6/pull-quote.html>
+ Photographs by Nic Porter for Guardian Labs 
+General manager, personal health, for Philips Australia and New Zealand Chris 
+Kerr says this sort of prevention starts at home, with an increasing range of 
+connected devices offering solutions for families to motivate action through 
+effective gathering of data.
+
+Kerr has been at the forefront of using data to personally improve performance 
+since taking up triathlons a decade ago at age 35. After collecting information 
+and analysing the trends he was able to take his racing to an international 
+level, representing his native New Zealand twice during the World Championships.
+Current air quality 
+<https://interactive.guim.co.uk/embed/labs/a-healthier-brighter-future/ep6/current-air-quality.html>
+While most of us may not be competing in triathlons, Kerr says the same 
+coaching methods can be used around the connected home to help make better 
+choices.
+
+“The biggest thing from a Philips perspective is that it’s all about three Ms 
+– measure, monitor and motivate. It comes around to what is the motivation 
+point and how does that help you.
+
+“Once you have that motivation point then it’s about how does it integrate 
+seamlessly into my life. It has to be convenient and also provide that level of 
+information that you might not have been aware of and giving you an output for 
+an action to go: ‘What is my next step?’
+
+“It could be that the air cleaner talks to your phone and tells you: ‘OK the 
+pollen’s high, I’m going to turn myself on, please shut the windows’. It has to 
+be innovation that’s meaningful.”
+
+For parents struggling to get children to brush their teeth, it might be an 
+electric toothbrush which connects to a gaming app offering rewards for regular 
+use.
+
+Or for those with newborns, advanced baby monitoring could include sensors 
+which automatically measure and adjust for temperature, humidity or even 
+toxicity levels in the room.
+
+In the kitchen it may be appliances propositioned around healthy living which 
+measure and show the benefits of alternate cooking methods and meals.
+
+Kerr says the next step is to use the data monitoring for preventative 
+healthcare at a clinical level.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmGiFp5VdI40&redirect_uri=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmGiFp5VdI40&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmGiFp5VdI40>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmGiFp5VdI40&media=>
+ This boy suffers from obstructive bronchitis which often makes it hard for him 
+to breathe. Watch his musical triumph. 
+“We are working towards clinically validated products that a GP can recognise 
+and say that’s a device that works and trust the data that comes out of it. 
+This may be able to help with diabetes or obesity for instance.”
+
+Kerr says this is not a matter of if this is coming, but when. 
+
+But wherever the advances in technology lead the eventual goal is to keep 
+harnessing meaningful innovation to let families take better control of their 
+health at home and in their everyday lives, no matter what stage they are at.
+next/prev 
+<https://interactive.guim.co.uk/embed/labs/a-healthier-brighter-future/ep6/next-prev.html>
+common footer 
+<https://interactive.guim.co.uk/embed/labs/a-healthier-brighter-future/common/footer.html>

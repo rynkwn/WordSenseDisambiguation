@@ -1,0 +1,136 @@
+
+Breaking up may be hard to do but the developers of a new app hope to at least 
+make it much less expensive. As long as both parties are reasonable enough to 
+communicate with each other, rather than lawyers, the founders ofamicable 
+<http://amicable.io/> claim the groundwork for divorce can be completed for 
+“tens of pounds” per month rather than thousands in legal bills.
+
+
+The app combines emotional support and legal information with the tools to 
+allow a couple to do all the administration required to get to the point where 
+they can apply to a court to be legally separated. This includes disclosing 
+assets and agreeing how they will be shared, as well as new living and 
+co-parenting arrangements.
+
+
+This self-service approach can save a fortune compared to talking through 
+lawyers. The app is currently in an open beta trial and its co-founders, family 
+counsellor, Kate Daly and IT consultant, Pip Wilson, expect it to launch in 
+September. It will be billed per person per month, with the average 
+subscription expected to last three to six months before the process is 
+complete.
+
+
+The latest figures from the Office for National Statistics, for November 2013, 
+calculate that there are 115,000 divorces in England and Wales every year; as 
+an average, 42% of marriages end in divorce. Costs can range from the low 
+thousands per person, to up to £30,000 in a contested case that has to go to 
+court to be resolved, according to the government’smoney advice service 
+<https://www.moneyadviceservice.org.uk/en/articles/how-much-does-divorce-or-dissolution-cost>
+.
+
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fgu.com%2Fp%2F4kvgj%2Fsfb%23img-2&redirect_uri=http%3A%2F%2Fgu.com%2Fp%2F4kvgj%2Fsfb%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F5496d9a9abbda2476e2aab2c3faa82d6b6841109%2F377_1068_3254_1952%2F3254.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=The%20divorce%20app%20that%20lets%20you%20break%20up%20without%20breaking%20the%20bank&url=http%3A%2F%2Fgu.com%2Fp%2F4kvgj%2Fstw%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=The+divorce+app+that+lets+you+break+up+without+breaking+the+bank&url=http%3A%2F%2Fgu.com%2Fp%2F4kvgj%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F5496d9a9abbda2476e2aab2c3faa82d6b6841109%2F377_1068_3254_1952%2F3254.jpg>
+ Kate Daly, co-founder of amicable. Photograph: amicable 
+Grown from experience
+
+It was this potential for legal fees to rocket that prompted Kate Daly to come 
+up with the idea for amicable.
+
+
+“Our app is based on a bad experience I had with my own divorce which made me 
+realise there just has to be a better way of separating,” she says.
+
+
+“Everything about going down the legal route from the start encourages 
+conflict. If someone goes to a lawyer, and that’s how the other party hears 
+their relationship is over, people immediately dig their heels in and that gets 
+worse when there’s an auditor’s forensic approach to what they own and how it’s 
+going to be split. We go for a more conciliatory approach which encourages 
+someone to help their partner understand that the relationship is over, so they 
+can come to terms with it and reach the same stage before they decide on next 
+steps.”
+
+
+Focus on co-parenting
+
+This follows the approach of a relationship breakdown conciliation service, 
+Family Change, which Daly set up after her divorce. It helped people 
+communicate face to face where the main priority was working towards being 
+effective co-parents.
+
+
+The idea for amicable was born while Daly was chatting with her friend, Pip 
+Wilson, who had recently left BlueFin Solutions, an IT consultancy she had 
+co-founded. Wilson was convinced the conciliatory approach could be built in to 
+an app.
+
+
+“There are three stages to divorce and the first two can be done at very low 
+cost if both parties are reasonable,” says Wilson.
+
+
+“We can help with the disclosure and arrangement stages. It’s basically a load 
+of admin that you don’t need to pay a lawyer a couple of hundred pounds an hour 
+to do. Even if one party ends up being completely unreasonable and the process 
+can’t be completed on the app but has to go to a lawyer in the early stages, 
+each partner can download their information from the app rather than pay for a 
+solicitor to begin the process from scratch.”
+
+
+Related: The startup that wants to replace letting agents 
+<https://www.theguardian.com/small-business-network/2016/apr/13/the-startup-that-wants-to-replace-letting-agents>
+
+The legal part
+
+With finances as well as living and parental issues to deal with, the app can 
+link up to a legal firm the developers have partnered with. This means couples 
+can formalise what they have agreed in a consent order – which needs to be in 
+place for the paperwork to go through court before a decree nissi and then 
+decree absolute can be obtained. The total legal cost, when using amicable’s 
+partners, is around £1,200.
+
+“The way things stand, the only way to complete the third part of divorce is 
+through a lawyer,” says Daly. “We offer guidance and a lawyer so couples simply 
+send the paperwork via the app to them. We’re hoping to get the fees reduced at 
+some stage but nearly half of the legal fees are court charges and so are 
+unavoidable, no matter what route you take.”
+
+
+Emotional support
+
+While amicable is not the only online service to offer divorces, its 
+co-founders claims it is the only app-based service containing all the 
+necessary legal information as well as the emotional support to help the 
+process go more smoothly.
+
+
+“The true lesson I learned working face to face with couples is that divorce 
+is presented as a legal issue but it’s actually an emotional problem with legal 
+implications,” says Daly.
+
+
+It is this experience in conciliation, as well as having co-founders with both 
+psychology and IT backgrounds, which makes amicable believe they can take on 
+what they describe as a “broken” legal system.
+
+The main challenge is whether people can be amicable while using the app: if 
+one side does not want to be reasonable the app is no use, although you can 
+still use it and download info up to the point either side wants to go to a 
+lawyer.
+
+
+After going live in September, amicable’s co-founders expect to spend the rest 
+of the year evaluating user responses before seeking venture capital backing. 
+They hope to fund a marketing drive and growth campaign next year, presenting a 
+viable alternative to paying a solicitor £200 or £300 an hour for something 
+that two reasonable people can do themselves.
+
+
+Sign up to become a member of the Guardian Small Business Network here 
+<https://register.theguardian.com/small-business/> for more advice, insight and 
+best practice direct to your inbox.

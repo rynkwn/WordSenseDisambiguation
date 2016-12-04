@@ -1,0 +1,85 @@
+
+"Through telehealth, it's not just the technology, it's the ability to 
+redesign the service," Andrew Lansley told theNHS Confederation's annual 
+conference <http://conference.nhsconfed.org/Pages/default.aspx> last week. The 
+health secretary also praised other methods for providing healthcare remotely, 
+including the 111 advice and out-of-hours services that are being extended 
+across England.
+
+Over the last few years, the Department of Health has run a large-scale test 
+of telehealth, the whole system demonstrator programme 
+<http://www.dh.gov.uk/health/2011/12/wsd-headline-findings/>, involving 6,200 
+patients in 238 GP practices in Cornwall 
+<http://www.cornwallandislesofscilly.nhs.uk/CornwallAndIslesOfScillyPCT/InformationForPatients/StayingHealthy/DirectorOfPublicHealthAnnualReport2010/HealthyAgeing/Telehealth.aspx>
+,Kent 
+<http://www.kent.gov.uk/adult_social_services/social_services_professionals/partnerships_and_projects/assistive_technologies.aspx>
+ and theLondon borough of Newham <http://www.newhamwsdtrial.org/telehealth/>. 
+It found benefits included a 20% cut in emergency admissions, a 14% reduction 
+in elective admissions, and savings that, if replicated nationwide, could reach 
+£1.2bn over five years. Astudy just published by the British Medical Journal 
+<http://www.bmj.com/content/344/bmj.e3874> reports that those with chronic 
+obstructive pulmonary disease, diabetes and heart failure who had access to 
+telehealth under the programme similarly had fewer hospital and emergency 
+admissions, as well as reduced mortality rates.
+
+But Lansley made it clear that on this, as with other things, it will be up to 
+localNHS <https://www.theguardian.com/society/nhs> organisations rather than 
+central government to bring in change: "I believe this leadership will come 
+from within the service, not be imposed from outside," he said in his keynote.
+
+A conference fringe session on telehealth heard from Dr Shahid Ali, a Bradford 
+GP who is providing exactly that kind of leadership. He has two monitors on his 
+desk: one for accessing software such as patient record systems, the other for 
+remote consultations, initially used with one care home in the surgery's patch. 
+"There was a 70% reduction in the number of visits we had to make to that care 
+home," he told the audience, while residents and managers loved it and doctors 
+saved a great deal of travelling time. "We have now expanded it to all the care 
+homes in the Bradford and Airedale area."
+
+Ali, who is also the NHS National Commissioning Board's 
+<http://www.commissioningboard.nhs.uk/> clinical lead for patients and the 
+information directorate, sees remote consultations as just one part of 
+reorganising general practice. His surgery has replaced clinics for individual 
+conditions with blue and red clinics, which give those attending 30 or 60 
+minutes respectively to discuss and set up self-care plans for all their health 
+conditions – many have several, and dealing with the patient makes more sense 
+than dealing with each of their conditions in separate sessions. Setting up 
+self-care empowers patients, Ali said: "They love it, they want to have the 
+responsibility to do that." They also visit their GPs and accident and 
+emergency less, saving a surgery with 10,000 patients £1.5m a year, he added, 
+freeing time for doctors and other staff to provide better care.
+
+The surgery has also found ways to make life easier for both doctors and 
+patients by sharing records electronically between GPs and consultants. "I have 
+known people who have died waiting for an appointment. That system needs to 
+change," said Ali. So the surgery shares records, allowing consultants to email 
+a provisional opinion within 24 hours. This either triggers an urgent 
+appointment, or reassures the patient that their condition can be managed in 
+the community. As a result, patients do not see the need to go to A&E in the 
+meantime, as they know they will get a swift response. "We will eventually 
+change completely to that way of working," said Ali.
+
+Ali said that technology will change medicine further, such as having 
+consultations via smartphones – a technology already being used by private 
+providerCircle Healthcare <http://www.circlepartnership.co.uk/> for internal 
+management. Its chief executive Ali Parsa showed a conference session an app 
+that cost £2,000 to develop and gives staff access to internal waiting time 
+data, which Parsa said has helped reduce these times to near zero.
+
+Ali said that it is time for the NHS to introduce substantial changes across 
+the country. "We've done enough pilots," he said. "I'm sick of pilots. We need 
+to scale this up." Clinical commissioning groups, which will take over primary 
+care next April, should lead the way, he believes.
+
+But he added a warning for those thinking that technology alone can solve NHS 
+problem, with his changes ranging from high-tech ones like remote 
+consultations, to low-tech ones such as the blue and red clinics. "This is not 
+about the technology," he said. "The technology is there to support us, to help 
+us move forward."
+
+SA Mathieson is a senior analyst for public sector market intelligence service 
+Kable <http://www.kable.co.uk>
+
+This article is published by Guardian Professional. Join the healthcare network
+ <http://reg.guardian.managemyaccount.co.uk/healthcare/start.php> to receive 
+regular emails and exclusive offers

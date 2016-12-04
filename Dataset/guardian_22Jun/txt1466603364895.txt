@@ -1,0 +1,31 @@
+
+Are you clever enough to be an MP? To find out, simply answer the following 
+question: if you toss a coin twice, what is the probability of getting two 
+heads? (I know we’re talking about MPs here, but you can assume that no 
+skulduggery is afoot and both coin tosses are fair.) The answer, when you are 
+ready, is below.
+
+Get it right? Perhaps you’re too smart to be an MP. A 2012 study conducted by 
+the Royal Statistical Society found that just 40% of MPs surveyed gave the 
+correct answer. Worryingly, 45% of MPs thought that the correct answer was 0.5 
+(ie 50% or evens) – ie the same as the probability of getting heads on a single 
+toss.
+
+Even more worryingly, most MPs seemed completely unaware of their own 
+ignorance, with around three-quarters of them saying that they “generally felt 
+confident when dealing with numbers”.
+
+Finally, if you did get the question right, then perhaps you would feel more 
+at home in the Conservative rather than the Labour party. Caution is needed 
+here, of course, as the survey was small and not necessarily representative; 
+but of the 41 Tory MPs surveyed, 22 (53%) got the correct answer, as opposed to 
+just 10 out of 44 Labour MPs (23%).
+
+Answer The probability of getting two heads is 0.25 (ie 25% – or 1 in 4). 
+Since you have a 0.5 chance of getting heads on a single toss, the probability 
+of getting two heads is 0.5 x 0.5.
+
+For a fully referenced version of this article, go to benambridge.com 
+<https://benambridge.wordpress.com/>. Fancy some more quizzes? Order Psy-Q by 
+Ben Ambridge (Profile Books, £8.99) or £6.99 frombookshop.theguardian.com 
+<https://bookshop.theguardian.com/catalog/product/view/id/305948/s/psy-q/>

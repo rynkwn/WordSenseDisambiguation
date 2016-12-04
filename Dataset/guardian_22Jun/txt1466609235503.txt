@@ -1,0 +1,6 @@
+ Desktop users can view a 3D version of this map 
+<http://apps.esriuk.com/app/TimPeake/3/wmt/view/d64115f341c54560bdf7582052818809/index.html>
+ by clicking on the 3D button.
+The interactive map has been created by Esri UK <http://www.esriuk.com/about>, 
+all photos sourced with permission fromESA <http://m.esa.int/ESA>/ Tim Peake’s 
+Flickr <https://www.flickr.com/photos/timpeake/> 

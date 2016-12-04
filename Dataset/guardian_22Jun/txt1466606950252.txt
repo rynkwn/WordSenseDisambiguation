@@ -1,0 +1,39 @@
+
+Sky has had its claim that it offers the fastest broadband speeds in the UK 
+shot down afterBT <https://www.theguardian.com/business/btgroup> lodged a 
+complaint with the advertising watchdog.
+
+The media group ran a press ad claiming it offered the fastest broadband 
+speeds in peak time, citing Ofcom research comparing it with rivals BT, Plusnet 
+and EE on a 38Mb connection.
+
+BT challenged the claim, arguing it was misleading because the research by 
+Ofcom was only on fixed-line performance, and did not include internet usage 
+over Wi-Fi, which is very common.
+
+Sky replied that the ad was not misleading as it included a caveat that the 
+claim was based purely on Ofcom’s report comparing fixed-line broadband, so 
+wider performance claims, such as those for Wi-Fi, were not necessary.
+
+The ASA said, while the claim was accurate in relation to the parameters of 
+the report, many people used Wi-Fi in their homes.
+
+Related: Miserden, the UK village with worse internet than Mount Everest 
+<https://www.theguardian.com/technology/shortcuts/2016/mar/06/miserden-cotswolds-village-worse-internet-mount-everest>
+
+“Consumers were likely to interpret ‘fastest peak-time speeds’ to mean the 
+speeds they would receive in the home environment, including when they were 
+using their devices wirelessly,” said the ASA.
+
+
+The ad made a reference to Sky’s Wi-Fi-enabled set-top box, which the ASA said 
+enhanced the impression the claim also referred to wireless internet speed, and 
+the caveat that it was based only fixed-line performance was only included in a 
+footnote.
+
+“Because the ad did not make clear that the ‘fastest peak time speeds’ claim 
+related to fixed-line broadband performance only, and therefore did not include 
+Wi-Fi performance, we concluded that the claim was misleading,” said the ASA. 
+“The ad must not appear again in its current form. We told Sky UK to ensure 
+that in future they made clear that speed claims related to fixed-line 
+performance only, if that was the case.”

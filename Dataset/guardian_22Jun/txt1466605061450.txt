@@ -1,0 +1,53 @@
+
+People who use adblockers when using the web could be some of the most 
+valuable people to show ads to, according to a new report.
+
+The report’s authors say people who block ads could generate more money for 
+publishers because they are likely to be tech savvy and in the “millennial” age 
+range that advertisers want to reach, are less likely to be bots (computers 
+posing as humans), and are likely to see fewer ads overall.
+
+The irony of the conclusion is not lost on the authors, but they claim 
+publishers can still make money from people who have chosen to block ads by 
+delivering “respectful advertising”.
+
+The report, published by the International News Media Association, says: 
+“Reaching the adblocking segment is a privilege that brands have never 
+experienced before. Adblockers interact with ads when they see them more than 
+standard web users – presumably because they see no other ads.
+
+“And those brands that are seen – with low volume, respectful ads – receive 
+more attention than the most garish and brazen formats have been able to 
+achieve when competing in the world before adblocking. For publishers, this 
+presents a counter-intuitive opportunity: adblockers can be leveraged as a 
+high-value segment that can be presented to premium brands with premium 
+advertising.”
+
+The report also warns that publishers should be wary of relying too heavily on 
+so-called “walled gardens” offered by tech companies such as Facebook and 
+Snapchat, which offer ways to provide content with ads that can’t currently be 
+blocked. It says that not only do these platforms gain a high degree of control 
+over the content, but they may also eventually be subject to adblocking 
+themselves.
+
+Related: Can publishers stop the ad blocking wave? 
+<http://www.theguardian.com/media/2015/sep/20/ad-blocking-threat-publishers-apple-ios9>
+
+Adblocking is one of a number of growing threats to online publishers that 
+rely on advertising. The practice has been on the rise in recent years, 
+particularly on desktops and laptops. However, growth in adblocking on mobile 
+devices, driven in part by Apple’sdecision to allow the practice in its Safari 
+web browser 
+<https://www.theguardian.com/technology/2015/sep/17/adblockers-ios-9-app-charts-peace>
+, is a growing concern as people switch to reading articles and other content 
+on their phones.
+
+PageFair, which sells services to publishers to measure and attempt to 
+counteract adblocking and contributed to the report, has estimated that total 
+lost revenue from adblocking grew from $5.8bn to $10.7bn between 2014 and 2015 
+in the US, $1.6bn to $3.6bn over the same period in the UK.
+
+The company also predicts the total lost revenue from ad blocking could 
+$41.4bn this year. However, the figures are an approximate calculation based on 
+total revenue and adblocking rates, meaning the real figures could be 
+significantly lower or higher.

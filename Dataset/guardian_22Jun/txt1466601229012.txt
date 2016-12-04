@@ -1,0 +1,102 @@
+
+One thing that is clear about the impending Teaching Excellence Framework 
+<http://www.theguardian.com/education/2015/nov/02/teaching-excellence-framework-university-tef-student-data-higher-education>
+ is that results from the National Students Survey will assume increasing 
+importance for universities. Indeed, it is being considered akey metric 
+<http://www.publications.parliament.uk/pa/cm201516/cmselect/cmbis/572/572.pdf#page=10>
+ of teaching success.
+
+It has been proposed that Tef results will determine which universities are 
+allowed toraise their fees 
+<http://www.theguardian.com/education/2015/nov/06/government-plan-to-allow-better-universities-to-raise-fees>
+ in line with inflation. It would make sense, then, for universities to focus 
+on a staff member’s ability to bring in high NSS scores when considering hiring 
+and promotion.
+
+
+What could be wrong with that, you might think? Well, lots of things. As many 
+have argued, student satisfaction scores are apoor guide 
+<http://www.npr.org/sections/ed/2014/09/26/345515451/student-course-%20evaluations-get-an-f>
+ to teaching quality. A recent study showed respondents making patently false 
+claims (“the instructor took roll at the beginning, middle, and end of every 
+class meeting”) and has even shown that some students don’tread the forms 
+<http://www.tandfonline.com/doi/full/10.1080/02602938.2015.1119801> properly. 
+
+Related: University reform is coming – get ready for another numbers game 
+<http://www.theguardian.com/higher-education-network/2015/nov/05/the-green-paper-is-coming-get-ready-for-another-numbers-game>
+
+So it seems that NSS scores cannot accurately track the quality of teaching. 
+But there is another problem: they are biased towards men.
+
+How do we know this? It can be difficult to draw firm conclusions about bias 
+from the actual evaluation scores, since there are so many confounding factors 
+such as subject matter, institution type, career stage of the lecturer. And the 
+data is gathered without the sorts of controls that robust empirical 
+investigations would use. Fortunately, there are studies that control for other 
+dimensions of difference, allowing us to see the difference that gender makes.
+
+Several recent studies 
+<https://www.insidehighered.com/news/2016/01/11/new-analysis-offers-more-evidence-against-student-evaluations-teaching)>
+ have shown that male lecturers consistently receive higher student evaluation 
+scores than female lecturers, even though there is no evidence that they are 
+more effective teachers (teaching effectiveness is generally measured here by 
+subsequent student performance). This holds true even when something objective 
+is measured like promptness of feedback.
+
+One study <http://link.springer.com/article/10.1007/s10755-014-9313-4> 
+compared student reactions to the very same online teacher, who posed as male 
+for some students and female for others. They received substantially better 
+scores when “male”. Anothershowed that  
+<http://psp.sagepub.com/content/26/11/1329.abstract>women were especially 
+likely to be negatively evaluated if they did not give high marks, or if they 
+communicated negative feedback. The latter is particularly troubling, since 
+communicating constructive criticism is a crucial part of students’ academic 
+development. A furtherstudy found 
+<http://%28http//psycnet.apa.org/psycinfo/1999-01257-001)> a similar effect for 
+race , so it would not be surprising if teaching evaluations also encoded race 
+bias. This would be very worrying when black women are alreadyvastly 
+under-represented <http://www.runnymedetrust.org/uploads/Aiming%20Higher.pdf> 
+in academia.
+
+Related: Female academics face huge sexist bias – no wonder there are so few 
+of them 
+<http://www.theguardian.com/lifeandstyle/womens-blog/2015/feb/13/female-academics-huge-sexist-bias-students>
+
+Are students deliberately discriminating on the basis of race or gender? 
+Almost certainly not. Psychological research over the last two decades has 
+brought to light the disturbing phenomenon ofimplicit bias  
+<http://kirwaninstitute.osu.edu/research/understanding-implicit-bias/>. 
+Research on implicit bias has shown us that we are often, outside of our 
+awareness and against our better judgment, influenced by the biases that are 
+prevalent in our culture.
+
+This can happen even if we are genuinely committed egalitarians, and even if 
+we are members of the group in question, for example, women students have shown 
+bias against women lecturers. Thesebiases 
+<http://paid.uci.edu/chairs%20retreat%20files/ArrwhdMtrls2008/Z%20Gender%20Schemas%20Dr%20Valian.pdf>
+ lead people to take women less seriously as authority figures, to judge women 
+more harshly if they are not nurturing, and to generally see men as more 
+competent. It is easy to see how this could lead to lower teaching evaluation 
+scores for women, especially women who give low marks or critical feedback.
+
+If the Tef takes the form currently anticipated, one that gives a leading role 
+to NSS scores, then we can expect to such scores rise in prominence.Student 
+evaluation scores would become an ever-more important part of performance 
+evaluations and promotion decisions. And this may hinder the career progress of 
+women who are excellent teachers. Giving heavy weight to such a defective 
+measure, rather than grappling with thecomplexities of teaching excellence 
+<https://www.heacademy.ac.uk/sites/default/files/resources/telr_final_acknowledgements.pdf>
+, could have damaging consequences.
+
+In short there is potential here for the Tef to create a situation where 
+universities favour those likely to get high NSS scores. And if current 
+research is right, that will be men. That’s not a recipe for good teaching. 
+It’s a recipe for discrimination.
+
+Join the higher education network 
+<http://preview.gutools.co.uk/higher-education-network#https://register.theguardian.com/higher-education/?CMP=dis_57>
+ for more comment, analysis and job opportunities, direct to your inbox. Follow 
+us on Twitter@gdnhighered <https://twitter.com/GdnHigherEd>. And if you have an 
+idea for a story, please read ourguidelines 
+<http://www.theguardian.com/higher-education-network/2015/oct/16/share-your-ideas-how-to-write-for-the-higher-education-network>
+ and email your pitch to us at highereducationnetwork@theguardian.com

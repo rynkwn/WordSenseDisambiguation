@@ -1,0 +1,86 @@
+
+Netflix has 76,897 unique ways 
+<http://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/>
+ to describe types of movies. By breaking down every single attribute 
+describing film and television content – narrative elements, moral aspect of 
+characters, romance quality, scariness – Netflix came up with personalised 
+genres that are specific to the point of ludicrous. By mixing all those 
+micro-genres with millions of users’ viewing habits, Netflix successfully 
+created popular television shows.
+
+If we apply this same micro- and human-centred approach to media planning, we 
+get media design. Netflix succeeded because it put its personalised genres at 
+the centre of its content universe. Brands will succeed if they put their 
+customers at the centre of their media.
+
+From a customer’s point of view, brands are valuable when they respond to 
+their motivations, barriers and goals. The most successful companies today, 
+such asUber <https://www.uber.com/>, Airbnb <https://www.airbnb.com/>, Spring 
+<https://www.shopspring.com/> or Farfetch 
+<http://www.farfetch.com/shopping/women/items.aspx>, are in the business of 
+being valuable to their customers. Spoiled by the service and experience they 
+were getting from these upstarts, consumers started to expect the same thing 
+from all other brands. Superior brand service and experience has since become a 
+given: it’s noticeable only when it’s missing.
+
+Related: Marketers should be hunting for a perfect product, not influencers 
+<https://www.theguardian.com/media-network/2016/feb/18/marketers-perfect-product-influencers-brands>
+
+Consumers today want brands to meet and exceed their expectations and to add 
+value to their lives, in a manner that’s not unlike the Japanese principle of
+motenashi 
+<http://www.fastcodesign.com/3048651/innovation-by-design/what-japanese-etiquette-can-tell-us-about-good-ux-design>
+: by being intuitive, effortless and flexible. To deliver on this expectation, 
+companies need to understand how their customers move through the service and 
+experience they provide, and to connect these steps into a customer journey. 
+They need to move away from their single-minded focus on individual 
+interactions between a customer and the brand and understand how these 
+interactions form a relationship. Motenashi-based media design allocates and 
+sequences investments across steps in this relationship that are most desirable 
+from the customer’s point of view and critical in their decision-making process.
+
+If 198 million <https://blog.pagefair.com/2015/ad-blocking-report/> active 
+adblock users around the world are any indication, today’s advertising fails to 
+play an important role in customers’ decision-making, other than to disturb it. 
+“Email used to be amazing. Banners used to be amazing. Now they are almost 
+irrelevant. That’s natural decay,”says Andrew Chen 
+<http://andrewchen.co/the-state-of-growth-hacking-guest-post/>, who is in 
+charge of growth at Uber. “You can’t focus on tactics, because eventually they 
+become useless. To really reap the benefits, you have to be at the bleeding 
+edge and do things that no one else is doing.”
+
+To do this, brands need to stay close to their customers, understand their 
+behaviour, detect the key touchpoints on their journey and deliver on an unmet 
+need or against an unrecognised barrier that exists.
+
+Hello Alfred <https://www.helloalfred.com/>, a home management system whose 
+purpose is “come home happy”, adopts a broader approach than traditional media 
+buying and planning offers. It combines the brand narrative, user experience 
+design and business analysis. In this, Hello Alfred is not alone: disruptive 
+businesses such asSpring <https://www.shopspring.com/> and AYR 
+<https://www.ayr.com/>, and established platforms such as Pinterest all 
+constantly seek to enhance their customers’ lives in a smart and targeted way.
+
+Media design starts from the entire service and experience that a brand 
+delivers, rather than from a single channel or device. Media mix is driven by 
+the architecture of the customer journey through this service and experience, 
+which links individual interactions in a way that creates new value for an end 
+customer. This value-adding journey becomes central to the way customers 
+experience a brand and its products. It becomes the key factor for brand’s 
+growth.
+
+Currently, campaign-centred media buys favour brand messages instead of 
+creating and delivering value. They funnel customers toward a transaction and 
+measure success through the volume of sales and awareness.
+
+It is hard to change this media planning rhythm. Brands are big and change is 
+expensive. But in the long run, the costliest thing imaginable may turn out to 
+be them focusing on media, not customers.
+
+To get weekly news analysis, job alerts and event notifications direct to your 
+inbox,sign up free for Media & Tech Network membership 
+<https://register.theguardian.com/media/>.
+
+All Guardian Media & Tech Network content is editorially independent except 
+for pieces labelled “Paid for by” – find out morehere 
+<http://www.theguardian.com/sponsored-content>.

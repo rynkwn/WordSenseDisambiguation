@@ -1,0 +1,117 @@
+
+Concern has been growing in the past decade about published scientific claims 
+that other laboratories can’t successfully replicate. Some of these studies are 
+pretty silly – for example, the claim that women’s political preferences change 
+by 20 percentage pointsdepending on the time of the month 
+<http://www.stat.columbia.edu/~gelman/research/published/bayes_management.pdf>. 
+Others were potentially useful but didn’t work out, like the one which says that
+holding your body in a “power pose” gives you a hormonal boost 
+<http://www.slate.com/articles/health_and_science/science/2016/01/amy_cuddy_s_power_pose_research_is_the_latest_example_of_scientific_overreach.html>
+.
+
+
+Related: Study delivers bleak verdict on validity of psychology experiment 
+results 
+<https://www.theguardian.com/science/2015/aug/27/study-delivers-bleak-verdict-on-validity-of-psychology-experiment-results>
+
+Then there are claims which may have policy relevance, such as the study that 
+saysearly childhood interventions could increase young adults’ earnings by 40% 
+<http://www.symposium-magazine.com/childhood-intervention-and-earnings/>. The 
+claim came from a longitudinal study which would require at least 20 years to 
+replicate, but, on the basis of statistics alone, we have good reason to be 
+sceptical about the findings.
+
+This replication problem has become a crisis in the sense that researchers, 
+ordinary citizens and policymakers no longer know what or whom to trust. Even 
+the most prestigious scientific journals are publishing papers that fail to 
+replicate and which, in retrospect, are simply ridiculous.
+
+One notorious example is a 2014 paper from the Proceedings of the National 
+Academy of Sciences (Pnas) 
+<http://andrewgelman.com/2016/04/02/himmicanes-and-hurricanes-update/>, 
+comparing the damage done by hurricanes with male or female names. The research 
+was based on historical data and so could not be replicated, but featured the 
+same sort of statistical errors that commonly appear in any work that fails the 
+replication test.
+
+And it’s not just journals that get sucked in. Some of our most trusted 
+explainers and interpreters of science have been fooled by work with fatal 
+statistical flaws. Science writer Malcolm Gladwell fell fora mathematician’s 
+claim to be able to predict divorces with 94% accuracy 
+<http://andrewgelman.com/2010/03/13/shooting_down_b/> and the Freakonomics team 
+fell for the erroneous claim thatbeautiful parents are more likely than 
+ordinary-looking parents to have female babies 
+<http://www.stat.columbia.edu/~gelman/research/published/power5r.pdf>. 
+
+Statistical errors are unfortunate but unavoidable. Science is open to all, 
+and we wouldn’t want strict gatekeeping even if it were possible. Speculative 
+(even completely misguided) work can still indirectly advance scientific 
+understanding. The problems come when entire fields are so shaky that outsiders 
+– and even insiders – don’t know what to believe. This is the replication 
+crisis, and we need to do something about it.
+
+The problems ​​come when entire fields are so shaky that outsiders​, even 
+insiders​,​ don’t know what to believe
+
+For starters, researchers need to stop making excuses and address attitudes 
+that are getting in the way of progress. By progress, I mean moving towards a 
+future where there are clearer links between research designs, data, analyses, 
+criticisms and replications. The goal is not the elimination of errors, but a 
+system with better feedback, so that dubious claims can be disputed and 
+discussed at the point of publication, not years later when the findings have 
+been used in news articles, TED talks, radio features and beyond.
+
+So what’s getting in the way? Sunk cost fallacy – the error of throwing good 
+money (or, in this case, scientific resources) after bad – certainly plays a 
+role.
+
+An example of this can be found in a recent New York Times op-ed by 
+psychologist Jay Van Bavel, entitledWhy Do So Many Studies Fail to Replicate 
+<http://www.nytimes.com/2016/05/29/opinion/sunday/why-do-so-many-studies-fail-to-replicate.html>
+?. Bavel doesn’t dodge the bad news that only 39 percent of the 100 
+psychological studies used had been successfully replicated – but he moves 
+quickly to the position that the studies failed to replicate because it was 
+difficult to recreate the exact conditions of the original.
+
+Context certainly matters, but we should also be aware that a lot of published 
+work is just noise. It’s always worth considering the possibility that a 
+published finding was real and that it failed to replicate because of changing 
+conditions, but that should not be the default assumption.
+
+It’s natural to want to spare the feelings and reputations of hardworking 
+researchers and it’s horrible to think that there could be hundreds of papers, 
+published in leading journals, that are nothing but dead ends. I can see the 
+appeal in trying to preserve some value in this mountain of published work. A 
+paper can be seriously flawed and fail to replicate but still contain valuable 
+insight. But our starting point has to be that any given finding can be 
+spurious.
+
+Related: Academics: you are going to fail, so learn how to do it better 
+<https://www.theguardian.com/higher-education-network/2015/nov/04/academics-you-are-going-to-fail-so-learn-how-to-do-it-better>
+
+Replications are often controlled, meaning that the researchers have chosen 
+their data selection and analysis rules ahead of time. But published findings 
+are almost always uncontrolled, meaning that researchers have degrees of 
+freedom to come up with statistically significant findings. When a 
+well-publicised study fails to replicate, this is typically consistent with a 
+model in which the first study was merely capitalising on chance.
+
+So how can we do better? As scientists, we have to recognise sunk cost 
+fallacy. We need to be willing to cut our losses and accept when a research 
+programme has not advanced, rather than grasping to explain variations that can 
+easily be understood as mere chance.
+
+Researchers should, of course, feel free to explore speculative routes. But we 
+must also accept that failure is an option.
+
+Professor Gelman <http://andrewgelman.com/> is giving the keynote lecture at 
+theESRC Research Methods Festival <http://www.ncrm.ac.uk/RMF2016/home.php>
+
+Join the higher education network 
+<http://preview.gutools.co.uk/higher-education-network#https://register.theguardian.com/higher-education/?CMP=dis_57>
+ for more comment, analysis and job opportunities, direct to your inbox. Follow 
+us on Twitter@gdnhighered <https://twitter.com/GdnHigherEd>. And if you have an 
+idea for a story, please read ourguidelines 
+<http://www.theguardian.com/higher-education-network/2015/oct/16/share-your-ideas-how-to-write-for-the-higher-education-network>
+ and email your pitch to us athighereducationnetwork@theguardian.com 
+<mailto:highereducationnetwork@theguardian.com>

@@ -1,0 +1,61 @@
+
+The publisher of the Sun and the Times is working with a smartphone data 
+security company that will monitor websites visited by “all staff” raising the 
+possibility that journalists will be monitored.
+
+News UK said it is working with British company Wandera 
+<https://www.wandera.com/>, which specialises in mobile data security and 
+management, to roll out an app to control staff phone costs. Journalists were 
+not expected to use the app, it said.
+
+However, an internal email sent to staff by the technical department at News UK
+ <http://www.theguardian.com/media/newsinternational> has raised concern among 
+employees, with some Sun journalists even trialling the app. The email, which 
+unveils a new mobile data monitoring system for “all staff”, said “all your 
+traffic will pass through Wandera, whether you use the mobile for business or 
+personal uses”.
+
+It continued: “The Wandera system will record every website address you visit 
+… and the volume of traffic to and from that website. Usage reports will be 
+provided to News UK.”
+
+News UK said there was nothing sinister about its use of Wandera and that it 
+was an effort to cut down on “exceptionally large” mobile bills that have been 
+run up by some staff using data-heavy streaming services such as YouTube, 
+Netflix, and catchup and live TV apps.
+
+Staff with company phones have enjoyed unlimited data packages.
+
+In January, the Daily Telegraph installed devices that monitored whether 
+people were at their desks, but removed them after it washeavily criticised by 
+the National Union of Journalists 
+<http://www.theguardian.com/media/2016/jan/11/daily-telegraph-to-withdraw-devices-monitoring-time-at-desk-after-criticism>
+ for carrying out “surveillance” on its staff.
+
+
+Last June, BBC News staff voiced concerns after they were told that the 
+corporationcould track their work mobile devices 
+<http://www.theguardian.com/media/2015/jun/15/bbc-news-staff-tracking-work-phones>
+ after it introduced a new technical feature.
+
+Under the new Wandera system staff affected will be limited to just 1Gb of 
+data per month with certain services “such as video and music streaming”, only 
+accessible when a user is connected to Wi-Fi. If a user runs over their monthly 
+allowance, mobile access will be limited to a list of services including phone 
+calls, social media applications such as Twitter and Facebook, maps, email and 
+“News UK websites and applications”.
+
+Journalists have received the email on the technical installation of Wandera, 
+and a number have installed it already as the email states it is a system for 
+“all” staff, but it is not understood to be for journalists on the Times and 
+Sunday Times.
+
+The app is understood to be aimed primarily at staff in corporate and 
+back-office roles. “Like most large companies, News UK has introduced a limit 
+to the amount of mobile data that can be used on company devices,” said a 
+spokeswoman for News UK. “Once the limit is reached, certain work-related sites 
+can still be accessed. Wi-Fi access remains unlimited and some staff are exempt 
+depending on their role.”
+
+News UK said the Wandera app was not being used in any way to track or monitor 
+staff but purely to cut down on mobile phone bills.

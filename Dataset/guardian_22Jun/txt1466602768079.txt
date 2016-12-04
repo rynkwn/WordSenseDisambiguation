@@ -1,0 +1,113 @@
+
+Cancer patients, healthy newborns, children losing education because of 
+malaria and adults dying of tuberculosis: they’re more than statistics and 
+spreadsheets. But to improve community health, collecting good data about these 
+and other populations is essential.
+
+
+“We have seen spectacular changes in developing countries. The numbers show 
+unprecedented progress,” says Dr Ties Boerma, director for health statistics 
+and information systems at the World Health Organization. He’s also the lead 
+author ofHealth in 2015: from MDGs to SDGs 
+<http://www.who.int/gho/publications/mdgs-sdgs/en/>, a comprehensive report 
+about trends in global health, from the launch of the United Nations’ 
+millennium development goals in 2000 to the conclusion of the UN’s sustainable 
+development goals, slated for 2030.
+
+According to the report, the number of HIV cases around the world has 
+decreased by 45% since 2000. Malaria prevalence decreased 37% between 2000 and 
+2015. The study also found a 53% reduction in child mortality rates and 44% 
+fewermaternal mortalities 
+<http://www.theguardian.com/global-development-professionals-network/2016/feb/02/11-ideas-to-improve-maternal-health-in-areas-of-conflict-and-extreme-poverty>
+ – women dying during pregnancy or childbirth, or up to six weeks after giving 
+birth – since 1990.
+
+Dr Boerma shed light on these heartening figures, noting: “What we have seen 
+in 15 years is more investment in health data collection – especially household 
+surveys. There was little progress until 2005, but then resources started 
+flowing, programs had more focus, there was much more progress.”
+
+Related: Vaccination reminder band tipped to boost global child inoculation 
+rates 
+<http://www.theguardian.com/global-development/2015/apr/10/vaccination-ankle-band-improving-inoculation-rates-children>
+
+With good data, resources can be targeted toward the most appropriate 
+projects. This will give countries the best chance of meeting the wide-ranging, 
+greatly ambitioussustainable development goal 
+<http://www.theguardian.com/global-development/ng-interactive/2015/jan/19/sustainable-development-goals-changing-world-17-steps-interactive>
+ No 3: to ensure healthy lives and promote wellbeing for everyone at all ages.
+
+But what constitutes good data, particularly at a regional or local level? Dr 
+Tanya Marchant points out that oversight can be a roadblock. “There is a maxim 
+that what gets measured gets done,” says the London School of Hygiene and 
+Tropical Medicine epidemiologist, whose research focuses on improving key 
+measurements to help improve maternal and newborn health in sub-Saharan Africa 
+and India.
+
+She adds that there’s a lack of focus on quality recordkeeping. “Data is 
+aggregated at [a] facility level without checks and balances or managers 
+scrutinizing the data,” Marchant says. That’s important information for 
+locations with the highest mortality rates, which may have the largest reliance 
+on overseas expertise – there might be systems to gather data, but no staff who 
+can analyze it.
+
+Marchant adds: “Policies are not always driven by evidence and data. Sometimes 
+they are driven by politics. In the context of scarce resources it is really 
+crucial that there is a more targeted use of finances. The only way to have 
+this more targeted use is if we can improve data for decisionmaking.”
+
+Knowing the numbers is not enough. Political commitment is also necessary. In 
+2000, Zambia’s government pledged to halve the country’s malaria mortality rate 
+by 2010. As described inMillions Saved: New Cases of Proven Success in Global 
+Health <http://millionssaved.cgdev.org/>, a collection of case studies 
+published by the Center for Global Development, Zambia succeeded by 
+implementing a formal, coordinated national malaria control program – one of 
+the largest such schemes in the world.
+
+The program involved a comprehensive range of strategies, like increased 
+funding, community participation and providing bed nets. Zambia was the first 
+country to set up a malaria indicator survey, which involved door-to-door 
+interviews and testing for and treating the disease. As a result, the country 
+could guide resource allocation and discover – and explain and treat – 
+increased rates of malaria in several provinces. From 2001 to 2010, these 
+interventions saved the lives of an estimated 33,000 children.
+
+Simple SMS or text messages also have improved public health, according to Dr 
+Alain Labrique, founder of theGlobal mHealth <http://www.jhumhealth.org/> 
+initiative at Johns Hopkins Bloomberg School of Public Health. “These messages 
+can optimize the work health workers do, leveraging the fact that so many 
+people own their own phones,” he says. “For instance, they can provide 
+reminders about antenatal visits or immunization.”
+
+Related: Can smartphone drug trials improve medical care? 
+<http://www.theguardian.com/lifeandstyle/2016/jan/27/smartphone-mobile-drug-trials-fda-pfizer-ctti-depression-us-health>
+
+Health workers’ own phones also can save valuable time and improve efficiency. 
+Labrique notes: “If you think about tracking an individual over her pregnancy, 
+or a child over the first five years, keeping paper-based records is 
+difficult.” With colleagues at Johns Hopkins and the social technology company 
+mPower, Labrique developedmCare 
+<https://www.changemakers.com/innovations4health/entries/mcare-enhancing-neonatal-survival-rural-south-asia>
+, a program that uses mobile phone and database technologies to improve 
+antenatal, postnatal and neonatal care in rural Bangladesh.
+
+The Bangladesh Ministry of Health is now scaling up mCare, which helps 
+systematize what frontline health workers need to work efficiently. It lets 
+them create lists of families and women for whom they are responsible, and 
+creates an organized care schedule.
+
+“It introduces a system into an area where there was a vacuum,” Labrique says. 
+“People had been falling through the cracks because they lived farther away 
+[from a health worker], or it wasn’t clear which health worker was responsible 
+for them.”
+
+Appropriate, reliable data can lead to improved use of both human and 
+financial resources. “With outbreaks such as Ebola and Zika, everyone is aware 
+that people need good data to make the right decisions,” Boerma says. 
+“Surveillance and data are where you start. Without that, the rest is 
+difficult.”
+
+It is important to know about resources, he adds. Data on where health workers 
+are, whether they have medicine, locations of labs and anything about available 
+money is often quite poor. Boerma says: “We need to have good planning so that 
+no one is left behind.”

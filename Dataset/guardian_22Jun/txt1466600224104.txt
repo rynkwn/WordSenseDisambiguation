@@ -1,0 +1,125 @@
+
+At the top of the list of frustrations media organisations share is the 
+accelerated pace of advertising revenue slipping through their fingers. Mary 
+Meeker’s latest internet trends report captures the story brilliantly in a 
+single slide:
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fgu.com%2Fp%2F4yx52%2Fsfb%23img-2&redirect_uri=http%3A%2F%2Fgu.com%2Fp%2F4yx52%2Fsfb%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F86a1241e80be06102cfb31ed6b270fa2c24ce2b7%2F19_248_1461_877%2F1461.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Publishers%20can%20challenge%20Google%20and%20Facebook%20if%20they%20form%20a%20network&url=http%3A%2F%2Fgu.com%2Fp%2F4yx52%2Fstw%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Publishers+can+challenge+Google+and+Facebook+if+they+form+a+network&url=http%3A%2F%2Fgu.com%2Fp%2F4yx52%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F86a1241e80be06102cfb31ed6b270fa2c24ce2b7%2F19_248_1461_877%2F1461.jpg>
+ Advertising revenue and growth rates (%) of Google v Facebook v others – US 
+2014-15. Photograph: Mary Meeker, KPCB 
+Strategies for shifting from analog to digital media models seem too little 
+too late already. Google andFacebook 
+<https://www.theguardian.com/technology/facebook> are having no problem 
+creating more ways to attract advertisers and more share of spend, over 75% of 
+it, while everyone else is struggling.
+
+Three major shifts in user behaviour are adding insult to injury: messaging is 
+replacing web browsers, mobile is replacing desktop, and the adoption of 
+adblockers continues apace.
+
+Media’s existential crisis is taking on new proportions. The old analog model 
+was already broken. Now the user reach and impression growth model is broken, 
+too.
+
+There are only two ways through this: retreat or collaborate.
+
+Many media companies have put up paywalls and cut resources. Some who were 
+resistant to that idea initially have run out of their own ideas and will 
+follow soon.
+
+If you are the director of a company your job is to keep it alive at all 
+costs. The retreat model might just keep you on the board for a while longer 
+and save your job. But good luck retaining talent if you plan to do that.
+
+People running media companies that care about succeeding as well as surviving 
+have an opportunity right now to do something that protects journalism and 
+media as a function of society in addition to protecting their jobs.
+
+The job won’t be easy. It’s going to require working together. For anyone 
+outside the media industry it may seem silly that more collaboration hasn’t 
+happened sooner. But there are some very good reasons for that.
+
+Within each media company there are three forces pushing in different 
+directions. Editors want to get the great story that changes the world. Sales 
+people want to do the deal that saves the company. And the tech teams want to 
+build the product that everyone uses.
+
+Then there are smaller forces sitting between those pillars operating 
+independently and putting demands on the core teams. Marketing wants everyone 
+to think about whether or not the thing they are doing is increasing the 
+customer base. Finance and IT departments want all the data in the company to 
+be centralised so they can see where the problems are and fix them. Product 
+teams want to win design awards so they breakthrough the noise of every other 
+digital media thing getting pushed out there.
+
+These smaller teams can’t do their jobs without some help of the other pieces 
+of the company and spend a lot of time in meetings trying to get prioritised 
+and fighting for resources.
+
+With so many divergent agendas within each media organisation, how can 
+competing media organisations possibly consider working together?
+
+Most can’t see the forest through the trees and have failed to recognise that 
+they are already optimised for the kinds of collaborative production and 
+networked distribution models that the internet is so good at enabling.
+
+Healthy networks typically have smaller individual teams fulfilling the needs 
+of their own agendas. Those teams both share and compete for resources. And the 
+work being produced adheres to known standards or at least common formats. It’s 
+happening in small ways across the industry already.
+
+The Panama Papers <http://www.theguardian.com/news/series/panama-papers> 
+investigation is now the best example of editorial collaboration we’ve seen 
+perhaps ever. The Washington Post offersa subscriber affiliate program 
+<http://www.niemanlab.org/2015/04/congratulations-toledo-blade-reader-on-your-subscription-to-the-washington-post/>
+ giving hundreds of local publishers the ability to offer access to Washington 
+Post paywall content to their subscribers.Premium ad network initiatives have 
+been deployed by the Guardian 
+<http://www.theguardian.com/gnm-press-office/2015/mar/18/worlds-leading-digital-publishers-launch-new-programmatic-advertising-alliance-pangaea>
+ in collaboration with other major news organisations such as the Financial 
+Times and CNN. And the tech community is very good about sharing code and using 
+open source licenses.
+
+But the occasional toe-dipping collaboration is not going to cut it any more. 
+The industry needs to embrace it as a core objective, a higher level purpose 
+rather than an alternative add-on to the current ways of working.
+
+To do this everyone in the others category on Mary Meeker’s slide needs to 
+create a meaningful network, a self-serve marketplace with clear means of 
+trade. The good news is that they already share something in common.
+
+Media organisations share a value system. They want to be relevant in people’s 
+lives. They want to matter. They want to have measurable impact.
+
+Sharing a common value system is the basis for uniting competing organisations 
+and even teams within complex organisations. Shared values enable bartering, 
+sensible transactions and even joint investments.
+
+The goal should be to form a unified market to compete with Google and 
+Facebook instead of a mess of companies subjected toGoogle 
+<https://www.theguardian.com/technology/google> and Facebook. This could raise 
+the advertising ceiling even higher, spreading proceeds across the market more 
+evenly, strengthening media as a whole.
+
+Related: From the Panama Papers to Facebook, cooperation is increasingly vital 
+<https://www.theguardian.com/media/2016/apr/10/panama-papers-co-operation-transparency-facebook>
+
+In the early 2000s many companies buried their heads in the sand hoping the 
+internet would go away. The timing of their demise was misjudged by pundits. 
+The storms passed, and they got a chance to try again.
+
+
+
+The retreat strategy in 2001 involved a reinvestment in analog-based business 
+models. There was plenty of life there to do interesting things. Today there 
+are no safety nets to fall back on.
+
+What’s exciting for those willing to think in terms of networks instead of 
+destinations is that the arrows on Mary Meeker’s slides are all pointing up and 
+to the right. There’s a massive advertising market that keeps getting bigger 
+and, as the newcomers keep demonstrating, there are new ways to capture pieces 
+of that market appearing every day.

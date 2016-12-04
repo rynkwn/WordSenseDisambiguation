@@ -1,0 +1,106 @@
+
+NowThis is built for distribution. It wears its costs lightly – small team, 
+little investment in capital-intensive technology, no legacy infrastructure – 
+and just under two years ago it effectively shut down its desktop presence. 
+“Homepage. Even the word sounds old,” is the message that greets visitors on a 
+page now intent on sending them elsewhere. Today, the short form videos NowThis 
+produces generate 1.6bn views per month on other people’s platforms. Revenue is 
+shared accordingly.
+
+Where once publishers used social media as a promotional tool to pull users 
+back to their own websites, now social networks and messaging apps have morphed 
+into content hosts – think Facebook Instant Articles, Snapchat Discover, Apple 
+News, LinkedIn Pulse, Google AMP and, even, Twitter Moments. “Where others saw 
+this trend as a threat, we saw it as an opportunity,” Athan Stephanopoulos, 
+president of NowThis told an audience at theReuters Tomorrow’s News 
+<https://www.facebook.com/ReutersUK/videos/vb.208314602512037/1246203175389836/?type=2&theater>
+ panel discussion in London earlier this month.
+
+This new model begs a few questions, not least about economic sustainability. 
+Speaking at the same event, the Guardian’s executive editor of digital Aron 
+Pilhofer said: “There is the world we wish existed and then there is the world 
+that exists. And the world that exists is one that is increasingly distributed 
+and disintermediated. We can either ignore that and pretend that we can create 
+a destination-oriented business as if it’s 1996 or we can engage with it.”
+
+It’s a pragmatic response from a legacy publisher. There are other questions 
+too, like how to rethink reader relationships on platforms owned and controlled 
+by others. These are platforms where established publishers compete with a 
+multitude of other sources (some good, some bad) invariably sharing the same or 
+similar content.
+
+“That’s a huge challenge,” acknowledged Nathalie Malinarich, mobile editor at 
+BBC News online. “When you look at yourFacebook 
+<https://www.theguardian.com/technology/facebook> feed, after half an hour 
+you’ve no idea where the news came from ... The key is to find your own voice 
+and to find your own stories.” For the BBC, establishing its own voice is about 
+impartiality and trust. “That’s a really important thing in an area of 
+distributed content. Who do you trust?”
+
+Echoing Malinarich, Google’s head of strategic news and publisher partnerships 
+Eero Korhonen contrasted the tacit trust a reader held for a newspaper with the 
+relationship a user now has with a data-driven social platform. “They forgave 
+the paper on the days it didn’t give them the news they wanted or didn’t 
+surprise them because on average the paper delivered,” Korhonen said. “The 
+algorithm doesn’t know which content to trust.”
+
+So how do you engender trust in an era of distributed content? For Malinarich 
+it’s about first principles and transparency. “When I talk about trust, I’m 
+talking about editorial standards,” she said. “You have trusted [the news 
+outlet] to have checked the story, that they are telling you what they know and 
+what they don’t know. [It’s also about] attribution – if you got it from 
+somewhere else, say so.”
+
+For Mark Challinor, president of the International News Media Association, 
+trust is about acknowledging that if future revenue models are predicated on 
+highly sought-after reader data, then “we need to convince users that in return 
+for giving information to us about themselves, we are going to give them a 
+quality service.”
+
+Similarly for NowThis, trust is about a contract with the user to deliver 
+relevant, interesting and entertaining content. “When somebody likes your page 
+they are essentially giving you authority to enter their news feed. So you have 
+a certain level of responsibility,” Stephanopoulos told the Reuters audience.
+
+And what about an algorithmic solution? The Trust Project 
+<http://www.thetrustproject.org/>, set up with initial funding from Craigslist 
+founder Craig Newmark, is hoping that technology “can bake the evidence of 
+trustworthy reporting – accuracy, transparency and inclusion – plainly into 
+news practices, tools and platforms.” When the project shared an initial set of 
+practical tactics, academic and author Jeff Jarvis jumped in witha series of 
+technology-led proposals of his own 
+<https://medium.com/whither-news/building-trust-in-news-e85cfc07321f#.gbzsz9c02>
+. His suggestions included rigorous citations through links, prioritising 
+original work over rehashes and a corrections service that follows the reader. 
+The idea is to create a series of signals that can help determine the rigour 
+behind the story telling.
+
+Jarvis created his wishlist in late 2014. Even though he was writing at a time 
+before social distribution became the norm, many of his suggestions remain 
+appropriate today. But perhaps some don’t. It’s doubtful, for example, that 
+citations through links maps with attempts by Facebook et al to build something 
+that resembles the AOL and Yahoo!-style walled gardens of 1990s. The hyperlink, 
+unfortunately, appears incompatible with the grand plan of social distribution.
+
+Content curation – combining data-driven filtering with human intervention – 
+might be another route to create trust in, and ensure the provenance of, the 
+journalism that gets most widely seen. But even this,as Facebook discovered 
+last month 
+<https://www.theguardian.com/technology/2016/may/09/facebook-newsfeed-censor-conservative-news>
+, is not without its risks. After all, social platforms might have technology 
+baked in but they don’t yet have editorial standards, processes and instinct 
+built in.
+
+Jon Bernstein is an independent digital media consultant, editor and writer, 
+formerly deputy editor, then digital director of New Statesman and multimedia 
+editor at Channel 4 News. He tweets@jon_bernstein 
+<https://twitter.com/Jon_Bernstein>
+
+To get weekly news analysis, job alerts and event notifications direct to your 
+inbox,sign up free for Media & Tech Network membership 
+<https://register.theguardian.com/media/>.
+
+
+All Guardian Media & Tech Network content is editorially independent except 
+for pieces labelled “Paid for by” – find out morehere 
+<http://www.theguardian.com/sponsored-content>.

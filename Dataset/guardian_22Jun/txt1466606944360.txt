@@ -1,0 +1,156 @@
+
+Let’s run a quick test of your native advertising nous. 
+
+A brand has commissioned some content that looks like deep and engaging 
+editorial for a news site.
+
+There are striking images, compelling copy, embedded video and an interactive 
+quiz at the end where readers can put their new found knowledge to the test.
+
+Imagine something a little like the Netflix-Wall Street Journal collaboration, 
+Cocaineomics <http://www.wsj.com/ad/cocainenomics>, or the Netflix-New York 
+Times pieceWomen Inmates 
+<http://paidpost.nytimes.com/netflix/women-inmates-separate-but-not-equal.html#.VW2LRM9Viko>
+.
+
+Your job is to tell the reader this is pay-to-play content rather than 
+journalism.
+
+First decision: what words do you use in the disclosure label?
+
+Second decision: where do you put that label?
+
+When it comes to words, “advert” seems to underplay the depth and quality of 
+the content. This is hardly a screaming “Buy Now” display ad.
+
+So “sponsored content”?
+
+“Presented by”?
+
+“Brand Voice” or “Brand Publisher”? 
+
+You’re right to be wary, bearing in mind the Advertising Standards Authority’s 
+recent adjudications againstBuzzFeed 
+<http://www.theguardian.com/media/2016/jan/13/buzzfeed-breaks-uk-ad-rules-over-misleading-advertorial>
+ and theTelegraph 
+<http://www.theguardian.com/media/2015/dec/30/telegraph-criticised-asa-watchdog-michelin-advertorial>
+ over insufficient disclosure.
+
+There is no industry standard; instead a taxonomical mess to describe the 
+various species of paid-for content depending on the depth of the commercial 
+partners’ involvement and control over the final product.
+
+In the spirit of transparency over who is paying for content – and what degree 
+of control they are buying – the Guardian has publishedits glossary of terms 
+<https://www.theguardian.com/info/2016/jan/25/content-funding>. 
+
+As for position of the label, the odds are that you would head straight to the 
+top of the page, probably just above the headline.
+
+It’s a decision that fits the advice on native advertising from the UK’s 
+Committees of Advertising Practice 
+<https://www.cap.org.uk/News-reports/Media-Centre/2016/Insight-Putting-the-ad-in-native-advertising.aspx#.VrTNTViLTDd>
+ and theUS Federal Trade Commission 
+<https://www.ftc.gov/tips-advice/business-center/guidance/native-advertising-guide-businesses>
+ (FTC).
+
+But new research from the University of Georgia 
+<http://www.tandfonline.com/doi/full/10.1080/00913367.2015.1115380#.VrTYgViLTDc>
+ underlines how confusing the language around native advertising is to 
+consumers – and how the conventional “top of the page” approach to disclosure 
+placement may be wrong.
+
+Bartosz Wojdynski and Nathaniel Evans of the university’s Grady College of 
+Journalism and Mass Communication ran two tests with a panel of 242 consumers.
+
+Working with sample native ads of 500 to 600 words, the first test looked at 
+disclosure language, the second at placement.
+
+Wojdynski and Evans found that readers were seven times more likely to 
+identify articles as paid-for content when labelled “advertising” or “sponsored 
+content” than when badged “brand voice” or “presented by.”
+
+Eye-tracking software in the second test revealed that only 40% of readers 
+looked at a disclosure label at the top of the page, 90% when it was in the 
+middle of the page, 60% when it was at the bottom.
+
+Mid-page? The test included disclosure text “in an outlined box after the 
+fifth paragraph of the story”.
+
+Is this evidence that the mid-bar of the long-established “F-shaped” online 
+reading pattern 
+<https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/> was 
+getting deeper attention than a quickly skimmed top line?
+
+Some creatives will no doubt fear that mid-page disclosure bears the risk of 
+interrupting the ad’s narrative flow or compromising user experience.
+
+Indeed, in its response to the latest FTC guidance on native ads in December, 
+the Interactive Adverting Bureau (IAB) warned that rules needed to be “
+technically feasible, creatively relevant, and not stifle innovation 
+<http://www.iab.com/news/iab-concerned-about-ftc-guidance-on-native-advertising/>
+.”
+
+Dr Wojdynski said some news organisations – for example the LA Times and 
+Chicago Tribune – were doing a better job than others in using language that 
+made the paid nature of native advertising clear to readers.
+
+As for prominence and positioning, he added: “I’m not sure there is any major 
+publisher that deserves an A grade or first-class mark in this area.
+
+“If the goal is to minimise the likelihood that a consumer will miss the 
+label, publishers need to do a better job of putting these labels in places 
+where readers’ eyes will go. That means not at the top of the page with the 
+banner and navigation, and not in the right rail, where consumers are used to 
+seeing display ads.”
+
+Dr Evans added that the combination of what a disclosure label said, where it 
+was positioned on the page and when it was read had a strong bearing on reader 
+sentiment towards the content and the advertiser.
+
+“For example, disclosing the content as advertising after the consumer has 
+already digested it may help them identify the content as advertising but might 
+not be all that effective in mitigating negative sentiment toward the content 
+or advertiser because they may feel deceived,” he said.
+
+“In that regard, finding the appropriate time/location/language to help the 
+consumer see and understand that it is advertising may afford them the 
+opportunity to process the content with the knowledge that it is an ad. We 
+believe that advertisers would benefit from being transparent in this vein, and 
+furthermore, such an approach could end up being good for business in the long 
+run.”
+
+So is a rethink about guidance to advertisers, agencies and media houses on 
+both sides of the Atlantic necessary?
+
+“Bottom line: a one-size regulatory approach in the context of native is not 
+going to achieve its potential until we have sufficient information concerning 
+how consumers process and understand a variety of native executions,” Dr Evans 
+said.
+
+“So, I expect to see in the near future commissioned and independent research 
+that examines the effects of different disclosure characteristics across 
+different native advertising executions and formats.”
+
+But if best practice still needs to be established, the basic principle is 
+clear: tell the truth about content simply and clearly.
+
+As Guy Parker, chief executive of the Advertising Standards Authority (ASA), 
+wrote in January 
+<https://www.asa.org.uk/News-resources/Media-Centre/2016/Opinion-piece-Hidden-ads-risk-killing-native-not-the-ASA.aspx#.VrSLmViLTDc>
+: “Blurring advertising and editorial is prohibited by our rules and by the law.
+
+“And it’s that blurring that risks killing native advertising, not ASA rulings 
+that insist on unambiguously clear disclosure.”
+
+Paul Hill is an award-winning journalist, content consultant and former 
+content director ofFurther <https://www.further.co.uk/>. You can follow him 
+@paulhill_biz <https://twitter.com/paulhill_biz>
+
+To get weekly news analysis, job alerts and event notifications direct to your 
+inbox,sign up free for Media & Tech Network membership 
+<https://register.theguardian.com/media/>.
+
+All Guardian Media & Tech Network content is editorially independent except 
+for pieces labelled “Paid for by” – find out morehere 
+<http://www.theguardian.com/sponsored-content>.

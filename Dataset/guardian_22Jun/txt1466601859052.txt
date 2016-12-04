@@ -1,0 +1,61 @@
+
+In his PMQs debut, the chancellor, George Osborne 
+<http://www.theguardian.com/politics/georgeosborne>, said the UK is home to 1% 
+of the world’s population, has 4% of world GDP, but has 7% of global welfare 
+spend.
+
+As my colleague Andrew Sparrow pointed out 
+<http://www.theguardian.com/politics/live/2015/jun/17/labour-deputy-leadership-nominations-close-at-noon-politics-live#block-558163e4e4b05c5f91d258b5>
+, the quote is most probably the British version of one of German chancellor 
+Angela Merkel’s favourite sayings, which goes: “Europe has 7% of the world’s 
+population, 25% of its wealth, 50% of its welfare spending.”
+
+Is it true? 
+
+The first two claims are simple to verify – the UK is in fact home to nearly 
+1% of the world’s population and comprises just under 4% of global GDP.
+
+As with Merkel’s claim, verifying Osborne’s welfare spending figure is more 
+complicated.
+
+Last year the excellent FullFact checked the German chancellor’s claim 
+<https://fullfact.org/factchecks/europe_half_world_welfare_spending-29324>. So, 
+assuming the UK Treasury has simply adapted those same numbers, based on them, 
+theUK’s social protection spending is 7.4% of the world’s total 
+<http://fullfact.org/sites/fullfact.org/files/SPspending_Data_20140116.xlsx>, 
+according to World Bank data.
+
+Is that the whole story? 
+
+As FullFact notes, the “world total” in the World Bank report is comprised of 
+96 countries, and does not include several large economies, such as Canada and 
+Mexico (wheresocial expenditure accounts for about 17% and 8% of each country’s 
+GDP <https://stats.oecd.org/Index.aspx?DataSetCode=SOCX_AGG>).
+
+It is therefore likely that a true world total would lower Britain’s 
+proportion – albeit not enough to make Osborne’s claim false – and probably 
+explains the chancellor’s rounding down to 7%.
+
+It is also worth noting that the UK’s global share is in line with comparable 
+economies, such as Germany (12.56% of world total), France (9.92%) and Italy 
+(6.84%). Even as a percentage of GDP,Britain’s social spending is on a par with 
+the OECD average 
+<http://ftalphaville.ft.com/2014/11/27/2053392/welfare-spending-across-the-oecd/>
+ and other advanced economies.
+
+A second area of possible confusion when looking at all this is how welfare 
+spending is actually defined, and then compared between countries.
+
+Total social protection spending 
+<http://unstats.un.org/unsd/cr/registry/regcst.asp?Cl=4&Lg=1> (which is the 
+definition used in the World Bank report) in the UK amounts to about £250bn a 
+year (36% of its public spending),according to FullFact 
+<https://fullfact.org/economy/welfare_budget_public_spending-29886>. It 
+includes what is paid out in benefits, pensions and tax credits, but also the 
+cost to administer all these and the cost of personal social services, such as 
+social care for the elderly.
+
+A narrower definition of welfare, say, the amount paid out for benefits and 
+pensions, amounts to £183bn (26% of public spending). On top of that, £30bn is 
+paid out in tax credits each year by HMRC.
+

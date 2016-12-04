@@ -1,0 +1,128 @@
+
+Cities have a huge waste problem. Levels are expected to more than double 
+<http://www.ibm.com/smarterplanet/global/files/us__en_us__cities__14_navigant_research.pdf>
+ (pdf) over the next 20 years in low and middle income countries as the 
+population increases towards an estimated 8.6 billion by 2030.
+
+Ecube Labs is one of a handful of startups trying to tackle the issue through 
+technology. Based inSouth Korea <https://www.theguardian.com/world/south-korea>
+, the company produces solar-powered, smart waste bins which allow cities to 
+monitor the levels of rubbish in each bin. The tech also compacts the waste. It 
+has established some 2,500 smart waste networks at cities, campuses, amusement 
+parks and restaurants worldwide, and expects to double the number by the end of 
+the year.
+
+Waste technology is not usually top of the list when it comes to smart city 
+infrastructure; energy, transportation or water tend to get more attention. But 
+the market isgrowing 
+<http://www.ibm.com/smarterplanet/global/files/us__en_us__cities__14_navigant_research.pdf>
+ (pdf), with smart urban waste solutions estimated to help process more than 
+40% of all urban waste worldwide.
+
+While most of the growing industry’s focus is on Europe and the US, Ecube Labs 
+says it wants to prove that Latin America is full of potential and is piloting 
+schemes inColombia <https://www.theguardian.com/world/colombia>. “When we talk 
+to investors and even [the] media, they always have this misconception that our 
+solutions are only for rich countries,” says Roger Kim, Ecube Labs’s executive 
+director. “We tried to prove people wrong.”
+
+Several Latin American cities such as Bogota, Buenos Aires, Mexico City and 
+Santiago are already adopting digital tracking of waste collection trucks, says 
+Juan Alfredo Rihm Silva, water and sanitation specialist at the 
+Washington-based Inter-American Development Bank (IADB). “Latin America is 
+becoming more environmentally aware and tech-savvier,” he says.
+
+
+Colombia’s quasi-governmental organisation Interaseo, in charge of the 
+country’s waste management, wanted to solve the problem of overflowing bins in 
+busy areas where bigger bins couldn’t necessarily fit, Kim says.
+
+In 2015 Ecube Labs equipped two cities, Ibague and Santa Marta, with smart 
+waste networks using 130 of its Clean Cubes – sleekly designed bins fitted with 
+compactors and fill sensors that report when the bin is ready to be picked up – 
+as well as a Wi-Fi hotspot and an LED ad screen, all powered by a solar panel.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fgu.com%2Fp%2F4ktgb%2Fsfb%23img-2&redirect_uri=http%3A%2F%2Fgu.com%2Fp%2F4ktgb%2Fsfb%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fdf3413ba23c9869ec28ef85407d10bb6bd460011%2F0_0_3264_2448%2Fmaster%2F3264.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Internet%20of%20bins%3A%20smart%2C%20solar%20powered%20trashcans%20in%20Colombian%20cities&url=http%3A%2F%2Fgu.com%2Fp%2F4ktgb%2Fstw%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Internet+of+bins%3A+smart%2C+solar+powered+trashcans+in+Colombian+cities&url=http%3A%2F%2Fgu.com%2Fp%2F4ktgb%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fdf3413ba23c9869ec28ef85407d10bb6bd460011%2F0_0_3264_2448%2Fmaster%2F3264.jpg>
+ The Clean Cube smart bin Photograph: Ecube Labs 
+However, to scale in emerging markets such as Colombia, Ecube Labs understood 
+it would have to bring the prices down. That meant finding a solution which 
+didn’t involve replacing a city’s entire existing infrastructure with its 
+$2,000-$3,000 (£1,400-£2,000) Clean Cube smart bins.
+
+It adapted its technology to focus on a cheaper way of providing the most 
+important element: the data. That culminated in the Clean Cap, a fist-sized 
+sensor with a 10-year battery life that can be fastened to a city’s existing 
+bins of all sizes. Debuted in late 2014, the Clean Cap has been distributed in 
+Europe, the Middle East, Asia, North America and Mexico, and Ecube Labs aims to 
+use it to give more options to Latin American cities.
+
+Appeal of smart bins
+
+Cities like the smart system because drivers don’t have to waste time checking 
+on empty bins. This reduces the hours they work and can lower waste management 
+operational costs by 80% percent, according to Ecube Labs.
+
+The network can be accessed on an app by drivers or management in an office. 
+On top of sensing how full the bins are, the software predicts when the bins 
+will be full and provides recommendations for driver shift changes, route 
+alterations, optimal bin sizes and other ways to enhance operations.
+
+
+While rivals like US-based Bigbelly and Finnish startup Enevo also handle 
+smart waste systems, Ecube Labs believes the customisability of both its 
+hardware and software is its edge in a growing market. For example, Kim says, 
+Interaseo chose the Clean Cube because it could fit the city’s existing bins. 
+“If you want to solve the waste issue … you have to accommodate the city, you 
+have to customise the solution,” Kim says.
+
+But there is a limit to how much the smart waste industry can grow, which is 
+the point when technology development outpaces market adoption.Waste 
+<https://www.theguardian.com/environment/waste> management chiefs, Kim says, 
+are typically resistant to investing in new methods.
+
+
+Top-down decision-making process for financing waste management projects means 
+people at the top must endorse it, says Kim. Meanwhile, the management often 
+faces resistance from the collectors on the ground, who may fear for their jobs 
+or simply refuse to take advice from a faceless app.
+
+
+During training sessions in Korea, when asked to only collect the bins when 
+they are 90% full or higher, collectors still collected when they were less 
+than 50% filled, Kim said, adding that it took six months on average to 
+convince workers to use the solution effectively.
+
+
+Related: Why China's waste pickers are a better alternative to incineration 
+<https://www.theguardian.com/sustainable-business/2015/may/26/why-chinas-waste-pickers-are-a-better-alternative-to-incineration>
+
+“The problem with the top-to-bottom type of approach is that even if we prove 
+the effectiveness of the solution ... the cities need [endorsement] from the 
+collectors themselves,” Kim says.
+
+
+This hasn’t stalled interest in Ecube Labs’s technology. The company has had 
+expressions of interest from cities in Mexico, Chile and Brazil, where it is 
+working on arranging pilot projects with the Clean Cap for mass market 
+deployment.
+
+While acknowledging the potential of smart waste solutions in the region, 
+IADB’s Rihm Silva warns of possible negative social effects. “For example, in 
+some cities in the region,informal recyclers 
+<http://www.iadb.org/en/topics/solid-waste/bringing-informal-recyclers-into-the-formal-system,3837.html>
+ work by extracting valuable recyclables straight from the street’s collection 
+bins – sometimes even forcing themselves into the bins,” he says. “The addition 
+of compaction technology to bins would have a social impact in this case, which 
+would need to be considered and mitigated.”
+
+Eric Woods, research director at Navigant Research, believes there is a strong 
+desire in Latin America to address urban infrastructure and service issues. 
+“There is a good potential [for smart waste systems] as Latin American cities 
+adopt new technologies to address the long-term underinvestment in city 
+infrastructure and services,” he says, adding that Ecube Labs’s 
+easy-deployment, low-maintenance approach works well in Latin America, where 
+there is even more need to be pragmatic and show quick wins.

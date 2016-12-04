@@ -1,0 +1,119 @@
+
+During recent elections across Africa 
+<https://www.theguardian.com/world/africa>, new technologies have been 
+harnessed to help monitor elected officials, bolster democracies and liberate 
+election information.
+
+
+These efforts form part of a growing awareness of the value of data which, 
+until now, has too often been locked away by governments.
+
+Disputed results in Kenya and Burkina Faso have led to outbreaks of 
+post-election violence in recent years. In response, the 2015 elections in 
+Burkina Faso saw the governmentembrace open real-time election data 
+<http://www.theguardian.com/news/datablog/2015/dec/04/why-data-was-crucial-to-burkina-fasos-first-election-since-uprising>
+ while civil society groups helped reassure citizens of the veracity of the 
+polls through transparency. Similar groups played acrucial role 
+<http://www.buzzfeed.com/jinamoore/these-are-the-people-tracking-what-to-believe-about-nigerias#.ioLee7kQ4>
+ in last year’s lauded peaceful presidential election in Nigeria, andother 
+countries <https://twitter.com/ZEIC_2016> are now looking to adopt this 
+successful “situation room” model to allay fears of vote tampering.
+
+Related: Democrats v autocrats in Africa: is there a winning formula? – podcast
+ 
+<http://www.theguardian.com/global-development/audio/2016/feb/25/democrats-autocrats-africa-winning-formula-uganda-podcast>
+
+Following violence in Kenya, my team at Code for Africa 
+<https://www.facebook.com/CodeForAfrica> created Got To Vote 
+<http://gottovote.cc/>, an open source toolkit which let anyone send “peace 
+messages” as well as finding out via SMS if they could vote and where their 
+nearest polling centre was. This toolkit has since been used in Ghana, Zimbabwe 
+andMalawi <http://gottovote.malawivote2014.org/> during their 2014 vote, 
+helping 300,000 locals 
+<http://ijnet.org/en/blog/data-journalism-platform-evolves-voter-registration-system-malawi>
+ verify their registration status andshowing the value 
+<https://www.youtube.com/watch?v=hUdCVzxCt_o> of making data simple and easy to 
+interact with.
+
+Publishing government data can lead to unexpected consequences too, as Uganda 
+discovered this month when the electoral commissionreleased 
+<http://www.ec.or.ug/?q=content%2Fregistration-statistics> nationwide voter 
+counts which helpeddata-savvy 
+<https://medium.com/@enamara/exposing-voter-register-discrepancies-a-few-days-to-uganda-s-presidential-and-parliamentary-72ebe94263aa#.r41jh7ts9>
+locals 
+<http://tmsruge.com/ugandadecides-breaking-down-the-eligible-voter-count/> find 
+an estimated 20,000 “ghost voters” on the register.
+
+Monitoring politicians’ promises using the Centre for Democracy and Development
+ <http://www.cddwestafrica.org/>’s Buharimeter <http://www.buharimeter.ng/> in 
+Nigeria and MIT’s mobile-basedPromise Tracker <http://promisetracker.org/> in 
+Brazil helps when outrageous commitments are made during election campaigns and 
+quickly forgotten by candidates. The media have often done their first 100-day 
+report cards but these projects aim to monitor achievements – or 
+underachievements – across whole tenures.
+
+The Parliamentary Monitoring Group <https://pmg.org.za/> in South Africa and 
+Parliament Watch <http://parliamentwatch.ug/> in Uganda do hugely valuable work 
+in this area, helping to makedocuments public <http://www.pa.org.za/> and more 
+easily accessible so that citizens are aware of politicians’ work and the 
+legislative process.
+
+The efforts to free this kind of information received global backing last year 
+with increased data availability and transparency being baked into theUN’s 
+sustainable development goals <https://sustainabledevelopment.un.org/sdgs> that 
+were signed in New York in September. But there are still huge hurdles to 
+overcome on the ground, from poor data quality to resistant governments to 
+technological illiteracy about publishing or releasing data online.
+
+Related: Same tech, different result as states use internet to empower and 
+control 
+<http://www.theguardian.com/global-development/2016/feb/24/technology-states-internet-empower-control-world-bank-digital-divide>
+
+To help these efforts, Code for Africa looks for opportunities where data can 
+urgently be made more useful, reliable or actionable for citizens using simple 
+technology solutions. Whether it’s unlocking the value ofcensus data 
+<http://wazimap.org>, exposing unlicensed <http://health.saharareporters.com/> 
+doctors <http://health.the-star.co.ke/> or connecting the dots 
+<http://sa.connectedafrica.org/> between politicians and big business, we build 
+tools and provide media training to make sure data is used and not just left 
+gathering dust.
+
+And with many of these tools freely available for reuse via developer site 
+Github fromCode for Africa <https://github.com/CodeForAfrica>, the Sunlight 
+Foundation <https://github.com/sunlightlabs/>, Open Knowledge 
+<https://github.com/okfn>, DemocracyWorks <https://github.com/democracyworks>, 
+mySociety <https://github.com/mysociety> or Democracy Club 
+<https://github.com/DemocracyClub/>, the pace of adoption of data-driven tools 
+should only accelerate.
+
+Unfortunately, there are worrying counter trends stifling some of these 
+efforts and making it ever more difficult to carry out work with official data. 
+From the spread of laws that make itdifficult 
+<http://www.icnl.org/research/monitor/ethiopia.html> for NGOs 
+<http://www.voanews.com/content/uganda-ngo-bill/3104064.html> to operate 
+<http://www.theguardian.com/global-development/2015/may/14/south-sudan-aid-agency-law-risks-catastrophe-warn-ngos>
+ orscrutinise official data 
+<http://www.theeastafrican.co.ke/news/Tanzania-passes-new-draconian-data-law/-/2558/2667678/-/11ywry9z/-/index.html>
+ to increasinggovernment 
+<http://www.theguardian.com/global-development/2015/jul/08/tanzania-laws-curb-free-speech-social-media-jamii-forums>
+surveillance 
+<http://qz.com/525946/african-governments-are-stepping-up-surveillance-of-their-own-people/>
+ of their citizens’ internet and mobile activity, some governments are cracking 
+down ever harder on their citizens, the media and civil society.
+
+Digital tools have their limits. Globally, 4 billion people lack internet 
+access, according to the World Bank’s latestworld development report 
+<http://www.worldbank.org/en/news/press-release/2016/01/13/digital-technologies-huge-development-potential-remains-out-of-sight-for-the-four-billion-who-lack-internet-access>
+. But mobile connectivity rates are rising sharply and such tools can be used 
+by news organisations to tell stories that better inform their offline 
+audiences across print, radio or SMS, creating more of an impact.
+
+It is only through the increased awareness and use of data that the value and 
+purpose of information can be unlocked to the benefit of society as a whole. As 
+the then-Tanzanian president Jakaya Kikwetesaid 
+<https://www.youtube.com/watch?v=zec29_L8LjE> at the first Africa open data 
+conference <http://www.africaopendata.net/>, data “makes change possible”. The 
+question is, do governments want to change?
+
+ * This article was corrected on 18 April 2016. Buharimeter is an initiative 
+of the Centre for Democracy and Development, not BudgIT.

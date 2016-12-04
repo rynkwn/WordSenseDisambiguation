@@ -1,0 +1,133 @@
+
+Under the new Sustainable Development Goals 
+<http://www.theguardian.com/global-development/2015/jan/19/sustainable-development-goals-united-nations>
+, 193 countries have pledged to deliver water for all by 2030. With the UN 
+recently publishing a list of indicators to evaluate progress, now is the time 
+for the business sector to step up and contribute.
+
+Why should companies care about water?
+
+Data from the US space agency Nasa 
+<http://www.nasa.gov/jpl/grace/study-third-of-big-groundwater-basins-in-distress>
+ reveals that 13 of the world’s 37 most important groundwater basins are being 
+depleted far faster than they can be recharged.
+
+This has a major impact on business, say water experts. Agriculture accounts 
+for <http://www.fao.org/nr/water/aquastat/infographics/Withdrawal_eng.pdf> 69% 
+of global water use, with industry claiming a further 19%. At an operational 
+level, water scarcity pushes up water rates, as is happening indrought-hit 
+California <http://www.myladwp.com/2016_2020_rate_request>. Water is a 
+potentially toxic brand issue too. Take Coca-Cola, whose image has come in for 
+criticism for itsalleged over-use of groundwater 
+<https://www.theguardian.com/environment/2014/jun/18/indian-officals-coca-cola-plant-water-mehdiganj>
+ in various Indian bottling plants.
+
+Related: Nestlé lawsuit claims food and beverage giant is illegally bottling 
+California water 
+<http://www.theguardian.com/sustainable-business/2015/oct/13/nestle-california-drought-bottled-water-permit-forest>
+
+Are companies setting water targets? 
+
+Despite a string of widely reported droughts 
+<https://www.theguardian.com/environment/2015/mar/08/how-water-shortages-lead-food-crises-conflicts>
+ in recent years, the private sector still generally treats water as though it 
+were an abundant resource. Don’t underestimate companies’ sheer ignorance about 
+their own water use either. “A lot of businesses have no idea how much water 
+they consume nor where that water comes from, where it goes or what their 
+exposure to water-related risks are,” says Morgan Jones, an associate director 
+at the Carbon Trust, which has developed its ownwater certification system 
+<https://www.carbontrust.com/client-services/footprinting/footprint-certification/carbon-trust-water-standard/>
+.
+
+The ones that do know are setting a variety of targets. SAB Miller aims 
+<http://www.sabmiller.com/sustainability/resilient-water-supplies> to use three 
+litres of water per litre of beer (it currently uses 3.3 litres). Swiss food 
+giant Nestlé says it will reduce the water consumption in all its European 
+production sites by40% by 2020 
+<http://www.nestle.com/media/newsandfeatures/europe-water-commitment> (compared 
+to 2010 levels), while Coca-Cola has pledged more opaquely to “replenish 
+<http://www.coca-colacompany.com/stories/collaborating-to-replenish-the-water-we-use/>
+” all the water it uses.
+
+Do corporate water targets make sense?
+
+Unlike carbon dioxide, where a tonne of emissions has more or less the same 
+impact on the atmosphere wherever it occurs, the effects of water consumption 
+are highly localised. When and where water is used matters. How a maize-farmer 
+consumes groundwater indrought-hit Mozambique 
+<http://www.theguardian.com/global-development/2016/feb/17/mozambique-drought-hopes-harvest-evaporate>
+ has different implications to, say, how a water utility company draws from an 
+aquifer during the dry season.
+
+When companies think of their water “footprint”, most have in mind the gallons 
+they use in their factories, stores or offices. But that accounts for only a 
+small part of the picture. What about the water that went into growing the 
+cotton for the T-shirts a manufacturer stitches and sells? Or the vast 
+quantities of water that go into washing those same T-shirts?
+
+“However efficient you are within the four-walls of your operation, if the 
+water basin you depend on is mismanaged then your business will still be at 
+risk,” says Jason Morrison, head of theCEO Water Mandate 
+<http://ceowatermandate.org/>.
+
+What would meaningful water targets look like? 
+
+Targets must respond to where a company’s main impact lies. Cate Lamb, head of 
+the water programme at CDP, an investor-led data transparency organisation, 
+cites the example of a chemical company that sets tough reduction targets for 
+its water use but says nothing about water quality or contamination.
+
+The targets need to be genuinely ambitious. US retailer Target 
+<https://corporate.target.com/corporate-responsibility/goals-reporting>, 
+car-makerFord 
+<http://corporate.ford.com/microsites/sustainability-report-2014-15/environment-water.html>
+ and beverage giantCoca-Cola 
+<http://www.theguardian.com/sustainable-business/2015/aug/25/coca-cola-replenish-water-goals-early-watersheds>
+ are among those to have announced the early achievement of their water goals. 
+According to Lamb, 98% of the large companies submitting data to CDP last year 
+claim to be on track with their internal water targets. It’s difficult to shake 
+off the sense that the bar is being set way too low.
+
+Related: The madness of drinking bottled water shipped halfway round the world 
+<http://www.theguardian.com/sustainable-business/2015/jul/09/bottled-water-shipped-halfway-round--world-madness>
+
+They also need to be locally specific. So argues Paul Reig, a water specialist 
+at the World Resources Institute (WRI), a US non-profit: “They [corporate 
+commitments] must account for the unique watershed and aquifer conditions at 
+each location across a value chain, from raw material sourcing to manufacturing 
+and consumer product use.”
+
+Any global industry using raw resources, for instance, is potentially 
+affecting hundreds of individual watersheds. One way of simplifying the 
+challenge is to identify water “hot spots” and prioritise actions there, an 
+approach adopted byAnheuser-Busch InBev 
+<http://www.ab-inbev.com/social-responsibility/environment/water-use.html>, for 
+instance. The Belgium-based brewer requires all its operations in 
+water-stressed regions to set up or join watershed management initiatives.
+
+
+Is there any sign of change? 
+
+Some initial industry standards are beginning to emerge around water 
+efficiency, withISO 14046 
+<http://www.bsigroup.com/en-IN/ISO-14046-Water-footprint/> perhaps the best 
+known. Experts are also debating measurement methodologies on forums such as the
+Water Footprinting Network <http://waterfootprint.org/en/>. Talk of “
+science-based targets 
+<http://www.theguardian.com/sustainable-business/2015/sep/03/diageo-results-drinks-multinational-sustainability-targets-corporate-commitments>
+”, already widespread in the carbon debate, is beginning to gain momentum, too. 
+Groups such as WRI are currently pushing hard to force the topic up the water 
+policy agenda.
+
+Accurate information about individual watersheds is imperative to local water 
+management efforts. In much of the world, such hydrological data simply doesn’t 
+yet exist. TheMurray-Darling Basin 
+<http://www.mdba.gov.au/publications/maps-spatial-data> in south-eastern 
+Australia provides a stellar example of how government action can correct this. 
+Companies can contribute too. In California, for instance,US food giant General 
+Mills 
+<http://www.generalmills.com/en/News/NewsReleases/Library/2016/March/global-water-stewardship/4cc3b208-9024-47c1-8d10-2a2d461791f2>
+ is working with various environmental charities to map hydrological conditions 
+in the Los Angeles River and San Joaquin River watersheds.
+
+

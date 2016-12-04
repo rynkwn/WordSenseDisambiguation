@@ -1,0 +1,97 @@
+
+Benjamin Schmidt, an assistant professor at Northeastern University, has 
+created an online tool <http://benschmidt.org/profGender/> that allows users to 
+compare the frequency of particular words in evaluations of male and female 
+professors. Schmidt created the interactive chart using data from 14 million 
+student reviews on the website RateMyProfessors.com. The results are striking.
+
+We already know that performance evaluations can reveal serious gender bias, 
+whether deliberate or unconscious 
+<http://www.theguardian.com/lifeandstyle/womens-blog/2014/oct/03/when-will-we-stop-calling-successful-women-abrasive>
+, and that women and men can be judged very differently for exhibiting similar 
+behaviour. Where a man is seen as assertive, decisive or passionate, a woman 
+risks accusations of being shrill, overbearing or hysterical; a phenomenon that 
+can have a particularly negative impact for women in the workplace. But this 
+new data seems to suggest that the problem starts earlier, and is already in 
+full effect during higher education.
+
+There is something almost hypnotic about typing search terms into Schmidt’s 
+tool and watching the coloured dots swim from one side of the chart to the 
+other, splitting themselves repeatedly along gender lines. The more terms you 
+can think of, the more the tool reiterates (most) societal stereotypes. Try 
+switching from “funny” to “annoying”, for example, and watch the dots zoom 
+towards opposite sides of the screen.
+
+Reviews of male professors are more likely to include the words “brilliant”, 
+“intelligent” or “smart”, and far more likely to contain the word “genius”. 
+Meanwhile, women are more likely to be described as “mean”, “harsh”, “unfair” 
+or “strict”, and a lot more likely to be called “annoying”.
+
+Immediately recognisable societal stereotypes emerge – the words 
+“disorganized” or “unorganized” [sic] come up much more frequently in women’s 
+evaluations, while men are far more likely to be described as “cool” or 
+“funny”, with one of the widest gender splits of all on the word “hilarious”.
+Women <http://www.theguardian.com/lifeandstyle/women> are more commonly called 
+“nice” or “helpful”, but men are more often described as “good”.
+
+There is a silver lining here – while the results certainly reinforce gender 
+stereotypes about intelligence and personality, there is less focus on female 
+professors’ looks than one might anticipate. The search term “hot” reveals 
+completely mixed results, and, though it is used rarely, the word “sexy” is 
+more likely to appear in evaluations of male rather than female teachers. The 
+battle isn’t entirely won, however, as “beautiful” does crop up for female 
+teachers, albeit far more rarely than other descriptors such as “good” or 
+“funny”.
+
+As Schmidt himself points out 
+<http://benschmidt.org/2015/02/06/rate-my-professor/>, the reliability of the 
+data is limited – these are online reviews rather than official student 
+feedback; it’s not possible to break down the results by the sex of the 
+reviewer; and, of course, there is room for error in making assumptions about 
+the sentiment of a sentence containing any given word.
+
+But this can be mitigated in part by Schmidt’s tool, which allows users to see 
+the frequency of each word (with higher frequency results likely to be more 
+reliable), and to filter for results from only positive or negative 
+evaluations. The findings are also backed up by other studies, one of which 
+surveyed college students’ feedback 
+<https://news.ncsu.edu/2014/12/macnell-gender-2014/> about online course 
+professors and found that the ratings were higher in every category when 
+students were told the professor was male.
+
+The strength of this unconscious bias is quite astonishing – even for a 
+relatively objective measure such as promptness, students rated a “female” 
+professor 3.55 out of 5 and a “male” professor 4.35, despite the fact that they 
+handed work back at the same time.
+
+The implications are serious. In the competitive world of academia, student 
+evaluations are often used as a tool in the process of hiring and promotion. 
+That the evaluations may be biased against female professors is particularly 
+problematic in light of existing gender imbalance, particularly at the highest 
+echelons of academia.According to the American Association of University 
+Professors 
+<http://www.aaup.org/NR/rdonlyres/33D4FF44-CEF5-45F7-8845-00E5D40525BB/0/Tab11.pdf>
+, in 2012, 62% of men in academia in the US were tenured compared to only 44% 
+of women, while women were far more likely to be in non-tenure track positions 
+than men (32% of women in academia compared to just 19% of men).
+
+Meanwhile, statistics obtained in 2013 by Times Higher Education revealed that 
+only about one in five UK professors are female 
+<http://www.timeshighereducation.co.uk/features/92-of-professors-are-women/146594.article>
+, with the percentage of female professors at some universities as low as 8 or 
+9%.Data from the non-profit organisation Catalyst 
+<http://www.catalyst.org/knowledge/women-academia> suggests that the imbalance 
+persists internationally, too.
+
+Set alongside the unconscious bias of academic recruiters themselves 
+<http://www.pnas.org/content/109/41/16474.abstract>, as well as the difficulty 
+of juggling parenthood with the demands of research 
+<http://www.timeshighereducation.co.uk/story.aspx?storyCode=2015507>, the 
+apparent sexism in student evaluations provides yet another hurdle for women in 
+academia.
+
+It is interesting to consider these results in the context of a wave of 
+troubling recent reports about sexism and misogyny on campus 
+<http://www.independent.co.uk/student/news/universities-must-unite-to-beat-lad-culture-sexism-on-campus-claims-nus-9734198.html>
+. Perhaps it will be difficult to tackle biased and sexist appraisals of female 
+professors until the wider issue of student sexism is also seriously confronted.

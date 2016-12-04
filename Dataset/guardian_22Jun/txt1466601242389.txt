@@ -1,0 +1,120 @@
+
+How should research travel from the notebooks, hard drives and laboratories of 
+researchers to the desks of their peers? Who should get access? And who should 
+pay?
+
+Related: Boycotting academic publishers is a career risk for young scientists 
+<http://www.theguardian.com/higher-education-network/blog/2014/jan/29/boycott-academic-journals-early-career-researchers>
+
+Over the past few years, these deceptively simple questions have been beset 
+with controversy. Librarians at some of the world’s wealthiest institutions have
+announced that they can no longer afford 
+<https://www.theguardian.com/science/2012/apr/24/harvard-university-journal-publishers-prices>
+ to purchase the materials their researchers need. Leading academics have 
+organisedboycotts 
+<https://www.theguardian.com/science/2012/apr/09/frustrated-blogpost-boycott-scientific-journals>
+,petitions <http://thecostofknowledge.com/> and mass resignations 
+<http://www.independent.co.uk/news/world/europe/lingua-entire-editorial-team-of-respected-linguistics-journal-resign-en-mass-in-turf-war-over-a6723036.html>
+ to protest the combination of prohibitively high prices and profit margins 
+that rival those of the big oil, pharmaceutical and technology firms. A recent 
+paper found that just five multinational publishing conglomeratesaccounted for 
+50% of all papers 
+<http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127502> 
+published in 2013.
+
+It may seem like an administrative afterthought, but the issue of how research 
+is communicated in society raises questions that cut to the heart of what 
+academics do, and what academia is about. The scale of the entanglement between 
+academic research and big publishers may well lead us to ask: who is serving 
+whom? Does our scholarly communication system put the needs of researchers 
+first? Or does it prioritise the uninterrupted profitability of a handful of 
+publishers?
+
+
+In response to this dilemma, researchers, institutions and policymakers have 
+been exploring different ways of making research available, and different ways 
+of paying for publishing. In the UK, new policies fromHefce 
+<http://www.hefce.ac.uk/rsrch/oa/Policy/> and Research Councils UK 
+<http://www.rcuk.ac.uk/research/openaccess/> have sought to widen access to the 
+public as well as to encourage a shift from paying at the point of access to 
+paying at the point of publishing – through so-called article processing 
+charges (or APCs). In principle, this would mean that rather than many 
+institutions repeatedly buying access to the same material, publishing is paid 
+for “up front” by the research community and thereafter free for all forever.
+
+
+But will these changes amount to a step towards a better deal, a fairer 
+system? To advance understanding of the effects of these changes, we have just 
+published apaper in the Open Library of Humanities 
+<http://doi.org/10.16995/olh.72> to begin to piece together financial flows 
+around academic publishing. However, the picture that we have been able to 
+obtain so far based on publicly available data is still woefully inadequate to 
+the task of being able to assess who pays for what, whether this is fair, and 
+what resources might potentially be available for financing alternative 
+arrangements (such as university-based presses or non-profit consortia).
+
+
+Related: How to get published in an academic journal: top tips from editors 
+<http://www.theguardian.com/education/2015/jan/03/how-to-get-published-in-an-academic-journal-top-tips-from-editors>
+
+What do we know so far? Thanks to hundreds of freedom of information requests 
+<http://f1000research.com/articles/3-274/v3>, we have a window into how higher 
+educational institutions spend more than £180m every year on journal 
+subscriptions. The lion’s share of this (just over 42%) goes tofour of the 
+largest publishers <https://dx.doi.org/10.6084/m9.figshare.1186832.v23>. Data 
+about article processing charges is much more difficult to get hold of. Thanks 
+to the valiant efforts of a few librarians and institutions we now havepartial 
+information 
+<https://figshare.com/collections/Open_financial_data_on_article_processing_charges_APCs_/2860717>
+ for a selection of institutions, but this is still only a very small part of 
+the picture. From what we can tell so far, the same big publishers who receive 
+most money from subscriptions also take home the most money from article 
+processing charges.
+
+Yet despite these fleeting glimpses we are still a long way from a useful 
+picture of how money flows through the academic publishing system, which could 
+be used to see the effects of recent policies, and fuel our collective 
+imagination about other ways in which scholarly communication could be 
+organised. We still can’t account for half of the £180m a year spent on journal 
+subscriptions. With respect to article processing charges, despite some 
+important steps, we are still largely in the dark. As institutions derive their 
+income from many different sources it is also hard to trace where this money 
+comes from.
+
+To address this, we need a public database of spending on academic publishing. 
+Having this information would not only help us to understand the current 
+system, but also to change it. Collective negotiation bodieshave been shown to 
+lead to better deals <http://dx.doi.org/10.1080/01462679.2014.935903> for 
+universities with publishers (though this is not always smooth going, as 
+evidenced by the recentnationally coordinated boycott of Elsevier 
+<https://universonline.nl/2015/07/02/dutch-universities-start-their-elsevier-boycott-plan>
+ by Dutch universities).
+
+Related: Twitter journal: would you share your original research on social 
+media? 
+<http://www.theguardian.com/higher-education-network/blog/2014/jan/27/twitter-only-journal-academic-research>
+
+As well as providing evidence to inform such negotiation processes, a more 
+joined-up picture of how money is spent would give institutions a better sense 
+of the resources available to invest in publishing initiatives and 
+infrastructures which prioritise the interests of researchers and their 
+publics, rather than the returns of shareholders.
+
+
+Hence we call on researchers, universities and public institutions to publish 
+what they pay and rethink what they are investing in, in order to expedite 
+progress towards a scholarly communication system that is fit for purpose in 
+the 21st century.
+
+Jonathan Gray is director of policy and research at Open Knowledge, and a 
+researcher at the University of London and the University of Amsterdam. Stuart 
+Lawson is a doctoral researcher at Birkbeck, University of London undertaking a 
+PhD in the politics of open access
+
+Join the higher education network 
+<http://preview.gutools.co.uk/higher-education-network#https://register.theguardian.com/higher-education/?CMP=dis_57>
+ for more comment, analysis and job opportunities, direct to your inbox. Follow 
+us on Twitter@gdnhighered <https://twitter.com/GdnHigherEd>. And if you have an 
+idea for a story, please read ourguidelines 
+<http://www.theguardian.com/higher-education-network/2015/oct/16/share-your-ideas-how-to-write-for-the-higher-education-network>
+ and email your pitch to us at highereducationnetwork@theguardian.com

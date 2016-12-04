@@ -1,0 +1,112 @@
+
+The practice of medicine can be hit-and-miss: however good a drug is, it is 
+unlikely to work well on everybody with that condition, whether it’s breast 
+cancer or depression. But new treatments are emerging that are more able to 
+respond to the particular characteristics a disease takes in an individual and 
+that may, in the next 10 to 20 years, transform the way people are treated.
+
+While we can’t say for certain what drugs will be on the market in the next 
+decade or so, basic research can provide some clues. In the treatment of 
+cancer, basic research is focused on targeted therapies – treatments directed 
+at the characteristics of a particular tumour, such as gene mutations or 
+particular proteins. Tommy Dolan, director of Pfizer’s research and development 
+site at Sandwich, says: “What we’re now seeing is things like ovarian cancer 
+getting segmented into many different types of disease, and what that’s allowed 
+us to do is target specific treatments with specific sub-segments of the cancer 
+population.”
+
+
+A lot of work is being carried out in the area of immunotherapeutic, or 
+biologic, drugs. Traditional chemotherapy works by killing cancer cells, but 
+also damages healthy cells. Immunotherapies, derived from the cells of living 
+organisms, help the body fight off the cancer itself. Ginny Acha, executive 
+director for research, medical and innovation at the Association of the British 
+Pharmaceutical Industry, says: “You’re getting your body to recognise that that 
+disease is a problem and let its own immune system deal with it.”
+
+
+Related: NHS green light for new ovarian cancer drug 
+<https://www.theguardian.com/society/2016/jan/27/nhs-green-light-for-new-ovarian-cancer-drug>
+
+Susan Galbraith, senior vice-president and head of the oncology innovative 
+medicines group at AstraZeneca, says that immunotherapies are already starting 
+to replace chemotherapy as the principal treatment in melanoma, and says that 
+data shows they may have the potential to be used in lung cancer.
+
+
+Galbraith is working on DNA damage response agents, which target enzymes that 
+repair damaged DNA. AstraZeneca’s drug Olaparib inhibits a protein involved in 
+DNA repair. “In cancer cells that have already got a loss of one of the repair 
+mechanisms, if you then inhibit a second repair mechanism, it means that the 
+cell gets so much damage that it can’t survive,” she says. “The other beauty of 
+this is that the remaining cells in the body have got the normal repair 
+mechanism still intact.”
+
+
+Olaparib acts against cancers in people who have the hereditary BRCA1 or BRCA2 
+gene mutations. While these are relatively rare, Galbraith says that about 40% 
+of patients with common cancers have a deficiency in a gene involved in DNA 
+repair, and so a drug such as Olaparib potentially has a much wider application.
+
+
+Biologic drugs are also breaking new ground in the treatment of diseases where 
+options have historically been limited. In autoimmune diseases such as 
+rheumatoid arthritis, they can inhibit the components of the immune system that 
+drive inflammation, a key feature of the disease.
+
+
+Treatment for asthma has advanced very little in the past half century – but 
+biologic drugs hold out hope here too. GSK’s new asthma drug, Nucala, is a 
+monoclonal antibody (which means that the drug uses copies of a single 
+antibody) that reduces lung inflammation in patients who have a high number of 
+eosinophils, a type of white blood cell.
+
+
+Paul-Peter Tak, senior vice president and head of immuno-inflammation R&D 
+(research and development) at GSK, explains: “It’s a form of personalised 
+medicine, which makes it much more attractive, because you can identify subsets 
+of patients who are more likely to respond to Nucala based on their eosinophils 
+count in their peripheral blood.” This type of treatment will become more 
+common, says Tak: “We are more and more focused on trying to change the course 
+of the disease rather than merely treating signs and symptoms.”
+
+
+Related: Cancer tumour genetics reveal possible treatment revolution 
+<https://www.theguardian.com/science/2016/mar/03/genetics-of-cancer-tumours-reveal-possible-treatment-revolution>
+
+The treatment of Alzheimer’s may also be on the verge of a breakthrough, as a 
+result of developments in immunotherapeutic drugs. Alzheimer’s is characterised 
+by the formation of amyloid plaques on the brain. John Hardy, professor of 
+neuroscience at University College London, says that anti-amyloid drugs, which 
+use antibodies to attack amyloids, are currently in phase 3 trials. Early stage 
+trials are also underway of non-biologic drugs that prevent amyloid formation. 
+“If any of those work, the field will feel that we have really turned the 
+corner,” he says.
+
+
+A greater understanding of genetics and the mapping of the human genome are 
+driving the development of drugs that can treat rare genetic diseases. “There 
+are about 7,000 rare diseases, and about 80% of those have a genetic component. 
+A significant number are monogenic, in other words there’s one gene displaced 
+that causes you to have the condition,” says Dolan. If we can correct the 
+displacement of that single gene, he adds, then there is potential for a cure.
+
+
+Epigenetics – the science of why some genes are switched “on” or “off” – 
+provides another avenue for exploration, says Tak. Drug companies are now 
+looking at how to modify the epigenetic process in some diseases, particularly 
+auto-immune diseases.
+
+
+In the next decade or so, we can expect to see more medicines that are 
+precisely targeted and take into account genetic makeup, lifestyle and 
+epigenetic influences – as well as the nature of individual diseases. As Dolan 
+says: “There’s a much greater understanding of the molecular mechanisms and 
+pathways of disease and we’re still uncovering many secrets.”
+
+
+Join the Healthcare Professionals Network 
+<https://register.theguardian.com/healthcare-professionals/?CMP=dis-166> to 
+read more pieces like this. And follow us on Twitter (@GdnHealthcare 
+<https://twitter.com/GdnHealthcare>) to keep up with the latest healthcare news 
+and views.

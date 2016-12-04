@@ -1,0 +1,47 @@
+
+Closing time approaches, waiting staff collect plates littered with leftovers 
+and chefs sweep up spoiled ingredients. This routine, repeated in restaurants 
+across the developed world, means $80bn (£56bn) of food is wasted annually.
+
+London-based startup Winnow is tackling the problem with its smart meter for 
+food waste. Since opening in 2013, the business has saved its customers £2m and 
+reduced carbon emissions from the hospitality sector by 3,400 tonnes.
+
+Co-founder Marc Zornes, who researched food waste while working at business 
+consultants McKinsey, says research into energy efficiency in buildings and 
+cars attracts lots of money but there’s “hardly any investment into dealing 
+with the issue of food waste”.
+
+The Winnow system has a simple touch screen connected to waste bins that weigh 
+each item. Staff log everything they throw away – where it comes from (eg 
+peelings or leftovers), the food type (eg vegetable), and the specific product 
+(eg onion).
+
+Related: Doggy bags to pig feed: 10 things we learned about food waste 
+<https://www.theguardian.com/sustainable-business/2016/apr/15/pig-feed-to-doggy-bags-10-things-we-learned-about-food-waste>
+
+Thus kitchens can track where most waste is produced and make changes to 
+reduce this. A restaurant might reduce portions of frequently leftover dishes, 
+or a staff canteen might make smaller batches of often unfinished meals.
+
+For the first 12 months, Winnow was self-funded, with its co-founders (Zornes 
+and Kevin Duffy) sacrificing their salaries from their day jobs. In that time, 
+Winnow proved its tech could facilitate substantial savings.
+
+Recently collected anonymised data shows that waste can easily occur in food 
+production and that Winnow users can record a 25% reduction in waste in the 
+first month of use and 50%. The company says restaurants can ultimately cut 
+waste by 50% using its tech.
+
+The business’s profile has grown in the past 12 months and a seed funding 
+round closed with £600,000 last May. Swiftly following this was a series A 
+round, which closed in January and, in all, will have raised £2.5m.
+
+Winnow is the 2016 winner of the startup of the year category of the Guardian 
+Sustainable Business Awards 
+<http://www.theguardian.com/sustainable-business/2015/nov/11/guardian-sustainable-business-awards-2016-the-categories-and-awards-criteria>
+.
+
+ * This piece was amended on 27 May 2016 to clarify that carbon emissions were 
+reduced by 3,400 tonnes (not 34,000 tonnes) and that users can cut food waste 
+by 50% overall. 

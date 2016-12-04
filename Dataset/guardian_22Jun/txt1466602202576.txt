@@ -1,0 +1,97 @@
+
+It is “deeply regrettable” that thousands of couples who settled their 
+divorces in the past 20 months might have to reopen negotiations due to a
+software error revealed by the Guardian 
+<http://www.theguardian.com/law/2015/dec/17/revealed-divorce-software-error-to-hit-thousands-of-settlements>
+, Michael Gove has said.
+
+The justice secretary apologised to all those hit by faults with “Form E” on 
+his ministry’s website, which has been miscalculating assets since April 2014, 
+potentially inflating the financial worth of a spouse.
+
+
+Related: Revealed: divorce software error hits thousands of settlements 
+<http://www.theguardian.com/law/2015/dec/17/revealed-divorce-software-error-to-hit-thousands-of-settlements>
+
+The error was spotted earlier this month by a family law specialist, Nicola 
+Matheson-Durrant of theFamily Law Clinic 
+<http://www.familylawclinic.co.uk/contact-us.html> in Ascot, Berkshire. The 
+Ministry of Justice only publicly admitted to the problem on Thursday and has 
+published an email address –formE@hmcts.gsi.gov.uk 
+<mailto:formE@hmcts.gsi.gov.uk> – asking anyone who believes they have been 
+affected to contact the department.
+
+
+Speaking on the World at One on BBC Radio 4 on Friday, Gove said: “It is 
+deeply regrettable that a form was online since April 2014, which has meant … 
+up to 17,000 people may have had the allocation of resources, at what is an 
+inevitably stressful time in their life, miscalculated.”
+
+
+Gove offered his apologies to all those affected.
+
+One particular paragraph, numbered 2.20, which is supposed to produce totals, 
+fails to reflect the minus figure of final liabilities entered earlier on, 
+producing a simple mathematical error. If a party had significant debts or 
+liabilities, they were not recognised or recorded on the electronic form, 
+potentially inflating their true worth. Distorted net figures of applicants’ 
+assets were therefore being produced.
+
+Not all divorcing or separating couples use the online form – some prefer pen 
+and paper calculations – but the impact of the errors could be widespread.
+
+The discovery comes at a time when the senior judiciary and the justice 
+secretary are encouraging the development of online justice as a means of 
+improving courtroom efficiency and making further economies.
+
+Earlier this year an official report backed by the master of the rolls, Lord 
+Dyson, recommended that the UK civil justice system undergoa radical overhaul 
+for the digital age 
+<http://www.theguardian.com/law/2015/feb/16/online-court-proposed-to-resolve-claims-of-up-to-25000>
+, with the creation of an online court to expand access to justice and resolve 
+claims of up to £25,000.
+
+Those most likely to have been affected by the divorce form’s miscalculations 
+are litigants who could not afford to employ a lawyer and who had more modest 
+assets, where the disparity may have been less immediately noticeable.
+
+A number of recent divorcees who experienced difficulties with the form 
+contacted the Guardian. One man said he had emailed family justice officials in 
+August 2014 to point out the error but the MoJ response had not acknowledged 
+that there was a fault. He eventually printed out the form and entered correct 
+figures by hand.
+
+Another man, who wished to remain anonymous, said he noticed the calculations 
+left out debts or liabilities. He did not dispute it because, although a 
+“significant sum”, it was relatively small compared to other disputed assets. 
+He did not see the “workings” so assumed the solicitor had made a mistake in a 
+manual calculation.
+
+A third man, experienced in using spreadsheets, said he managed to overwrite 
+the electronic website, adding a note in red letters pointing out the error and 
+inserting corrected figures. “I realised it was throwing up false figures,” he 
+said.
+
+Jo Edwards, a solicitor who is chair of the family law organisation 
+Resolution, called for additional court costs incurred by divorced couples to 
+be paid by the government.
+
+“Some of the thousands of people potentially affected by the unfortunate Form 
+E error, many of them self-represented litigants, may need to return to the 
+courtroom to have their financial settlements renegotiated,” she said.
+
+“In these cases, I would expect any further court fees – £50 if agreement is 
+reached and a consent order lodged with the court, £255 if there is no 
+agreement and court proceedings need to be issued – to be waived, as the 
+additional court costs will be incurred through no fault of the applicant’s own.
+
+“However, it seems highly unlikely that the government will find itself liable 
+for lawyer’s fees in these reopened cases – such a sum would be unquantifiable 
+and place a huge strain on the public purse.”
+
+Another family law expert, Carmel Brown, from the firm Thomas Eggar, said: 
+“This error of the MoJ’s software is very basic but potentially catastrophic. 
+In particular, it could seriously affect those people with large liabilities, 
+including credit card debts, bank loans and tax liabilities, as the 
+miscalculation would produce a wrong and misleading picture of their wealth.”
+

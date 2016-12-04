@@ -1,0 +1,98 @@
+
+The announcement of £4.2bn in funding to move the NHS towards a digital, 
+“paper-free” future 
+<https://www.tsa-voice.org.uk/news/jeremy-hunt-outlines-paperless-nhs-plans-and-possible-technology-funding>
+ raises challenges and rekindles memories of past attempts.
+
+In fairness, the NHS <https://www.theguardian.com/society/nhs> gets less 
+credit than it should for its progress with technology. GP surgeries are 
+computerised, the health service has excellent technology for transferring data 
+around the country, digital imaging and online referrals, and the largest 
+secure email service in the world.
+
+But, with the National Programme for IT 
+<https://www.theguardian.com/society/2013/sep/18/nhs-records-system-10bn> still 
+casting a long shadow, many processes are stuck in the 1950s. Letters are still 
+sent between hospitals, GPs and social services. Many doctors still hand-write 
+test requests; people move paper records from ward to clinic to operating 
+theatre. Patients wait for doctors in beds and in clinics. Different 
+organisations work in silos and, while some have improved their processes and 
+IT, they don’t communicate electronically with each other. Imagining the future 
+when you are stuck in the past is difficult and the NHS will need support.
+
+Digital services can ensure the NHS continues providing world-leading 
+universal care
+
+Meanwhile, patients are becoming more digitally active and want to interact 
+with health services in the same way as other areas of their lives. More than 
+three-quarters of UK adults own a smartphone, with ownership among people 
+over-55s increasing by 40%-50% between 2013 and 2014. Some 75% of the 
+population go online for health information and there are more than 165,000 
+health apps – though few are linked to NHS IT systems.
+
+There are good examples of technology in the NHS. Mobile IT can cut 60% of 
+paperwork for community nurses, giving them 29% more patient time. Airedale NHS 
+trust found thatSkype consultations from care homes 
+<http://www.theguardian.com/healthcare-network/2012/jun/27/technology-can-transform-nhs>
+ led to 35% fewer hospital admissions, a 53% reduction in A&E use and 59% fewer 
+hospital bed days. But the NHS has struggled to repeat such successes across 
+different organisations.
+
+More digital interaction with patients and other organisations has huge scope 
+for improvement and savings. But for technology to work well, lessons should be 
+learned and the right people must be involved.
+
+Clinicians must own and lead the process. Digitising care is difficult because 
+medicine is complex and full of judgment and exploration. Clinicians must know 
+what’s on offer and what works for their environment, help develop their 
+organisation’s vision and work with colleagues and management to agree clinical 
+processes. Technology can, and should, enable this vision and professionals 
+need, and often want, to be at the forefront.
+
+We mustn’t underestimate the need to invest. Every £1 spent on technology 
+requires at least £1 to be spent on system transformation to ensure a safe and 
+effective transition.
+
+Nor will one size fit all. A system right for one hospital, or to link 
+several, won’t be right for another. It depends on the clinical vision. A large 
+teaching hospital – with academic links, specialist treatments and looking at 
+collaborating or merging with other organisations – will require a 
+comprehensive transformation programme assessing and improving patient pathways 
+and care plans, taking two or three years. But smaller organisations, offering 
+a narrower range of services, won’t need such complicated solutions.
+
+It’s no accident that some applications, like SAP and Oracle, are world 
+leaders used by thousands of organisations. They are standard, ubiquitous and 
+touch everything from finance, customers and inventories to staffing, 
+performance analytics and communication. New software can be complicated and 
+everyone in the organisation needs to be involved before it arrives, knowing 
+what to expect and how the ways they work will change.
+
+
+Related: Patients must drive a digital revolution in NHS 
+<https://www.theguardian.com/healthcare-network/2015/jan/13/patients-digital-revolution-nhs>
+
+As with all IT projects, things can change or go wrong. All sectors and all 
+countries know IT projects are risky and complicated, particularly in the 
+medical world. IT changes the way people work, people will want to change the 
+project and external factors evolve over time. So it’s vital there are people 
+involved who have done it before, can keep patients safe as clinicians learn 
+the new systems, will know what to expect and can fix things when they go wrong.
+
+
+As our Connected Health report 
+<http://www2.deloitte.com/uk/en/pages/life-sciences-and-healthcare/articles/connected-health.html>
+ illustrates, done correctly, digital services can ensure the NHS continues 
+providing world-leading universal care, overcoming financial challenges, 
+supporting advances in research and improving patient outcomes.
+
+There are inevitably risks, and 2020 is not far away, but the reward is a 
+cost-effective, 21st century healthcare service.
+
+Rebecca George is vice chair and public sector health lead for Deloitte UK
+
+Join the Healthcare Professionals Network 
+<https://register.theguardian.com/healthcare-professionals/?CMP=dis-166> to 
+read more pieces like this. And follow us on Twitter (@GdnHealthcare 
+<https://twitter.com/GdnHealthcare>) to keep up with the latest healthcare news 
+and views.

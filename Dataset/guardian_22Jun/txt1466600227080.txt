@@ -1,0 +1,95 @@
+
+When Mark Howells’ grandad’s health was declining, Howells became frustrated 
+with the lack of communication surrounding the care being received. His 
+grandfather had a number of chronic conditions including dementia and relied on 
+a network of professional care workers and family support, but the carers 
+didn’t have a holistic view of his day-to-day care. “We lacked even basic 
+real-time information about his wellbeing,” says Howells. “The effect of poor 
+communication was that small problems could quickly escalate into avoidable 
+crises.”
+
+ As a response to this, he co-founded Konnektis <http://www.konnektis.com/>, a 
+startup that’s embracing mobile technology to disrupt the sector and enable 
+care workers to make the shift to paperless communication.
+
+According to a recent study by the South East Health Technologies Alliance 
+<http://www.sehta.co.uk/wp-content/uploads/2016/02/The-SEHTA-TICH-Review.pdf> 
+(Sehta), one of the UK’s largest healthcare networking organisations, 
+technology has the potential to free up staff time to provide more 
+human-centric care and improve resident wellbeing. But it’s not a lack of 
+innovation that’s holding the care sector back, it’s a lack of uptake.
+
+A separate survey of 50 top care home groups, as reported by Nursing Times 
+<http://www.nursingtimes.net/roles/nurse-managers/exclusive-uk-care-home-sector-lagging-on-use-of-technology/7000119.fullarticle>
+, found that although 80% believed technology could improve their care 
+planning, only 32% used electronic records. Of those who didn’t, 45% cited cost 
+concerns as the key factor holding them back, while inadequate IT resources and 
+staff capacity was another worry.
+
+Konnektis is an easy-to-use platform (currently preparing for its hard launch) 
+for use on internet-enabled tablets. It aims to provide those giving care with 
+a complete picture of an elderly person’s needs – whether they are in a home or 
+live independently – and help manage all aspects effectively, from nutrition 
+and hydration to sleep. By storing information digitally, it can be mapped out, 
+creating algorithms that can highlight any missed support or clinical 
+interventions and enable quick action.
+
+“The real potential of digital systems is in creating views of data and user 
+journeys that bring the right information to the right person at the right 
+time,” says Nuno Almeida, founder ofNourish <http://www.nourishcare.co.uk/>, a 
+Dorset-based company that has built a similar system to Konnektis for 
+smartphones and tablets.
+
+“We have several examples of people who used to skip a service – refusing a 
+breakfast, for example – and because all the information about them is 
+structured in a person-centred way, the reasons for those services being 
+skipped become immediately obvious. This allows care providers to make changes 
+that result in clear improvements of the care they provide,” he says.
+
+Related: How social robots are dispelling myths and caring for humans 
+<https://www.theguardian.com/media-network/2016/may/09/robots-social-health-care-elderly-children>
+
+Although such technology can streamline day-to-day operations, both Almeida 
+and Howells agree that systems shouldn’t be designed for the clients paying for 
+the software. “At its core, the sector is about people,” says Howells. “While 
+technology can play an important role to enable real-time flows of information 
+between care networks, it will only be truly effective when it’s built with 
+users [in mind].”
+
+Konnektis has built the platform from the bottom up by spending time with care 
+workers, families and those receiving the care. Holly May Mahoney, chief design 
+officer at Konnektis, says that listening to all users, identifying their needs 
+and doing something about it is likely to encourage adoption of any technology, 
+as users feel more empowered when they’re part of the process.
+
+As well shifting away from paper records, the Sehta report identified smart 
+innovation, such as alerting devices, as a way to improve day-to-day operations 
+for care workers. Natalie Price is the creator of theProximity Button 
+<http://www.proximitycare.co.uk>, a wearable device that alerts carers whenever 
+a person with dementia is wandering. “My mum has cared for people with dementia 
+for more than 15 years, so I know how stressful it can be,” she says. “It can 
+involve a lot of long hours and unpaid overtime.”
+
+Wandering affects around 60% of people with dementia and results in many 
+accidents, some fatal. Price says the majority of products available are GPS 
+trackers that “often have monthly subscription costs, as well as the issue of 
+privacy, with many people believing it’s unethical to track a person’s 
+location. They also don’t prevent the problem before it happens.”
+
+The Proximity Button uses a bluetooth beacon and alerts the carer via a 
+smartphone app whenever the person wearing it, clipped onto their clothes, 
+moves a certain distance away from the phone.
+
+Price is aware that there’s no easy fix and says her product won’t solve the 
+problem altogether. But any technological solutions that make the lives of 
+carers easier, she adds, will mean less stress and more time spent on 
+delivering quality care.
+
+To get weekly news analysis, job alerts and event notifications direct to your 
+inbox,sign up free for Media & Tech Network membership 
+<https://register.theguardian.com/media/>.
+
+
+All Guardian Media & Tech Network content is editorially independent except 
+for pieces labelled “Paid for by” – find out morehere 
+<http://www.theguardian.com/sponsored-content>.

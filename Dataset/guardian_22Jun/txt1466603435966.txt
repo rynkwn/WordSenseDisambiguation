@@ -1,0 +1,45 @@
+
+How we did it
+
+This interactive is designed to rank ski resorts by value for money. To do 
+this we asked Christophe Schrahe, a German ski writer and consultant, who last 
+year independently measured pistes in all major resorts in Europe and found 
+some discrepancies between the piste length given by the resort and the lengths 
+he found.
+
+For this interactive he took four factors into account: piste length, snow 
+reliability, how crowded the slopes are, and the number and quality of 
+restaurants – and awarded points for each factor. He then added the points for 
+each resort together and divided it by the cost of a lift pass to give an 
+overall ranking. So this interactive is purely a guide to the cost of skiing, 
+and what you get for that (in terms of snow reliability etc), as opposed to 
+say, the cost of accommodation or a package holiday.
+
+Piste length (in km)
+Slopes were located by using trail maps, winter aerial pictures or GIS-data 
+<http://en.wikipedia.org/wiki/Geographic_information_system> from ski resorts. 
+The length of the slopes is based on the middle lines between the left and the 
+right edge of slopes. These lines were established mainly by using Google 
+Earth's polygon tool. High alpine touring slopes are not included.
+
+How crowded
+This was calculated by dividing skiable surface by the lift capacity.
+
+Snow reliability
+Average annual snowfall, snowmaking capacity and temperatures were taken into 
+consideration in order to judge overall snow reliability.
+
+Restaurants
+The number and quality of restaurants was provided by skiresort.de 
+<http://www.skiresort.info/>, an independent ski website that tests all resorts.
+
+Price
+The cost of an adult high season single-day lift pass.
+
+Beds
+Includes all accommodation (hotels, chalets, hostels).
+
+Runs
+Blue (and green in France): easy
+Red: intermediate
+Black: difficult

@@ -1,0 +1,161 @@
+
+The UK prime minister reaffirmed on Tuesday Britain's pledge to spend 0.7% of 
+gross-national income on aid by 2013. David Cameron's statement, at the UN 
+general assembly in New York, comes despite growing calls from members of his 
+own party to rein in Britain's aid spending.
+
+Over the last two weeks, conservative British newspapers, including the Sunday 
+Telegraph and the Daily Mail, have attacked the Department for International 
+Development (DfID) for spending millions of British aid money on a group of 
+highly profitable consultancy firms 
+<http://www.telegraph.co.uk/news/politics/9545584/Poverty-barons-who-make-a-fortune-from-taxpayer-funded-aid-budget.html>
+. The drama hasresurrected 
+<http://www.telegraph.co.uk/news/politics/9560326/British-still-giving-hundreds-of-millions-of-pounds-in-aid-to-wealthy-countries.html>
+ a long-standing question, highlighted last year overUK aid to India 
+<http://www.guardian.co.uk/global-development/2011/feb/16/uk-government-aid-india-strategy?intcmp=239>
+, about whether donors should spend money on middle-income countries.
+
+Here are five key datasets to help understand the debates:
+
+How big is the UK aid budget?
+
+Last year, the UK spent $13.7bn (£8.57bn) on official development assistance 
+(ODA) – what the rest of us call "aid". Note that DfID,which spent £7.6bn on 
+ODA last year 
+<http://www.dfid.gov.uk/Documents/publications1/departmental-report/2012/Annual-report-accounts-2011-12.pdf>
+ isn't the only government department in charge of UK aid. The Foreign and 
+Commonwealth Office and the UK Border Agency, for example, also contribute 
+towards the 0.7% target.
+
+The UK is the world's third largest donor from countries of the Organisation 
+for Economic Co-operation and Development (OECD), following Germany ($14.5bn) 
+and the US ($30.7bn). But as a percentage of gross national income (GNI), 
+British aid spending was 0.56% in 2011 – far greater than the US equivalent of 
+0.20%. Only five OECD countries – Sweden, Norway, Luxembourg, Denmark, and the 
+Netherlands – have already met the 0.7% commitment.
+
+What does this mean for the UK taxpayer? With a population of about 62.6 
+million, last year's £8.57bn spend works out at roughly £137 per head.
+
+• Get the data 
+<https://docs.google.com/spreadsheet/ccc?key=0ApF51UgS889tdDRIRGg3V2dWNEJoR1dLWVRreVphOUE>
+
+Which countries get UK aid?
+
+Last year, DfID announced that 16 countries would no longer receive bilateral 
+aid from Britain by 2016 
+<http://www.guardian.co.uk/global-development/2011/mar/01/uk-cuts-aid-poorest-countries?intcmp=239>
+, as a result of the department's spending reviews.
+
+The biggest announced increase 
+<http://www.guardian.co.uk/news/datablog/2011/mar/01/uk-aid-review-cuts-dfid> 
+in aid was for Somalia, with a 208% rise planned between 2010 and 2015. This 
+was followed by Nigeria, with an increase of 116%. By 2015, Pakistan would 
+receive the largest chunk of UK aid – £1.4bn, up 107% from 2010.
+
+Billions of aid are also spent through groups such as the World Bank, the EU, 
+and UN agencies. Last year, the UK spent£5bn on bilateral aid programmes and 
+£3.5bn on multilateral aid 
+<http://www.dfid.gov.uk/Documents/publications1/departmental-report/2012/Annual-report-accounts-2011-12.pdf>
+. Sometimes funding through international organisations is classified as 
+bilateral aid – the distinction depends, roughly, on how much control the donor 
+has over that money.
+
+• Get the data  
+<https://docs.google.com/a/guardian.co.uk/spreadsheet/ccc?key=0AonYZs4MzlZbdHlLaVZaWjlsbHExVmpnbU41ZDJhYmc&hl=en#gid=0>
+
+Health or wealth? What are Britain's foreign aid priorities?
+ DfID bilateral aid by sector. Source: DfID, 2011. Click to explore the 
+interactive map 
+<http://www.guardian.co.uk/global-development/interactive/2011/oct/05/dfid-future-aid-plans-interactive>
+Last year's aid spending reviews gave us headline figures on how UK aid would 
+concentrate on an increasingly small pool of developing countries. But it 
+didn't tell us exactly how money would be spent in those countries.
+
+To get a better sense of how British aid spending would break down over the 
+coming years, the Guardian pulled out all the data from the country-level 
+operational plans published by DfID, which included tables dividing budgets 
+across the different sectors – from governance and security to education, 
+health, water and sanitation.
+
+Health and education remain among the top areas for UK bilateral aid. But 
+within sectors, interesting trends are apparent. For example, according to the 
+data, reproductive, maternal and newborn health will consume nearly 64% of 
+DfID's global health funding by 2015, while the share of bilateral aid for HIV 
+and Aids will drop from 16% in 2010-11 to less than 6% in 2014-15.
+
+• Read more 
+<http://www.guardian.co.uk/global-development/datablog/2011/oct/05/datablog-future-plans-uk-aid>
+
+How has UK aid spending changed over time?
+
+The UK has a long-standing foreign aid programme. But how has the geography of 
+UK aid spending changed over time? Last year, the Guardian pulled out all the 
+data on UK aid spending since 1960 to follow the money trail.
+
+In 1960, among the top recipients of UK aid were Cyprus and Malta. One year 
+later, this had already changed dramatically: in 1961, Kenya and India were top 
+recipients. India received the largest chunk of UK aid for most of the 1960s 
+and 1970s. The turn of the new millennium saw an explosion in the number of UK 
+aid recipients.
+
+• Get the data 
+<https://spreadsheets.google.com/ccc?key=0AonYZs4MzlZbdGY4VXR1RmRkY0dOUG9jejNEM0JNaEE&hl=en>
+
+• Read more 
+<http://www.guardian.co.uk/news/datablog/2011/apr/14/uk-aid-spending-history>
+
+The business of UK aid
+ Location of DfID's top contractors. Source: Contracts Finder, 2012. Click to 
+explore the interactive map 
+<https://www.google.com/fusiontables/DataSource?snapid=S682702Yf3k> 
+The UK fully "untied" its aid budget in 2001, opening up its aid-funded 
+contracts to international competition. "Buy local" campaigners hoped this move 
+would offer developing country firms a larger share of the aid-funded business, 
+and bring taxes, jobs and the development of local manufacturing and expertise.
+
+But data compiled by the Guardian shows the vast majority of DfID's contracts 
+are still going to companies based in the UK. Of nearly 120 major contracts and 
+procurement agreements (together worth almost £750m) published on the 
+government's contracts portal since January 2011, only nine include non-UK 
+firms among the grantees. An Indian company, Kran Consulting, is the only firm 
+from a developing country on the list to win a full contract.
+
+Earlier this month, the shadow development secretary Ivan Lewis pressed the 
+department for details 
+<http://www.theyworkforyou.com/wrans/?id=2012-09-05b.119238.h&s=ivan+lewis#g119238.q0>
+ on how much UK aid has been spent in the private sector. This would go above 
+and beyond UK aid spending through consultants. In a written response, the 
+international development secretary, Justine Greening, said the department 
+didn't hold this information centrally and it "could be obtained only at 
+disproportionate cost".
+
+• Read more 
+<http://www.guardian.co.uk/global-development/datablog/2012/sep/21/why-is-uk-aid-going-to-uk-companies>
+
+More data
+
+More data journalism and data visualisations from the Guardian 
+<http://www.guardian.co.uk/data>
+
+World government data
+
+• Search the world's government data with our gateway 
+<http://www.guardian.co.uk/world-government-data>
+
+Development and aid data
+
+• Search the world's global development data with our gateway 
+<http://www.guardian.co.uk/data-store/global-development-data/search?q=>
+
+Can you do something with this data?
+
+• Flickr Please post your visualisations and mash-ups on our Flickr group 
+<http://www.flickr.com/groups/1115946@N24/>
+• Contact us at data@guardian.co.uk <mailto:data@guardian.co.uk>
+
+• Get the A-Z of data <http://www.guardian.co.uk/technology/page/2009/jun/17/1>
+• More at the Datastore directory <http://www.guardian.co.uk/data-store>
+• Follow us on Twitter <http://twitter.com/guardiandata>
+• Like us on Facebook 
+<http://www.facebook.com/pages/Guardian-data/155291341187950>

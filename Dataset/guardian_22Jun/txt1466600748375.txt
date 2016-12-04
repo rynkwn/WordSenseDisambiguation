@@ -1,0 +1,126 @@
+
+What is it?
+
+Four million people in the UK live 
+<http://www.diabetes.co.uk/diabetes-prevalence.html> with diabetes and nearly a 
+quarter of a million more are being diagnosed each year. Ninety per cent of 
+those withdiabetes <http://www.nhs.uk/Conditions/Diabetes/Pages/Diabetes.aspx> 
+have type 2 diabetes (T2D) and you’re more prone to it if you’re overweight, it 
+runs in your family or you’re of south Asian or African descent. In T2D, the 
+body doesn’t respond properly to insulin, the hormone produced in the pancreas 
+that dispatches glucose from the food we eat to the cells of the body to be 
+used for energy or stored as fat. T2D is treated by weight loss, lifestyle 
+changes and oral drugs. Type 1 diabetes (T1D), which accounts for 10% of cases, 
+can appear in childhood and is treated with injectable insulin. In T1D, the 
+pancreas gradually stops making insulin for reasons that are still unclear but 
+may be triggered by a viral illness.
+
+High blood-glucose levels damage blood vessels supplying many parts of the 
+body, so there’s an increased risk of kidney failure, blindness, strokes, heart 
+attacks and gangrene. Life expectancy is reduced by 20 years for people with 
+T1D and up to 10 years for T2D. The good news is that careful control hugely 
+reduces these risks and that new developments are coming on stream at a rapid 
+rate.
+
+Prevention is best
+
+T1D can’t be prevented, but T2D can. NHS England is rolling out an ambitious 
+nationalDiabetes Prevention Programme 
+<https://www.england.nhs.uk/ourwork/qual-clin-lead/diabetes-prevention/> to try 
+to prevent up to 100,000 people each year developing it.Professor Jonathan 
+Valabhji <https://www.imperial.nhs.uk/consultant-directory/jonathan-valabhji>, 
+NHS England’s national clinical director for obesity and diabetes, says: 
+“Tackling obesity and diabetes is one of the biggest healthcare challenges of 
+our time and the numbers with T2D are rising.” Those referred will get 
+personalised help to lose weight and bespoke exercise programmes over nine 
+months.
+
+A desperate need for new drugs
+
+Once you develop diabetes, dietary changes and exercise may not be enough. 
+There’s a limited range of drugs available now andProfessor Nicholas Morton 
+<https://www.researchgate.net/profile/Nicholas_Morton> of the University of 
+Edinburgh says we need to find new drugs that work in novel ways. He is 
+interested in lean individuals whose genes allow them to stay thin even though 
+they live the same western lifestyle that is making so many of us obese.A gene 
+that codes for an enzyme 
+<http://www.nature.com/nm/journal/vaop/ncurrent/full/nm.4115.html> that 
+protects mice from obesity and its damaging effects holds promise. A drug 
+called sodium thiosulfate <https://en.wikipedia.org/wiki/Sodium_thiosulfate>, 
+which is used to treat severe side effects of kidney disease, also acts to 
+boost this enzyme and medicines like it could offer a different way of tackling 
+diabetes.
+
+Does surgery offer a chance of cure?
+
+Simon O’Neill of Diabetes UK <https://www.diabetes.org.uk> says there’s strong 
+and growing evidence that if you are obese and have T2D, surgery works better 
+than drugs and lifestyle advice. Surgery involves restricting the size of the 
+stomach or bypassing the duodenum, where most absorption takes place. It also 
+seems to cause changes in gut hormones, so people eat less and exercise more. 
+Some people have had the surgery and not lost much weight, but their diabetes 
+has still disappeared. It’s possible that people with diabetes who aren’t obese 
+could benefit from the surgery, too. But, obviously, surgery has its downsides 
+and risks. The holy grail would be a tablet that could mimic the gut hormone 
+changes that surgery causes.
+
+An end to needles?
+
+Many people with diabetes, especially children, dislike the repeated 
+finger-prick tests. But an alternative does exist.Continuous glucose monitoring 
+(CGM) 
+<https://www.medtronic-diabetes.co.uk/minimed-system/continuous-glucose-monitoring>
+ involves a small wearable device that tracks glucose levels constantly and can 
+be set with alarms that go off when levels are too high or too low. However, at 
+the moment, NHS provision of CGM is practically nil, according to O’Neill.The 
+NHS may pay <https://www.nice.org.uk/advice/mib51> for devices for people who 
+get no warning of dangerous hypos (when blood glucose is so low that it can 
+cause coma or even death) and in children with T1D.
+
+But what if you don’t want continuous readings?
+
+A device called Freestyle Libre <https://www.freestylelibre.co.uk/> monitors 
+your blood glucose all the time, but only gives you a reading when you swipe 
+it. It’s a patch the size of a 50p piece that is positioned on the upper arm. A 
+tiny filament is inserted into the skin that reads glucose levels in the fluid 
+between skin cells. Parents can swipe their diabetic kids while they’re 
+sleeping rather than wake them up for a finger-prick test. There’s an initial 
+outlay of about £60 for a reader that should last a few years, then running 
+costs of about £100 a month if used continuously.
+
+Insulin pumps
+
+Most diabetics in the UK still inject themselves with insulin three to four 
+times a day. Butinsulin pumps 
+<http://www.diabetes.co.uk/insulin/Insulin-pumps.html> that do away with the 
+need to inject are increasingly popular. They consist of a fine tube inserted 
+under the skin with a wearable pump that contains insulin, which is attached 
+most of the time. In Sweden, 50% of people with T1D have an insulin pump, but 
+in the UK only 6% of eligible adults and 19% of children have one. CGM devices 
+can interact with insulin pumps if blood glucose levels are falling dangerously 
+low. The health watchdog Nice hasendorsed one of these devices 
+<https://www.nice.org.uk/news/press-and-media/nice-draft-guidance-recommends-integrated-automatic-glucose-monitoring-system-for-people-with-type-1-diabetes>
+ for people whose T1D is generally well-controlled, but who get uncontrollable 
+hypos.
+
+The perfect solution would be for a CGM system to communicate directly with an 
+insulin pump to deliver the correct dose without any input from the human 
+wearing the devices. “In its entirety, that’s still a long way off,” says 
+O’Neill. The pump would need to hold two hormones; insulin to lower blood 
+glucose when it’s too high and glucagon to boost glucose levels if it’s too low.
+
+Is there an app?
+
+There are lots of apps to encourage weight loss 
+<http://www.nhs.uk/conditions/nhs-health-check/pages/tools-and-technology-that-can-help.aspx>
+, lifestyle changes and management of diabetes.A new app has launched this month
+ <https://www.youtube.com/watch?v=st0qXpksFrM&feature=youtu.be> to support 
+people with diabetes to count carbs, scan supermarket products, plan meals at 
+home and analyse typical restaurant dishes.Nutrino 
+<http://www.eurekalert.org/pub_releases/2016-06/whc-nad060916.php> shows how 
+daily food intake, activity, sleep and other parameters affect glucose levels. 
+If you have a compatible CGM device and insulin pump, detailed data of your 
+insulin requirements and diabetes control feed into the app, which can 
+customise its suggestions to your needs. The app can also connect with wearable 
+devices such asFitbit <http://www.fitbit.com/uk/home> to get a picture of how 
+much you exercise.

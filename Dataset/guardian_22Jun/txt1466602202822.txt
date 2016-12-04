@@ -1,0 +1,127 @@
+
+Thousands of couples who have settled their divorces in the last 20 months may 
+have to re-open negotiations because a critical fault has been found in 
+software used to calculate financial terms.
+
+The Ministry of Justice was urgently investigating the extent of the errors of 
+“Form E” on its website, which have the potential to inflate the financial 
+worth of a wife or husband. It has published an email address –
+formE@hmcts.gsi.gov.uk <mailto:formE@hmcts.gsi.gov.uk> – asking anyone who 
+believes they have been affected to contact the department.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fgu.com%2Fp%2F4f6mj%2Fsfb%23img-2&redirect_uri=http%3A%2F%2Fgu.com%2Fp%2F4f6mj%2Fsfb%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F879506f98439b85222f8c64f9631c7e9efa59f57%2F0_0_2299_3420%2F2299.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Revealed%3A%20divorce%20software%20error%20hits%20thousands%20of%20settlements&url=http%3A%2F%2Fgu.com%2Fp%2F4f6mj%2Fstw%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Revealed%3A+divorce+software+error+hits+thousands+of+settlements&url=http%3A%2F%2Fgu.com%2Fp%2F4f6mj%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F879506f98439b85222f8c64f9631c7e9efa59f57%2F0_0_2299_3420%2F2299.jpg>
+ Opening page of Form E. Photograph: Ministry of Justice 
+The fact the software had been miscalculating assets since April 2014 was only 
+spotted earlier this month by a family law specialist, Nicola Matheson-Durrant 
+of theFamily Law Clinic <http://www.familylawclinic.co.uk/contact-us.html> in 
+Ascot, Berkshire. The MoJ only publicly admitted the problem on Thursday.
+
+
+It is understood that over the period when the form was producing inaccurate 
+calculations just under 20,000 forms were downloaded. Not all of them would 
+necessarily have been used to work out a division of assets between divorcing 
+couples.
+
+Matheson-Durrant told the Guardian: “Having discovered the fault and advised 
+the MoJ, it became apparent that not a single solicitor, barrister or judge in 
+the whole of the UK had noticed this error. It is such a critical fault. This 
+form has been used in training so it will also have been seen by paralegals, 
+university law departments and the Law Society.”
+
+Matheson-Durrant is not a legally qualified solicitor or barrister, but is a 
+McKenzie Friend, a lay expert who helps litigants.
+
+
+When she reported the mistake to Her Majesty’s Courts and Tribunal Service, 
+part of the MoJ, earlier this month it admitted to her that Form E was at fault 
+and eventually, after repeated promptings, rectified the software. It made no 
+public announcement about the error.
+
+The HMCTS email did not thank her for spotting the problem but explained, in a 
+defensive tone: “It is not our policy to change dates for technical errors, but 
+to show that a change has happened we have added an additional code.”
+
+One particular paragraph, numbered 2.20, which is suposed to produce totals, 
+fails to reflect the minus figure of final liabilities entered earlier on, 
+producing a simple mathematical error. If a party had significant debts or 
+liabilities, they were not recognised or recorded on the electronic form, 
+potentially inflating their true worth. Distorted net figures of applicants’ 
+assets were therefore being produced.
+
+Not all divorcing or separating couples use the online form – some prefer pen 
+and paper calculations – but the impact of the errors could be widespread.
+
+Matheson-Durrant said she began noticing unexpected reckonings earlier this 
+year and initially thought the fault might be to do with her or her clients’ 
+computers. She eventually concluded that the fault lay with the MoJ’s software.
+
+
+Judgments and payment orders handed down by the family courts – even the 
+highest appeal courts – may have been founded on faulty information.
+
+
+The discovery comes at a time when the senior judiciary and the justice 
+secretary, Michael Gove, are encouraging the development of online justice as a 
+means of improving courtroom efficiency and making further economies.
+
+
+ Earlier this year an official report backed by the Master of the Rolls, John 
+Dyson, recommended that the UK civil justice system undergoa radical overhaul 
+for the digital age 
+<http://www.theguardian.com/law/2015/feb/16/online-court-proposed-to-resolve-claims-of-up-to-25000>
+, with the creation of an online court to expand access to justice and resolve 
+claims of up to £25,000.
+
+Matheson-Durrant also pointed out that financial remedy proceedings were 
+currently being farmed out to courts far from couples’ homes in south-east 
+England because the HMCTS divorce unit could not find capacity forFamily 
+<http://www.theguardian.com/lifeandstyle/family> Hearing Centres closer to home.
+
+
+Software glitches are not unusual in major government IT projects. Electronic 
+forms have been used by HMCTS for some time but such a mistake is relatively 
+new for the justice system, which is only belatedly moving from paper to 
+computer.
+
+
+It is extraordinary that such a crucial fault in settling financial disputes 
+in the context of divorce proceedings had gone unnoticed for so long. It could 
+take months to work out the extent and impact of the miscalculations.
+
+
+Unravelling the damage could take even longer, potentially spurring 
+dissatisfied clients to launch legal action against their own lawyers or the 
+MoJ. There were 114,720 divorces in England and Wales in 2013.
+
+London has been dubbed the divorce capital of the world because of the 
+relatively high awards given to spouses under British divorce laws. It is 
+possible that some of the recent high-figure settlements obtained by foreign 
+claimants may also have been affected.
+
+An HMCTS spokesperson said: “We are urgently investigating this issue. 
+Officials are taking steps to identify rapidly cases where this regrettable 
+error may have had an impact, and we will be writing to anyone affected as soon 
+as possible. Anyone concerned about their own court proceedings should contact
+formE@hmcts.gsi.gov.uk <mailto:formE@hmcts.gsi.gov.uk>.”
+
+ * If you wish to tell us about your experience using Form E during your 
+divorce, please fill out the form below.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

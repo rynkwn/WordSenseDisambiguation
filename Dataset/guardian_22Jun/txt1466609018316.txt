@@ -1,0 +1,26 @@
+
+Artificial intelligence may be threatening the future of many jobs 
+<https://www.theguardian.com/technology/2016/feb/13/artificial-intelligence-ai-unemployment-jobs-moshe-vardi>
+ , but one profession which remains safe from computers is that of the fashion 
+stylist.
+
+The light coming off an item of clothing can vary quite dramatically. A 
+spectrometer, which measures the colours of light reflected from a piece of 
+fabric, will see the same white T-shirt very differently in bright daylight, 
+under the yellow tinge of strip lighting or bathed in the red tones of a beach 
+sunset.
+
+Luckily the human visual cortex is good at adjusting our perception in 
+different lights, so we see that the T-shirt itself is always white. This is 
+known as colour constancy. Humans probably evolved it to be able to spot red 
+berries in various light conditions in the jungle.
+
+This is fortunate for a stylist, as the clothes they pick out behind the 
+scenes will look the same on the catwalk. However, our brains also behave in 
+the same way when differently coloured clothes are worn together, requiring an 
+expert eye to get the combination right.
+
+Colour constancy is still too complicated for computers to get right, so I 
+wouldn’t recommend letting your laptop choose your outfit just yet.
+
+Dr Daniel Glaser is director of Science Gallery at King’s College London

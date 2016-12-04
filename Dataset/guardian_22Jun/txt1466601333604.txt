@@ -1,0 +1,111 @@
+
+Statistics are everywhere – from Brexit 
+<http://www.theguardian.com/news/datablog/2016/may/16/lies-damned-lies-and-brexit-statistics>
+ toBritain’s Got Talent. 
+<http://www.theguardian.com/media/2015/apr/13/britains-got-talent-returns-with-10m-viewers>
+ The way these numbers are presented – or manipulated – shape our understanding 
+of the world. Just this month, a misleadingrepresentation of data on local 
+elections 
+<http://www.theguardian.com/politics/2016/may/09/why-that-chart-demonstrating-jeremy-corbyns-election-success-is-misleading>
+ caused a furore after being shared widely on Facebook.
+
+It’s important to equip your students with the skills to understand and 
+interrogate figures so they can work out what they really mean. Here are some 
+ideas on how you can make statistics add up in your classroom:
+
+Primary
+
+Younger pupils need to master the basics before thinking about representations 
+of numbers. Thissimple worksheet 
+<https://teachers.theguardian.com/teacher-resources/22971/Maths-Resource-----Stem-and-Leaf-Plot>
+ fromPrimaryLeap <http://primaryleap.co.uk/> uses a “stem and leaf” approach to 
+breaking numbers down. The first digit (or digits) is the stem, and the other 
+is the leaf. So in 45, for example, the stem is 4 and the leaf is 5. The 
+resource introduces the concept, then asks pupils to complete a series of 
+activities to show their understanding of how it works.
+
+Related: How to teach ... graphs and data handling 
+<https://www.theguardian.com/teacher-network/teacher-blog/2014/jul/14/how-to-teach-graphs-data-handling-lesson-ideas>
+
+The basis of statistics is percentages so it’s crucial your class understands 
+what these are and how they are calculated. Thisstudent-friendly resource 
+<https://teachers.theguardian.com/teacher-resources/22758/The-Percentages-Pack> 
+fromTeaching Packs <http://www.teachingpacks.co.uk/> uses a group of penguins 
+to explain how percentages work, before consolidating knowledge with a series 
+of colourful images – such as a sky filled with balloons and a series of 
+building blocks – with a test at the end.
+
+Once your class has got the hang of the numbers, they can start gathering 
+their own data to create statistics. Thisfun activity 
+<https://teachers.theguardian.com/teacher-resources/22972/Statistics-How-well-do-you-know-your-friends>
+ fromTeachit Primary <http://www.teachitprimary.co.uk/> asks students to 
+undertake a survey of their classmates, looking at characteristics such as eye 
+and hair colour, and siblings. They can then create questions for a new survey 
+and use the results to track trends in the group.
+
+For a real-world application of statistical analysis, try this colourful poster
+ 
+<https://teachers.theguardian.com/teacher-resources/10970/World-Food-Day-statistics-graphic-poster-from-ActionAid>
+ fromActionAid <https://www.actionaid.org.uk/>. It explores the number of 
+people in the world who go hungry each day due to poverty – estimated to be in 
+one in six – and looks at the shocking levels of food waste.
+
+And for a look at how statistics can be used to add power to an argument, try 
+thislesson based on Guardian articles 
+<https://teachers.theguardian.com/teacher-resources/893/Lesson-6-----The-power-of-statistics-and-graphs>
+. It teaches students how to craft a piece of persuasive writing with a punch 
+by presenting numbers to back up their case, and a final task challenges them 
+to write an article to stop the demolition of the school to build a new road.
+
+Secondary
+
+Statistics don’t have to be dull – in fact, they can take students to other 
+galaxies, as thisresource 
+<https://teachers.theguardian.com/teacher-resources/22580/Galaxy-Statistics> 
+from theRoyal Greenwich Observatory <http://www.rmg.co.uk/royal-observatory> 
+proves. It asks students to look at the shapes and colours of different 
+galaxies to work out their distribution in the universe, while exploring the 
+key concepts of appropriate sample sizes and overcoming personal bias.
+
+For a more down-to-earth exploration of how statistics can be used, try this 
+resource aboutcrime maps 
+<https://teachers.theguardian.com/teacher-resources/16803/Crime-mapping--from-Digimaps-for-schools>
+. It introduces the online data that is stored about crime across the country 
+and gets students to summarise the results for their area in a short article. 
+Using these skills, they can then create their own version of crime maps using 
+statistics about littering in the school.
+
+Sticking with issues of public interest, this fact sheet 
+<https://teachers.theguardian.com/teacher-resources/15408/Smoking-Statistics-Who-Smokes-and-How-Much-----ASH-fact-sheet>
+ from anti-smoking charityAction on Smoking and Health <http://www.ash.org.uk/> 
+details the national trends in the harmful habit from 1974 to 2012. It breaks 
+the data down by age, gender and profession – so you could get your class to 
+create visual representations of changes for each group, or use the figures to 
+analyse the effectiveness of moves to reduce smoking in society.
+
+Related: How to teach… fractions 
+<https://www.theguardian.com/education/teacher-blog/2013/oct/28/teaching-resources-fractions>
+
+Give older students an in-depth guide to presenting statistics with this lesson
+ 
+<https://teachers.theguardian.com/teacher-resources/1417/Representation-of-data>
+. It focuses on how to classify and tabulate data, and understand variables, 
+before teaching students how to turn data sets into histograms, frequency 
+polygons and stem and leaf diagrams.
+
+And finally, for a word of caution about analysis, try this Ted talk  
+<https://www.youtube.com/watch?v=sxYrzzy3cq8>on how statistics can be 
+misleading. It exploresSimpson’s paradox 
+<https://en.wikipedia.org/wiki/Simpson%27s_paradox>, in which a trend appears 
+in two sets of data, but disappears when both are combined. Presenter Mark 
+Liddell explores real-life examples of misinterpretation as a result of this, 
+including the UK study that appeared to show smokers living longer than 
+non-smokers, and an analysis of the death penalty in the US, which missed the 
+racial bias in sentencing.
+
+Follow us on Twitter via @GuardianTeach <https://twitter.com/GuardianTeach>. 
+Join theGuardian Teacher Network 
+<https://profile.theguardian.com/agree/GTNF?returnUrl=https://teachers.theguardian.com/Registration.aspx>
+ for lesson resources, comment andjob opportunities 
+<http://jobs.theguardian.com/jobs/schools/#browsing?INTCMP=edi_546>, direct to 
+your inbox.

@@ -1,0 +1,99 @@
+
+How we use metrics in higher education is a fiercely debated topic , and as the
+Teaching Excellence Framework is rolled out, 
+<http://www.theguardian.com/education/2015/nov/02/teaching-excellence-framework-university-tef-student-data-higher-education>
+ looks set to stay high on the agenda. Yet academics are not the only ones 
+facing an increased emphasis on measurement. Over the last few years 
+administrative staff have also felt the pain of the numbers game. But there’s 
+been very little debate about how the shift to a data-driven culture is 
+affecting us.
+
+What does the emphasis on metrics mean for people who work in alumni 
+relations? Online tools such as Google Analytics, for example, have been used 
+to check web statistics for quite a while. But workplaces are constantly 
+evolving, putting staff under pressure to generate more and more data.
+
+Related: Our obsession with metrics turns academics into data drones 
+<http://www.theguardian.com/higher-education-network/2015/nov/27/our-obsession-with-metrics-turns-academics-into-data-drones>
+
+Much of the issue boils down to how we measure “engagement”. It’s a worthy aim 
+but difficult in practice. How exactly do you put a numerical value on the 
+quality of relationships? And the truth is that donating to your university is 
+as much an emotional activity as it is a financial one. No amount of 
+number-crunching should blind us to that fact.
+
+Another problem with metrics is that people focused on targets can become 
+allergic to risk, yet alumni relations is a fundamentally creative role. It is 
+hard to be creative without taking risks.
+
+Perhaps the biggest issue is that metrics, handled badly, can be profoundly 
+divisive. Much has been said about the gulf that threatened to open up between 
+the arts and the sciences as a result of the impact agenda, introduced as part 
+of the Research Excellence Framework. As a result, academics pushed for an 
+ethical approach to measuring impact and theIndependent Review of the Role of 
+Metrics in Research Assessment and Management 
+<http://www.hefce.ac.uk/rsrch/metrics/>was set up. 
+
+It’s not impossible to imagine a divideoccurring in alumni teams; with metrics 
+driving a wedge between fundraising staff, whose progress against financial 
+targets is easily measured, and communications staff, whose work on engagement 
+is much messier and harder to quantify.
+
+Staff are under pressure to create more and more data
+
+But we communications people should not see numbers as the enemy. There are 
+lesson to be learned from academia, in particular, the adoption of “altmetrics” 
+or non-standard indicators of quality. Altmetricsembrace the idea that because 
+quality is a multi-dimensional concept 
+<http://www.theguardian.com/higher-education-network/blog/2012/aug/24/measuring-research-impact-altmetic>
+, we need a holistic approach to measuring it. The key is to capture our 
+activities from many different angles instead of using misleading metrics in 
+isolation (follower numbers on social networks is widely acknowledged as a bad 
+metric in communications circles, because you can’t be sure those followers are 
+actually reading your feed).
+
+In alumni teams in the US and Canada, the use of altmetrics to track alumni 
+engagement has already been trialled with some success. George Brown College in 
+Toronto and Ivy Tech Community College in Indiana are two institutions that have
+designed bespoke systems to measure return 
+<http://www.case.org/Publications_and_Products/September2013/Tracking_Alumni_Engagement_.html?site=mobile>
+ on investment in alumni relations. They have done this by counting activities 
+such as event attendance, participation in discount programmes, and 
+volunteering hours, then weighting them based on the level of commitment 
+involved.
+
+Related: The metric tide: an agenda for responsible indicators in research 
+<https://www.theguardian.com/science/political-science/2015/jul/09/the-metric-tide-responsible-indicators-research>
+
+An important caveat is that the development of an engagement tracking system 
+is a serious piece of work that cannot be developed quickly or easily. George 
+Brown College conducted a survey of alumni, followed by a literature review and 
+consultations with a number of Canadian and US institutions before putting 
+together a tracking system.
+
+In addition, the responsibility for devising altmetrics lies with both 
+fundraisers and communicators; it is only by working together that we can make 
+a proper case for investment.
+
+Given the amount of work involved in tracking and reporting engagement, at 
+some point you will probably be tempted to fudge the numbers. What’s the harm 
+in selecting a few dodgy measures to impress the boss? Why do we need a 
+strategy when we have data?
+
+My advice is to resist this kind of thinking. Data work best when they tell us 
+unpalatable truths that can help us to improve. We have a responsibility to 
+refuse requests for bad metrics that distort our efforts, and we must work 
+harder at communicating why.
+
+We must keep questioning how metrics are used within universities. There will 
+always be those who try to game the system but if the Ref and the Tef have 
+taught us anything, it’s that metrics have enormous power over people’s lives 
+and careers. And where is the job satisfaction in falsifying the evidence?
+
+Join the higher education network 
+<http://preview.gutools.co.uk/higher-education-network#https://register.theguardian.com/higher-education/?CMP=dis_57>
+ for more comment, analysis and job opportunities, direct to your inbox. Follow 
+us on Twitter@gdnhighered <https://twitter.com/GdnHigherEd>. And if you have an 
+idea for a story, please read ourguidelines 
+<http://www.theguardian.com/higher-education-network/2015/oct/16/share-your-ideas-how-to-write-for-the-higher-education-network>
+ and email your pitch to us at highereducationnetwork@theguardian.com

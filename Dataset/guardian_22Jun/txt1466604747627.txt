@@ -1,0 +1,53 @@
+
+Why do we recommend browsers?
+
+Our site uses recent web standards to give the best possible news experience 
+for our readers. Although the Guardian website aims to support all major 
+browsers available today, not all are capable of running our site to the 
+standard users expect.
+
+To balance these competing demands, we currently split browsers into two main 
+categories that we review from time to time: fully supported, and core 
+experience.
+
+What is the core experience?
+
+The core experience includes navigation, article content, and videos. We aim 
+to support the core experience on all major browsers available today. Fully 
+supported browsers get all of the latest features including commenting and 
+dynamic elements.
+You can find out what browser you are using and see alternatives at 
+whatbrowser.org <http://whatbrowser.org/>.
+
+What browsers do you fully support?
+
+For the full experience, you require one of the listed systems, or a later 
+version:
+
+iOS 8
+
+ * Google Chrome 
+ * Safari 
+All other systems
+
+ * Google Chrome 28 
+ * Mozilla Firefox 25 
+ * Internet Explorer 9 
+ * Opera 14 
+ * OSX Safari 6 
+ * Android 4 Browser 
+If you need more help on our supported browsers please contact 
+userhelp@theguardian.com <mailto:userhelp@theguardian.com>.
+
+Important exceptions
+
+We are continuing to improve both the functionality and performance of the 
+site, and we would like to maximise the number of users who have the full 
+experience. Unfortunately some popular browsers do not currently get the full 
+experience.
+
+
+ * Internet Explorer 8: We understand some users are using computers managed 
+by their employers and are limited to using Internet Explorer 8.
+
+ * Opera Mini. 

@@ -1,0 +1,113 @@
+
+Breakthroughs in genomic medicine are helping researchers to devise a new 
+generation of personalised treatments for a range of diseases and conditions, 
+including cancer, diabetes and HIV.
+
+The cost of sequencing a human genome has fallen from $95m (£66m) in 2001 to 
+just $1,345 (£870),according to the US National Human Genome Research Institute 
+<https://www.genome.gov/sequencingcosts/>. This is enabling professionals to 
+tailor treatments based on the results of genetic tests.
+
+
+Cancer, caused by mutations in the genes of human cells, is well-suited to 
+genomic medicine. Cancer Research UK is funding theNational Lung Matrix Study 
+<http://www.cancerresearchuk.org/about-cancer/find-a-clinical-trial/a-trial-looking-at-different-drugs-for-non-small-cell-lung-cancer-national-lung-matrix-trial>
+, also supported by the Experimental Cancer Medicine Centre, drug makers 
+AstraZeneca and Pfizer and the University of Birmingham. It examines 28 genes 
+in the DNA of the patient’s tumour, and uses the results to tailor treatment to 
+“what makes that tumour tick”, according to Gary Middleton, professor of 
+medical oncology at the University of Birmingham.
+
+About 15%-20% of lung cancer tumours have a genetic abnormality that can be 
+targeted, a proportion the Matrix trial hopes to expand.
+
+“Lung cancer used to be a very simple disease,” says Middleton. “There were 
+very few treatments and patients did very poorly. It’s really quite complicated 
+now. Keeping on top of the new drugs and the new indications is difficult.” A 
+specific drug may only be of use for one lung cancer patient in 100: “But for 
+that one patient, it makes a huge difference.”
+
+Related: Treatments for cancers and Alzheimer's on the verge of a breakthrough 
+<http://www.theguardian.com/healthcare-network/2016/apr/20/treatments-cancers-alzheimers-verge-breakthrough>
+
+Diabetes is also benefiting from genomics. Researchers at the University of 
+Exeter discovered the main cause ofneonatal diabetes 
+<https://www.diabetes.org.uk/Guide-to-diabetes/What-is-diabetes/Other-types-of-diabetes/Neonatal-diabetes/>
+, a very rare condition that affects babies: half possess a genetic variant 
+that prevents insulin being released from the pancreas. “If you give them a
+sulphonlylurea 
+<https://www.diabetes.org.uk/Guide-to-diabetes/What-is-diabetes/Diabetes-treatments/Sulphonylureas/>
+ tablet, these patients can release insulin and stop insulin injections,” says 
+Prof Sian Ellard, head of molecular genetics at theRoyal Devon and Exeter NHS 
+foundation trust <http://www.rdehospital.nhs.uk/>, which is the university’s 
+partner for its medical school.
+
+The trust’s laboratory has provided free testing for more than 1,500 neonatal 
+diabetes patients around the world. It also runsNHS 
+<https://www.theguardian.com/society/nhs> tests for other kinds of diabetes, as 
+well as a single test covering more than 5,000 rare genetic disorders.
+
+This work has implications for staff. Royal Devon and Exeter is a training 
+centre for a national programme to develop NHS bioinformaticians to process the 
+vast amounts of data produced by genomic testing. Genetics specialists need to 
+keep up with rapid developments in the field and understand the limitations of 
+these new tests.
+
+“There are gaps, and we need to remember that a genetic variant causing a 
+disorder might be in one of those gaps,” says Ellard. “We never know quite what 
+we’re missing. It’s critical to understand the limitations, as well as the 
+enormous benefits.” There is also a need to simplify and standardise the 
+reporting of genomic test results so they are understandable by all healthcare 
+professionals and patients, she adds.
+
+These new genomic tests will affect staff working in nearly all medical 
+specialties andHealth <https://www.theguardian.com/society/health> Education 
+England (HEE) has developed a genomics education programme to run alongside the 
+100,000 Genomes Project run by Department of Health-owned company Genomics 
+England. “The aim is to reach all healthcare professionals, be they doctors, 
+nurses, allied healthcare professionals or laboratory staff and increase 
+everybody’s general understanding of genomic medicine, what it is and how it 
+can bring benefits to patients,” says Ellard.
+
+ Ten universities – including Exeter – offer a masters in genomic medicine, 
+funded by HEE. The University of Exeter also supports education in monogenic 
+diabetes through an annual international symposium,online education via a MOOC 
+<http://www.diabetesgenes.org/> and hosts a national network of genetics 
+diabetes nurses, trained in how to recognise patients likely to have monogenic 
+diabetes, organise genetic testing, explain test results to patients, arrange 
+testing for relatives and change treatments according to the test result.
+
+Related: The price of health: the cost of developing new medicines 
+<http://www.theguardian.com/healthcare-network/2016/mar/30/new-drugs-development-costs-pharma>
+
+Genetic tests can also help avoid adverse reactions to drugs, something that 
+is helping to spread their use across the NHS. HIV drug Abacavir causes a 
+serious reaction in about 5% of patients, but in 2004 researchers including Sir 
+Munir Pirmohamed, NHS chair of pharmacogenetics at the University of Liverpool, 
+published research on a genetic test that identified those at risk. The test 
+was implemented across the NHS in 2006, and now less than 1% of patients suffer 
+adverse reactions.
+
+The university has developed a similar genetic test covering Warfarin 
+<https://www.bhf.org.uk/heart-matters-magazine/medical/drug-cabinet/warfarin> – 
+an anticoagulant used by about 1% of population – for use in GP surgeries. 
+“Some people require half a milligram a day, some 20 milligrams a day,” says 
+Pirmohamed. The NHS in the north-west of England is running a pilot through 
+which nurses run this test on a patient’s blood to find the dose they need, 
+with results in 45 minutes.
+
+Pirmohamed believes genomics will combine with other ways to personalise 
+medicine, including use of electronic patient records and data from 
+patient-worn sensors.
+
+“Genomics gives you a result,” he says. “What you need to do is implement 
+those findings into the clinical care pathway, and that can be extremely 
+complex. It requires someone to implement the information technology, an 
+appropriate prescribing system as well as education and training of the 
+prescribers, nurses and pharmacists who look after patients.”
+
+Join the Healthcare Professionals Network 
+<https://register.theguardian.com/healthcare-professionals/?CMP=dis-166> to 
+read more pieces like this. And follow us on Twitter (@GdnHealthcare 
+<https://twitter.com/GdnHealthcare>) to keep up with the latest healthcare news 
+and views.

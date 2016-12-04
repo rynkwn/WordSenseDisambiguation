@@ -1,0 +1,304 @@
+
+Things get meta pretty quickly when you’re hanging out with the team from 
+Google <https://www.theguardian.com/technology/google>. I realise this on day 
+one of the web giant’s project to map Machu Picchu, as we amble up to a popular 
+viewpoint and stare into the thick mountain mist cloaking the citadel. Senior 
+staff engineer Daniel Filip has just put on the backpack-mounted Trekker 
+camera, the clouds are clearing, and we’re ready to go.
+
+Seconds later we’re spotted by a pair of Australian tourists. “Are you the 
+Google guy?” asks one. “It’s Google! It’s him!” He walks up to the Trekker, 
+stares into the camera and waves. “Hey mum!” Then he takes a selfie.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fgu.com%2Fp%2F4d2tg%2Fsfb%23img-2&redirect_uri=http%3A%2F%2Fgu.com%2Fp%2F4d2tg%2Fsfb%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F75edd892b0512f5a94073b3847c4f51efc390976%2F0_0_1200_800%2F1200.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Do%20Machu%20Picchu%20from%20your%20sofa%2C%20thanks%20to%20Google%20Street%20View&url=http%3A%2F%2Fgu.com%2Fp%2F4d2tg%2Fstw%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Do+Machu+Picchu+from+your+sofa%2C+thanks+to+Google+Street+View&url=http%3A%2F%2Fgu.com%2Fp%2F4d2tg%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F75edd892b0512f5a94073b3847c4f51efc390976%2F0_0_1200_800%2F1200.jpg>
+ The 22kg Trekker comprises 15 high-resolution cameras and takes a photo every 
+2½ seconds. Photograph: Hilaea Media/Pilar Olivares 
+I’d arrived in Cusco a day earlier, joining the Street View team tasked with 
+collecting the panoramic imagery needed to add the Inca site to its 
+ever-expanding list of locations. Having mapped more than seven million miles 
+of roads in 65 countries,Google Street View 
+<https://www.theguardian.com/technology/google-street-view> has turned its 
+attention to some of the world’s most spectacular places, creating eye-candy 
+for digital travellers. And it’s no surprise that Machu Picchu, one of the most 
+popular tourist attractions in the world, has been in its sights for some time.
+
+While most people still associate Google Street View with the small cars 
+spotted zipping around cities with a camera on top, the past few years have 
+seen Google develop off-road mapping methods. The street view “fleet” now 
+includes a tricycle for narrow alleyways, a trolley for the interiors of 
+museums and historic buildings, a snowmobile, for, well, snowy places, and the
+Trekker <https://www.google.com/maps/about/behind-the-scenes/streetview/treks/>
+, which has been used to map sites such asPetra 
+<http://www.theguardian.com/travel/2015/nov/25/petra-tour-google-street-view-jordan>
+,Angkor Wat 
+<https://www.google.com/maps/about/behind-the-scenes/streetview/treks/angkor/>, 
+the Great Pyramids 
+<https://www.google.com/maps/about/behind-the-scenes/streetview/treks/pyramids-of-giza/>
+,Everest base camp 
+<https://www.google.com/maps/about/behind-the-scenes/streetview/treks/the-worlds-highest-peaks/>
+ and theGrand Canyon 
+<https://www.google.com/maps/about/behind-the-scenes/streetview/treks/grand-canyon/>
+.
+
+The team sees the Machu Picchu project – a highlight of its expansion in Latin 
+America – as one of its most ambitious. Filip, Google’s first full-time street 
+view engineer, is there to make sure it all goes smoothly.
+
+“When I started, I had no idea we could do a project like Machu Picchu,” he 
+tells me. “We’ve been working for years to get permission for this.”
+
+From Cusco we travel by train to Aguas Calientes (now officially called Machu 
+Picchu Pueblo), an overpriced tourist town in the valley beneath the citadel. A 
+bus then takes us up the zig-zag mountain road to the site entrance. We’ve made 
+an early start, but tourists are already queuing outside. At 2,430 metres, the 
+air is thin and the sun is harsh. It’s not long before I’m out of breath and 
+sunburnt, but the view – once the mist clears – makes up for it.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fgu.com%2Fp%2F4d2tg%2Fsfb%23img-3&redirect_uri=http%3A%2F%2Fgu.com%2Fp%2F4d2tg%2Fsfb%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F61bd0c9018231fb8e26ea1223516460e4cb5431f%2F0_0_3264_2448%2Fmaster%2F3264.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Do%20Machu%20Picchu%20from%20your%20sofa%2C%20thanks%20to%20Google%20Street%20View&url=http%3A%2F%2Fgu.com%2Fp%2F4d2tg%2Fstw%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Do+Machu+Picchu+from+your+sofa%2C+thanks+to+Google+Street+View&url=http%3A%2F%2Fgu.com%2Fp%2F4d2tg%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F61bd0c9018231fb8e26ea1223516460e4cb5431f%2F0_0_3264_2448%2Fmaster%2F3264.jpg>
+ Google Trekker at Machu Picchu 
+Surrounded by nauseatingly steep peaks, the stone steps, temples and 
+structures of Machu Picchu sit on a grassy plateau as if dropped there from 
+above. The Huayna Picchu peak towers behind it like a deep green obelisk.
+
+Our starting point for the “collect” is Machu Picchu’s Sun Gate – the main 
+entrance through which those who arrive via the Inca Trail reach the site. We 
+march up to it along an ancient stone path, stopping occasionally to look back 
+at the citadel. Once at the top (after a rest, some Oreos and a sip ofmate herb 
+tea) Filip switches the Trekker on, ready to start its mission.
+
+It will take seven days of methodically crisscrossing the site to complete the 
+capture
+
+Google Trekker projects are physical challenges. It will take seven days of 
+methodically crisscrossing the site to complete the capture. Doing the bulk of 
+this work is 30-year-old Julio Corbacho, a photographer and cameraman from 
+Lima. Dressed in a grey hoodie, with thick rimmed glasses and an uncanny 
+resemblance to the actor Jonah Hill, Corbacho has lugged the Trekker around 
+dozens of Peru’s ancient sites, including Nazca, Tacna and Moquega, since 
+January.
+ The 22kg Trekker features 15 high-resolution (five megapixel) cameras 
+“It’s a fantastic job,” he says, puffing a little already. “They pay you to 
+travel to amazing places. And when I started, I weighed 10kg more.”
+
+The 22kg Trekker comprises 15 high-resolution (five megapixel) cameras. They 
+capture a photo every 2½ seconds, and these are matched to locations with GPS 
+tags and spliced together into panoramas before being published onGoogle Maps 
+<https://www.theguardian.com/technology/google-maps>. Corbacho’s main job is to 
+move at a consistent speed, change the batteries and avoid running into things 
+like branches, that can ruin the shots.
+
+A side effect of our toting the Trekker camera is that we become a tourist 
+attraction ourselves. In a place like Machu Picchu, which is swarming with 
+visitors lost in a frantic orgy of photo taking, the appearance of a novel 
+entity proves too much to resist. It becomes impossible to know who’s 
+collecting more photos, the Trekker, or the mass of tourists taking selfies in 
+front of us.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fgu.com%2Fp%2F4d2tg%2Fsfb%23img-4&redirect_uri=http%3A%2F%2Fgu.com%2Fp%2F4d2tg%2Fsfb%23img-4&picture=https%3A%2F%2Fmedia.guim.co.uk%2F6d1cc5509f358ca82c08f1acc67d93428fc85ec6%2F186_0_2176_3264%2F2176.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Do%20Machu%20Picchu%20from%20your%20sofa%2C%20thanks%20to%20Google%20Street%20View&url=http%3A%2F%2Fgu.com%2Fp%2F4d2tg%2Fstw%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Do+Machu+Picchu+from+your+sofa%2C+thanks+to+Google+Street+View&url=http%3A%2F%2Fgu.com%2Fp%2F4d2tg%23img-4&media=https%3A%2F%2Fmedia.guim.co.uk%2F6d1cc5509f358ca82c08f1acc67d93428fc85ec6%2F186_0_2176_3264%2F2176.jpg>
+ Sign of the times ... catching the Trekker on a selfie 
+And it is a testament to Google Maps’ global presence (it has over a billion 
+users worldwide) that most tourists seem to recognise what we’re doing.
+
+“The Google landscape ... er ... the Google Earth map? Is that what it is?” 
+asks one man in grey fleece. A younger tourist, slightly more familiar with the 
+branding, asks me directly if it’s Google Street View. I nod, and he’s 
+impressed. “Cool!”
+
+I expected the Trekker to be viewed with more mistrust, as an invasion of 
+privacy, but the response is overwhelmingly positive. Most people seem to be 
+excited by the idea.
+
+“I think it’s sweet,” says Australian Ryan Fuller, 23. “You get to see places 
+before you go there, and in a couple of years they may not let so many people 
+have access here.”
+
+His friend chips in: “And not everyone has the resources to do what we’re 
+doing.”
+
+Alex, 22, from London is a bit more cynical. “It doesn’t make me feel 
+uncomfortable,” he says, “but I do think it’s better to have a surprise when 
+you get there. They don’t have to have everything on Google.”
+
+While the Trekker moves across the site, popping in and out of view as it 
+traverses the stone walls and alleys, I catch up with the director of the site, 
+Fernando Astete, also known as El Capitan. Silver-haired and dressed in khaki, 
+spectacles hanging around his neck, Astete has headed Machu Picchu since 2001, 
+through a period of enormous growth as a tourist attraction: the number of 
+visitors rocketed from around 100,000 a year in the mid-1990s to over a million 
+in 2014.
+
+Related: Top 10 hotels in Cusco and the Sacred Valley, Peru 
+<http://www.theguardian.com/travel/2014/dec/17/top-10-hotels-cusco-sacred-valley-urubamba-peru>
+
+He’s not surprised at the growth: “We knew this was going to happen. Since the 
+beginning of the 20th century, people involved in culture and history were 
+saying Machu Picchu would be the mecca of tourism. So we were waiting for that.”
+
+Astete is interrupted as a woman asks him take a photo of her. He obliges. He 
+is remarkably relaxed about the intrusive level of snapping.
+
+“Technology is a fashion,” he tells me. “These things will happen – people 
+coming with bigger cameras, selfie sticks. Soon we’ll probably forbid selfie 
+sticks and tripods, which stop the flow of people. But cameras are just part of 
+the experience. People will always want a photo to show their friends and 
+family, or just to say I was here.”
+
+But his colleague José Bastante, a rather dashing Indiana Jones-esque academic 
+in charge of archaeological and interdisciplinary research at Machu Picchu, 
+feels the balance could be better: “Machu Picchu is not Disneyland; it’s a 
+sacred place and it should be regarded like that. But we understand there’s a 
+pressure from tourism. It’s a world heritage site, and people have the right to 
+see it.”
+
+Unesco <http://whc.unesco.org/en/list/274> has commissioned a report, to be 
+delivered this year, on the way tourism has affected Machu Picchu. Since 2011, 
+the number of visitors has exceeded the daily limit of 2,500 set by Unesco, 
+which has been pressuring the Peruvian authorities to improve the situation and 
+upgrade the facilities. A£27m project 
+<http://www.peruviantimes.com/22/the-master-plan-machu-picchu-reconceptualized/24058/>
+, to be completed by 2019, will include a new interpretation centre and new 
+routes around the site to distribute tourists more evenly. While the number of 
+visitors will still increase, they will enter the site in groups of 100, 
+hopefully reducing congestion.
+
+Related: Trekking to Choquequirao, Peru’s remote Inca ruins 
+<http://www.theguardian.com/travel/2014/nov/01/peru-choquequirao-inca-ruins-trek>
+
+For Bastante, the interpretation centre is crucial to encouraging respect for 
+the sacredness of the site. “My ideal situation in Machu Picchu would be to 
+close it for a couple of months a year,” he says. “But people need to 
+experience and understand the Incas and the sacredness of this space. A hundred 
+educated tourists will do less harm than one uneducated one.”
+
+Does he feel the Google project can support conservation work there? “That 
+would be the ideal scenario. If we can use Google Street View to analyse change 
+over time.”
+
+Street View has proved useful for this in the past. It was used to compare 
+damage before and after a hurricane in Japan, and several Google Trekker 
+projects have been completed in conjunction with conservation groups, who use 
+it as an opportunity to engage the public. The most recent was a collaboration 
+with Samburu national reserve andSave the Elephants in Kenya 
+<http://www.theguardian.com/travel/2015/oct/08/google-street-view-walking-with-elephants-kenya-safari>
+ – using Street View to map the park, and the elephants in it to raise 
+awareness of the animals and their habitat.
+
+The number of visitors has rocketed from around 100,000 a year in the 
+mid-1990s to over a million in 2014
+
+But more comparable to Machu Picchu is last year’s project to map Angkor Wat 
+<https://www.google.co.uk/maps/about/behind-the-scenes/streetview/treks/angkor/#map>
+ in Cambodia, another vast ancient site and major attraction. As with Machu 
+Picchu, it is one of the country’s biggest assets, attracting visitors from 
+around the world. According to Unesco’s culture sector, mapping, just like 
+aerial photography or satellite images, is essential for the conservation of 
+world heritage sites.
+
+The organisation believes that tools such as Google’s Trekker technology are 
+valuable, particularly in terms of sustainable tourism, by documenting 
+properties too fragile to be opened to the wider public.
+
+For Google, on a mission to map the entire world, the appeal of these projects 
+is easy to see. But I ask Filip whether it’s right to invest so much in mapping 
+trophy locations while vast swathes of the world – mostly in Africa – don’t 
+even have basic GoogleMaps <http://www.theguardian.com/travel/travel-maps> as a 
+resource.
+
+Related: Camping around South America 
+<http://www.theguardian.com/travel/2015/nov/14/campsites-tents-south-america-chile-argentina-colombia>
+
+He maintains that they’re not just going for the glory spots. “We’re also 
+going to be expanding in Africa,” he says, admitting it’s a hole in their 
+coverage. “We just want a completely comprehensive map, and theTrekker loan 
+programme <https://maps.google.com/maps/about/partners/streetview/trekker/> 
+(where local organisations borrow the equipment to produce their own maps) is a 
+good example of that.”
+
+The Google project offers a huge opportunity for countries such as Peru, India 
+and Cambodia to promote their world wonders. But as we watch the Trekker 
+disappear down the track towards the citadel, I put it to Astete that if people 
+can explore these places from home, won’t that ruin the experience of visiting?
+
+“Ruin the moment?” he exclaims. “No! Surely you have seen a lot of pictures – 
+do you think it’s the same as real life? The feeling of being here is 
+completely different. It’s a feeling you can’t describe.”
+
+MORE SITES FOR DESKTOP EXPLORERS
+
+
+Angkor Wat, Cambodia
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fgu.com%2Fp%2F4d2tg%2Fsfb%23img-5&redirect_uri=http%3A%2F%2Fgu.com%2Fp%2F4d2tg%2Fsfb%23img-5&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fdd6f795e2e95de0083e4189a6387459fd0a0bdd3%2F13_0_1881_1129%2F1881.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Do%20Machu%20Picchu%20from%20your%20sofa%2C%20thanks%20to%20Google%20Street%20View&url=http%3A%2F%2Fgu.com%2Fp%2F4d2tg%2Fstw%23img-5>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Do+Machu+Picchu+from+your+sofa%2C+thanks+to+Google+Street+View&url=http%3A%2F%2Fgu.com%2Fp%2F4d2tg%23img-5&media=https%3A%2F%2Fmedia.guim.co.uk%2Fdd6f795e2e95de0083e4189a6387459fd0a0bdd3%2F13_0_1881_1129%2F1881.jpg>
+ Photograph: Google Street View 
+In a project that used cars, Trekkers and tripods, Google mapped 100 of the 
+breathtaking Khmer temples found at Angkor, launching more than 90,000 
+panoramic views in April 2014.
+
+El Capitan, Yosemite, US
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fgu.com%2Fp%2F4d2tg%2Fsfb%23img-6&redirect_uri=http%3A%2F%2Fgu.com%2Fp%2F4d2tg%2Fsfb%23img-6&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fec003da28bccfce9f0fac0a0e2c8b73126f90e26%2F0_0_640_384%2F640.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Do%20Machu%20Picchu%20from%20your%20sofa%2C%20thanks%20to%20Google%20Street%20View&url=http%3A%2F%2Fgu.com%2Fp%2F4d2tg%2Fstw%23img-6>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Do+Machu+Picchu+from+your+sofa%2C+thanks+to+Google+Street+View&url=http%3A%2F%2Fgu.com%2Fp%2F4d2tg%23img-6&media=https%3A%2F%2Fmedia.guim.co.uk%2Fec003da28bccfce9f0fac0a0e2c8b73126f90e26%2F0_0_640_384%2F640.jpg>
+ Photograph: Alamy 
+Some of the world’s best climbers were roped in to help Google create a 
+vertical map of the sheer rock face of El Capitan in Yosemite national park. 
+Cameras were carried up the granite cliff by climbers including Lynn Hill, Alex 
+Honnold andTommy Caldwell 
+<http://www.theguardian.com/travel/2015/nov/26/yosemite-usa-tommy-caldwell-climbing>
+ earlier this year.
+
+
+Petra, Jordan
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fgu.com%2Fp%2F4d2tg%2Fsfb%23img-7&redirect_uri=http%3A%2F%2Fgu.com%2Fp%2F4d2tg%2Fsfb%23img-7&picture=https%3A%2F%2Fmedia.guim.co.uk%2Ffcbd7ed79724a728809da9c4e99945f48d2f5faf%2F0_0_1794_1076%2F1794.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Do%20Machu%20Picchu%20from%20your%20sofa%2C%20thanks%20to%20Google%20Street%20View&url=http%3A%2F%2Fgu.com%2Fp%2F4d2tg%2Fstw%23img-7>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Do+Machu+Picchu+from+your+sofa%2C+thanks+to+Google+Street+View&url=http%3A%2F%2Fgu.com%2Fp%2F4d2tg%23img-7&media=https%3A%2F%2Fmedia.guim.co.uk%2Ffcbd7ed79724a728809da9c4e99945f48d2f5faf%2F0_0_1794_1076%2F1794.jpg>
+ Photograph: Google Street View 
+Launched last week 
+<http://www.theguardian.com/travel/2015/nov/25/petra-tour-google-street-view-jordan>
+, one of the latest Trekker projects to hit the internet is a tour of Jordan’s 
+most famous ancient site, with commentary provided by Queen Rania of Jordan.
+
+Grand Canyon, US
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fgu.com%2Fp%2F4d2tg%2Fsfb%23img-8&redirect_uri=http%3A%2F%2Fgu.com%2Fp%2F4d2tg%2Fsfb%23img-8&picture=https%3A%2F%2Fmedia.guim.co.uk%2F16a5acce63b96a8a364bc86ffe83754a4061451a%2F0_0_5120_3072%2F5120.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Do%20Machu%20Picchu%20from%20your%20sofa%2C%20thanks%20to%20Google%20Street%20View&url=http%3A%2F%2Fgu.com%2Fp%2F4d2tg%2Fstw%23img-8>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Do+Machu+Picchu+from+your+sofa%2C+thanks+to+Google+Street+View&url=http%3A%2F%2Fgu.com%2Fp%2F4d2tg%23img-8&media=https%3A%2F%2Fmedia.guim.co.uk%2F16a5acce63b96a8a364bc86ffe83754a4061451a%2F0_0_5120_3072%2F5120.jpg>
+ Photograph: Alamy 
+The first official outing for the Trekker camera was in October 2012, when 
+Google began collecting imagery along the Grand Canyon. More than 9,500 images 
+were taken, documenting two of the canyon’s most popular trails.
+
+Venice, Italy
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fgu.com%2Fp%2F4d2tg%2Fsfb%23img-9&redirect_uri=http%3A%2F%2Fgu.com%2Fp%2F4d2tg%2Fsfb%23img-9&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fbcaaf4e6cc370d045d23f396649e2c75f9a00936%2F0_186_5176_3102%2F5176.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Do%20Machu%20Picchu%20from%20your%20sofa%2C%20thanks%20to%20Google%20Street%20View&url=http%3A%2F%2Fgu.com%2Fp%2F4d2tg%2Fstw%23img-9>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Do+Machu+Picchu+from+your+sofa%2C+thanks+to+Google+Street+View&url=http%3A%2F%2Fgu.com%2Fp%2F4d2tg%23img-9&media=https%3A%2F%2Fmedia.guim.co.uk%2Fbcaaf4e6cc370d045d23f396649e2c75f9a00936%2F0_186_5176_3102%2F5176.jpg>
+ Photograph: Alamy 
+It would be impossible to capture the city’s watery byways with street view 
+cars, so in 2013 the Trekker camera was loaded on to a gondola to map Venice’s 
+canals. The team covered 265 miles on foot and 114 miles by boat.

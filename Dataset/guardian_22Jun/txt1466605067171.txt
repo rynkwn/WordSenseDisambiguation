@@ -1,0 +1,54 @@
+
+Mobile company Three is to introduce adblocking across its UK and Italian 
+networks, making it the first major European operator to do so.
+
+Three has struck a deal with Israeli company Shine that will see the mobile 
+adblocking technology introduced in the UK and Italy, followed by a “rapid 
+roll-out” across its operations in other countries.
+
+The move is cause for serious concern for digital publishers and advertisers, 
+which are already dealing with a rising number of people who block advertising 
+when they use their phones.
+
+Three said its move to implement network-wide adblocking is not an attempt to 
+“eliminate” all mobile advertising, but to “give customers more control, choice 
+and greater transparency over what they receive”.
+
+The company, which has 9 million UK customers, said a network-wide adblocking 
+strategy is better than relying on apps because it “reaches a broader range of 
+mobile adblocking”.
+
+“Irrelevant and excessive mobile ads annoy customers and affect their overall 
+network experience,” said Three UK chief marketing officer Tom Malleschitz.
+
+Malleschitz said that the company has three core reasons for introducing the 
+technology.
+
+ * Customers pay data charges so they should not then receive ads, costs which 
+the company says advertisers should be made to pay.
+
+ * Some advertising aims to elicit customer data and information without them 
+knowing.
+
+ * Customers should only receive relevant advertising and not have their 
+mobile experience “degraded by excessive, intrusive, unwanted or irrelevant 
+ads”.
+
+“These goals will give customers choice and significantly improve their ad 
+experience,” said Malleschitz. “We don’t believe customers should have to pay 
+for data usage driven by mobile ads. The industry has to work together to give 
+customers mobile ads they want and benefit from.”
+
+Three said that it will now engage with the advertising community to “deliver 
+a better, more targeted and more transparent mobile ad experience to customers”.
+
+The Internet Advertising <http://www.theguardian.com/media/advertising> Bureau 
+warned that Three’s move could result in publishers being forced to charge 
+users for content they currently enjoy for free.
+
+“The IAB believes that an ad funded internet is essential in providing revenue 
+to publishers so they can continue to make their content, services and 
+applications widely available at little, or no cost,” said Alex Kozloff, the 
+IAB’s acting marketing and communications director. “We believe adblocking 
+undermines this approach and could mean consumers have to pay for content they 
+currently get for free.”

@@ -1,0 +1,130 @@
+
+The question of who should lead digital transformation has two answers, 
+because it requires two people: a political sponsor to champion the initiative 
+and a hard-charging executive to drive it through the bureaucracy.
+
+
+The sponsor’s job is to champion digital transformation and provide political 
+cover when it conflicts with traditional ways of working – as ambitious digital 
+efforts almost always do.
+
+Sir Francis Maude, who helped launch the UK’s Government Digital Service 
+<https://www.theguardian.com/technology/government-digital-service> (GDS), is 
+the kind of political leader needed for digital projects. While in opposition, 
+Maude developed the Tory’s government reform programme. He’s a seasoned 
+political veteran with more than three decades of experience inside and outside 
+government (including the Treasury, Cabinet Office, and Foreign Office) and, 
+critically, a trusted confidant and adviser to prime minister David Cameron.
+
+GDS made countless decisions that upset other ministers
+
+After becoming head of the Cabinet Office in 2010, Maude launched the 
+efficiency and reform group (ERG) to drive down the cost of government. “Maude 
+was a ruthless efficiency-seeker,” a senior official who worked with him told 
+me in March 2015. “He was constantly saying, ‘This is wasteful. This is 
+shameful, it’s morally wrong and we need to fix it and drive it through’.”
+
+Maude followed up his efficiency drive with an equally ambitious effort to 
+reform the civil service in 2012 
+<https://www.gov.uk/government/publications/civil-service-reform-plan>. His 
+third major reform was to make digital by default the UK’s tech strategy, with 
+the aim of providing government services through fast, simple and easy-to-use 
+digital interfaces.
+
+Maude described these new digital platforms 
+<http://www.computing.co.uk/ctg/news/2398080/a-modern-equivalent-to-londons-victorian-sewers-francis-maude-hails-importance-of-government-digital-reforms>
+ as “the foundations of our new civic infrastructure, a modern equivalent to 
+London’s Victorian sewer network, or the building of the National Grid”. As 
+such, he envisioned a digital strategy built into policy, so it wouldn’t be 
+seen as a stand-alone reform plan. He deliberately made digital service a part 
+of overall civil service reform, with the goal of creating a civil service that 
+wasless bureaucratic, more skilled, digital and unified 
+<https://www.gov.uk/government/publications/2010-to-2015-government-policy-civil-service-reform/2010-to-2015-government-policy-civil-service-reform>
+. His aim was to empower people to push back against policy when it runs 
+counter to a digital way of working.
+
+Maude also realised that the UK government, which had a huge debt burden, had 
+to radically change to remain solvent.
+
+A big part of Maude’s effort was standing up to the status quo. GDS made 
+countless decisions that upset other ministers, particularly when it denied IT 
+projects it deemed to be wasteful or duplicative. Maude’s fellow ministers 
+would go to him to overturn the decisions, but by all accounts he stood firm, 
+backing up GDS.
+
+Related: What impact has Francis Maude had on Whitehall? 
+<https://www.theguardian.com/public-leaders-network/2015/feb/02/francis-maude-whitehall-impact>
+
+But politicians such as Maude have many responsibilities so it’s unrealistic 
+to think they can personally drive each and every change through government. 
+They need partners.
+
+Maude found his partner in technology specialist Mike Bracken. Calling it “the 
+devil’s own job”, Bracken was asked to get more than a dozen government 
+departments moving the way Maude and GDS wanted. He talked about the challenge 
+ina 2011 blogpost 
+<http://mikebracken.com/blog/gov-uk/on-becoming-executive-director-of-digital-in-the-cabinet-office/>
+, written the day he joined GDS: “So I signed up. I’ve been watching this 
+unfold for 15 years. We’ve had some success at the Guardian in the last few 
+years, but this challenge is far greater: to improve the quality of digital 
+public service provision for every person in the UK.”
+
+The US techies with muscle
+
+Bracken’s counterpart in the US was Mikey Dickerson, brought in by US chief 
+technology officer Todd Park to help fix HealthCare.gov during its crisis.
+
+After salvaging HealthCare.gov – something Dickerson describes as more 
+important and meaningful than anything he could have accomplished in a lifetime 
+at his old job – he went back to Google buthe struggled to care 
+<https://medium.com/@USDigitalService/mikey-dickerson-to-sxsw-why-we-need-you-in-government-f31dab3263a0#.2mat544ml>
+.
+
+Mikey Dickerson knows that there is a big difference between the government 
+and Google.
+
+He soon came back into government to lead the US Digital Service (USDS). 
+There, he and his team took the same methods they used to turn around 
+HealthCare.gov and applied them to other projects. His appointment to the USDS 
+got a lot of attention, andso did his casual style 
+<http://www.theregister.co.uk/2014/08/21/obamas_new_national_it_admin_says_no_suits_please_were_techies/>
+ – his rumpled shirts providing a stark contrast to normal White House attire.
+
+One of the reasons Dickerson was so successful was his relationship with the 
+US president Barack Obama. This gives him the power to take on problems others 
+can’t. “Quite simply, the president can (and does) ask his cabinet secretaries 
+to take seriously any USDS overtures to work on projects within their agencies,”
+wrote Fast Company’s Jon Gertner 
+<http://www.fastcompany.com/3046756/obama-and-his-geeks> in 2015.
+
+Another smart move, according to Gertner, was nestling the USDS within the 
+Office of Management and Budget. He said this “gives the techies muscle within 
+various agencies and an ability to influence various IT budgets and lines of 
+command”.
+
+But Dickerson himself is a unique leader. Like all the best techies, he has a 
+relentless drive to fix problems and improve performance. After all, he comes 
+from an industry that holds as natural law the idea that everything will get 
+twice as good every two years. At the same time, he knows that there is a big 
+difference between the government and Google.
+
+He understands that you can’t disrupt huge programmes at will; you have to 
+innovate with patience. It’s in this softer approach to the USDS, patiently 
+hacking technology and bureaucracy, that’s he’s found a formula for success.
+
+But the right formula will only get you so far. Ask Dickerson, and he’ll tell 
+you that the number one advantage he has is a top-flight team. With 37 of the 
+nation’s best engineers and tech minds, it’s no surprise that USDS has made 
+such a splash.
+
+William D. Eggers is responsible for research and thought leadership for 
+Deloitte’s public sector practice. This is an edited excerpt from his newest 
+bookDelivering on Digital: the Innovators and Technologies that are 
+Transforming Government 
+<http://www.amazon.com/Delivering-Digital-Innovators-Technologies-Transforming/dp/0795347510>
+ and is printed with permission from RosettaBooks.
+
+Talk to us on Twitter via @Guardianpublic <https://twitter.com/guardianpublic> 
+andsign up <https://register.theguardian.com/public-leaders/> for your free 
+weekly Guardian Public Leaders newsletter with news and analysis sent direct to 
+you every Thursday.

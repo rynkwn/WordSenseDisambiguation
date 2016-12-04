@@ -1,0 +1,86 @@
+
+The winner’s curse <https://en.wikipedia.org/wiki/Winner%27s_curse>, a finding 
+based on economic theory, should concern brands. It’s the idea that the winner 
+of an auction tends to pay more for the goods than they’re worth. And it’s 
+worrying because more media than ever is bought via auctions. Two of the 
+fastest growing media, programmatic display and paid search, are auction-based. 
+The global spend on these media (pdf 
+<http://www.zenithoptimedia.com/wp-content/uploads/2015/09/Adspend-forecasts-September-2015-executive-summary1.pdf?mc_cid=85cd21944b&mc_eid=86d41fa20c>
+) was over $106bn (£75bn) in 2015 according to ZenithOptimedia.
+
+The phrase “winner’s curse” dates back to the 1950s when a spate of oil 
+companies significantly overpaid at an auction for Alaskan drilling rights. 
+Some paid so far over the odds that they went bust. Economists, such asRichard 
+Thaler <https://en.wikipedia.org/wiki/Richard_Thaler>, investigated the problem 
+and came up with an elegantly simple explanation.
+
+Thaler, one of the world’s most renowned economists, believes that during an 
+auction each bidder makes a private valuation of the goods and then bids up to 
+that amount. Due to a phenomenon known as the wisdom of the crowds the average 
+of all those valuations is reasonably accurate. After all, averaging out the 
+valuations will balance out the errors that each bidder makes. But of course, 
+if the average valuation is accurate, then the winning bid – the most 
+optimistic in its valuation – must be inflated.
+
+Related: Why context is everything for brands 
+<https://www.theguardian.com/media-network/2016/may/10/context-brands-reach-message>
+
+So how can brands buying avoid unwittingly overpaying? 
+
+If the world zigs, then zag
+
+Auctions are here to stay. Brands can’t ignore them. Instead they need to 
+adapt their bidding tactics by creating a contrarian set of metrics to identify 
+their audience.
+
+Most brands judge the value of an impression by looking for signals about age 
+or income. Say, targeting 18–34s or ABC1 25–54s. However, since this method is 
+commonplace, any brand that uses it will enter highly competitive auctions. And 
+the more participants there are in an auction, the more accurate the average 
+bid and the harder it is to avoid the winner’s curse.
+
+However, since so many brands are formulaic in their targeting approaches, 
+there are plenty of under-exploited opportunities for canny brands. One such 
+approach is to target a broader range of people, but focus on reaching them at 
+opportune moments. This is a sensible approach as there’s plenty of evidence 
+that people’s receptiveness to ads varies from one context to another.
+
+The power of context
+
+The exact context each brand should target will vary, but in our research we 
+have spotted a number of common themes:
+
+ * People are more receptive to ads when they’re in a good mood 
+<http://mediatel.co.uk/newsline/2015/10/14/how-should-brands-react-to-facebooks-new-reaction-emojis/>
+. 
+ * Funny ads 
+<http://wallblog.co.uk/2016/03/04/should-tv-planning-be-more-theatrical/> 
+become funnier when they’re watched in groups. 
+ * Consumers splash out on discretionary items far more after they have been 
+paid. 
+ * People are prone to switching brands when their life has been destabilised 
+by abig event 
+<https://www.warc.com/Blogs/Windows_of_opportunity_How_Konrad_Lorenzs_Nobel_winning_work_can_be_applied_to_advertising.blog?ID=2155>
+, like moving house or getting married. 
+The list goes on.
+
+Best of all, these contexts are easily identifiable and able to target due to 
+the data captured when consumers are online. Facebook, for example, can target 
+ads to those who have just moved house or got married. So the digital 
+transformation which exacerbates the winner’s curse also provides a solution.
+
+Brands that use these contextual signals to identify their audience, rather 
+than relying on tired, demographic data, will gain a competitive advantage by 
+avoiding the winner’s curse.
+
+Richard Shotton is head of insight at Zenith 
+<http://www.zenithoptimedia.co.uk/>
+
+To get weekly news analysis, job alerts and event notifications direct to your 
+inbox,sign up free for Media & Tech Network membership 
+<https://register.theguardian.com/media/>.
+
+
+All Guardian Media & Tech Network content is editorially independent except 
+for pieces labelled “Paid for by” – find out morehere 
+<http://www.theguardian.com/sponsored-content>.
