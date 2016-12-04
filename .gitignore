@@ -1,2 +1,5 @@
 # Ignore unix residues from files.
 *~
+
+# Ignore javac residue
+*.class
