@@ -47,9 +47,6 @@ public class WordSenseTrainer {
 		}
 	    }
 	}
-	
-	
-
 
 	// Build up token model/detector.
 	InputStream tokenModelIn = new FileInputStream("en-token.bin");
@@ -70,10 +67,6 @@ public class WordSenseTrainer {
 		}
 	    }
 	}
-
-	
-	
-
 	
 	// For every file in our data set, we want to loop over.
 	File dataDir = new File(dirName);	
@@ -177,16 +170,6 @@ public class WordSenseTrainer {
 
 	return vector;
     }
-    
-    // Adds contents of v2 to v1, and returns v1
-    public void sumVectors(HashMap<Integer, Integer> v1, HashMap<Integer, Integer> v2){
-	for (int index : v2.keySet()){
-	    int toAdd = v2.get(index);
-
-	    int val = (v1.get(index) == null) ? 0 : v1.get(index);
-	    v1.put(index, val + toAdd);
-	}
-    }
 
     // Retrieve list of sentences that use this word ranked by
     // closest word sense.
@@ -198,5 +181,59 @@ public class WordSenseTrainer {
     // Score a sentence based on "similarity" with original sentence.
     public double score(String sentence, String inputSentence, String word) {
 	return 0.0;
+    }
+
+    // Scores two sentences by looking at individual words in the training sentence
+    // as well as the input sentence.
+    // @param word Is the ambiguous word in inputSentence.
+    public double wordByWordScore(String sentence, String inputSentence, String word) {
+
+	String[] trainingWords = tokenizer.tokenize(sentence);
+	String[] inputWords = tokenizer.tokenize(sentence);
+
+	// For each word in the inputSentence, I want to look at a window of words in the
+	// training sentence.
+
+	for(int i = 0; i < inputWords.length; i++) {
+	    
+	}
+	
+	return 0.0;
+    }
+
+
+    //////////////////////////////////
+    //
+    // Helper Methods
+    //
+
+    public int manhattenDistance(HashMap<Integer, Integer> contextVector1, HashMap<Integer, Integer> contextVecetor2) {
+	int dist = 0;
+
+	// We create a common set of all indices that have non-zero values.
+	HashSet<Integer> indices = new HashSet<Integer>();
+
+	indices.addAll(contextVector1.keySet());
+	indices.addAll(contextVector2.keySet());
+
+	// Now we go through those indices and take manhatten distances.
+	for(int index : indices) {
+	    int val1 = (contextVector1.containsKey(index)) ? contextVector1.get(index) : 0;
+	    int val2 = (contextVector2.containsKey(index)) ? contextVector2.get(index) : 0;
+
+	    dist += Math.abs(val1 - val2);
+	}
+
+	return dist;
+    }
+
+    // Adds contents of v2 to v1, and returns v1
+    public void sumVectors(HashMap<Integer, Integer> v1, HashMap<Integer, Integer> v2){
+	for (int index : v2.keySet()){
+	    int toAdd = v2.get(index);
+
+	    int val = (v1.get(index) == null) ? 0 : v1.get(index);
+	    v1.put(index, val + toAdd);
+	}
     }
 }
