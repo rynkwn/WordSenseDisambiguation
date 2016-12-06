@@ -207,24 +207,28 @@ public class WordSenseTrainer {
     // Helper Methods
     //
 
-    public int manhattenDistance(HashMap<Integer, Integer> contextVector1, HashMap<Integer, Integer> contextVecetor2) {
+    public int manhattenDistance(HashMap<Integer, Integer> vector1, HashMap<Integer, Integer> vector2) {
 	int dist = 0;
 
 	// We create a common set of all indices that have non-zero values.
 	HashSet<Integer> indices = new HashSet<Integer>();
 
-	indices.addAll(contextVector1.keySet());
-	indices.addAll(contextVector2.keySet());
+	indices.addAll(vector1.keySet());
+	indices.addAll(vector2.keySet());
 
 	// Now we go through those indices and take manhatten distances.
 	for(int index : indices) {
-	    int val1 = (contextVector1.containsKey(index)) ? contextVector1.get(index) : 0;
-	    int val2 = (contextVector2.containsKey(index)) ? contextVector2.get(index) : 0;
+	    int val1 = (vector1.containsKey(index)) ? vector1.get(index) : 0;
+	    int val2 = (vector2.containsKey(index)) ? vector2.get(index) : 0;
 
 	    dist += Math.abs(val1 - val2);
 	}
 
 	return dist;
+    }
+
+    public double cosineSimilarity(HashMap<Integer, Integer> vector1, HashMap<Integer, Integer> vector2) {
+	return 0.0;
     }
 
     // Adds contents of v2 to v1, and returns v1
