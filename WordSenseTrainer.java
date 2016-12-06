@@ -26,7 +26,7 @@ public class WordSenseTrainer {
 
     public static SentenceDetectorME sentenceDetector;
     public static Tokenizer tokenizer;
-    public HashMap<String, ArrayList<String>> concordance;
+    public HashMap<String, ArrayList<String[]> concordance;
 
     // Mapping from Word -> (Index -> Value).
     public HashMap<String, HashMap<Integer, Integer>> randomIndex = new HashMap<String, HashMap<Integer, Integer>>();
@@ -148,14 +148,14 @@ public class WordSenseTrainer {
 	    ArrayList<String> entry = concordance.get(t);
 	    if (entry == null){
 		entry = new ArrayList<String>();
-		concordance.put(t, entry);
+		concordance.put(t, tokens);
 	    } 
 	    entry.add(sentence);
 	}
 	
 	for (int i = 0; i < tokens.length; i++){
 	    for (int c = Math.max(0, i-CONTEXT_WINDOW_SIZE);
-		 c < Math.min(tokens.length-1, i+CONTEXT_WINDOW_SIZE);
+		 c <= Math.min(tokens.length-1, i+CONTEXT_WINDOW_SIZE);
 		 c++){
 		if (!tokens[c].equals(tokens[i])){
 		    HashMap<Integer, Integer> wordContext = context.get(tokens[i]);
@@ -189,6 +189,51 @@ public class WordSenseTrainer {
 	return null;
     }
     
+    public ArrayList<String[]> retrieveSentenceMatch(String inputSentence, String word) {
+    	String[] tokens = tokenizer.tokenize(inputSentence);
+
+  
+    	ArrayList<String[]> results = new ArrayList<String[]>();
+
+    	// copy over sentences so we can sort them undestructively
+    	ArrayList<String[]> matches = concordance.get(word);
+    	for (String[] sentence : matches){
+    		results.add(sentence);
+    	}
+
+    	HashMap<Integer, Integer> queryContext = buildSentenceWindowContext(inputSentence, word);
+
+    	HashMap<String[], HashMap<Integer, Integer>> sentenceContexts = new HashMap<String[], HashMap<Integer, Integer>>();
+    	for (String[] s: results){
+    		sentenceContexts.add(s, buildSentenceWindowContext(s, word));
+    	}
+
+    	// next:  sort results by distance between queryContext and each result's sentenceContext vector
+    	// will need a comparator
+
+    	return null;
+    }
+
+    // Returns context vector for a single word in this specific sentence
+    public HashMap<Integer, Integer> buildSentenceWindowContext(String[] sentence, String word){
+    	// find the first occurence of target word in sentence
+    	int wordPos;
+    	for (wordPos = 0; wordPos < tokens.length; wordPos++){
+    		if (tokens[wordPos].equals(word)) break;
+    	}
+    	// word not found in sentence; return empty results
+    	if (wordPos >= tokens.length) return new HashMap<Integer, Integer>;
+
+    	// build context vector
+    	HashMap<Integer, Integer> res = new HashMap<Integer, Integer>();
+    	for (int i = Math.max(0,wordPos-CONTEXT_WINDOW_SIZE); i <= Math.min(tokens.length-1, wordPos + CONTEXT_WINDOW_SIZE); i++){
+    		if (i != wordPos){
+    			sumVectors(res, randomIndex.get(t));
+    		}    		
+    	}
+
+    	return res;
+    }
     
     // Score a sentence based on "similarity" with original sentence.
     public double score(String sentence, String inputSentence, String word) {
