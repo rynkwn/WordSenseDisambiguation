@@ -8,9 +8,21 @@ import java.util.HashMap;
 
 public class WordSenseTrainer {
 
+    //////////////////////////////////
+    //
+    // GENERAL CONSTANTS
+    //
     public final int CONTEXT_WINDOW_SIZE = 3;
     public final int VECTOR_SIZE = 2000;
     public final int VECTOR_FILL = 100;
+
+    //////////////////////////////////
+    //
+    // CONSTANTS RELATED TO wordByWordScore
+    //
+
+    public final int WORD_BY_WORD_WINDOW_SIZE = 3;
+
 
     public static SentenceDetectorME sentenceDetector;
     public static Tokenizer tokenizer;
@@ -191,14 +203,36 @@ public class WordSenseTrainer {
 	String[] trainingWords = tokenizer.tokenize(sentence);
 	String[] inputWords = tokenizer.tokenize(sentence);
 
+	double finalScore = 0.0;
+
 	// For each word in the inputSentence, I want to look at a window of words in the
 	// training sentence.
 
 	for(int i = 0; i < inputWords.length; i++) {
 	    
+	    double windowScore = 0.0;
+	    
+	    // We don't want to perform this process on the actual input word.
+	    // Instead, we'll only look at nearby words.
+	    if(!inputWords[i].equals(word)) {
+		HashMap<Integer, Integer> curWordContext = context.get(inputWords[i]);
+		
+		// Now loop through the largest possible window constrained by
+		// WORD_BY_WORD_WINDOW_SIZE.
+		for(int j = Math.max(0, i - WORD_BY_WORD_WINDOW_SIZE);
+		    j <= Math.min(trainingWords.length - 1, i + WORD_BY_WORD_WINDOW_SIZE);
+		    j++) {
+		    
+		    HashMap<Integer, Integer> targetWordContext = context.get(trainingWords[j]);
+		    windowScore += (double) manhattenDistance(curWordContext, targetWordContext);
+		    
+		}
+	    }
+
+	    finalScore += windowScore;
 	}
 	
-	return 0.0;
+	return finalScore;
     }
 
 
