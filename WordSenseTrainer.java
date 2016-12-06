@@ -205,9 +205,12 @@ public class WordSenseTrainer {
     public double wordByWordScore(String sentence, String inputSentence, String word) {
 
 	String[] trainingWords = tokenizer.tokenize(sentence);
+	String[] inputWords = tokenizer.tokenize(sentence);
 
 	// For each word in the inputSentence, I want to look at a window of words in the
 	// training sentence.
+	
+
 	return 0.0;
     }
 }
