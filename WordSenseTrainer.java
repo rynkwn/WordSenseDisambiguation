@@ -227,8 +227,20 @@ public class WordSenseTrainer {
 	return dist;
     }
 
+
+    // Derives cosine similarity from this formula:
+    // v1 o v2 = ||v1|| * ||v2|| * cos(0)
     public double cosineSimilarity(HashMap<Integer, Integer> vector1, HashMap<Integer, Integer> vector2) {
-	return 0.0;
+	
+	// ||v1|| * ||v2|| should be set to the below value.
+	double sqrSize = VECTOR_FILL;
+	
+	double dprod = (double) dotProduct(vector1, vector2);
+
+	double cosVal = dprod / sqrSize;
+	double radDiff = Math.acos(cosVal);
+	
+	return radDiff;
     }
 
     // Adds contents of v2 to v1, and returns v1
@@ -239,5 +251,21 @@ public class WordSenseTrainer {
 	    int val = (v1.get(index) == null) ? 0 : v1.get(index);
 	    v1.put(index, val + toAdd);
 	}
+    }
+
+    // Returns the result of v1 o v2
+    public int dotProduct(HashMap<Integer, Integer> v1, HashMap<Integer, Integer> v2) {
+	int output = 0;
+	
+	// I really only have to go through the indices for one of the HashVectors.
+	// If they don't share a common index, then the added sum is 0.
+	for(int index : v1.keySet()) {
+	    int val1 = (v1.containsKey(index)) ? v1.get(index) : 0;
+	    int val2 = (v2.containsKey(index)) ? v2.get(index) : 0;
+
+	    output += (val1 * val2);
+	}
+
+	return output;
     }
 }
