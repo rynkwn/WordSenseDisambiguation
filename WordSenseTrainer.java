@@ -185,35 +185,26 @@ public class WordSenseTrainer {
 
     // Retrieve list of sentences that use this word ranked by
     // closest word sense.
-    public ArrayList<String> retrieve(String inputSentence, String word) {
-	return null;
-    }
-    
-    public ArrayList<String[]> retrieveSentenceMatch(String inputSentence, String word) {
+    public ArrayList<String[]> retrieve(String inputSentence, String word) {
     	String[] tokens = tokenizer.tokenize(inputSentence);
-
   
     	ArrayList<String[]> results = new ArrayList<String[]>();
 
     	// copy over sentences so we can sort them undestructively
-    	ArrayList<String[]> matches = concordance.get(word);
-    	for (String[] sentence : matches){
+    	for (String[] sentence : concordance.get(word)){
     		results.add(sentence);
     	}
 
-    	HashMap<Integer, Integer> queryContext = buildSentenceWindowContext(tokens, word);
-
     	HashMap<String[], Double> sentenceScores = new HashMap<String[], Double>();
     	for (String[] s: results){
-    		HashMap<Integer, Integer> sentenceContext = buildSentenceWindowContext(s, word);
-    		sentenceScores.put(s, (double) manhattenDistance(queryContext, sentenceContext));
+    		sentenceScores.put(s, sentenceMatchScore(s, tokens, word));
     	}
 
     	// next:  sort results by distance between queryContext and each result's sentenceContext vector
     	// will need a comparator
     	results.sort(new ScoreComparator(sentenceScores));
 
-    	return null;
+    	return results;
     }
 
     class ScoreComparator implements Comparator<String[]>{
@@ -226,6 +217,12 @@ public class WordSenseTrainer {
     	public int compare(String[] a, String[] b){
     		return (int)(sentenceScores.get(a) - sentenceScores.get(b));
     	}
+    }
+    
+    public double sentenceMatchScore(String[] trainingWords, String[] inputWords, String word) {
+    	HashMap<Integer, Integer> queryContext = buildSentenceWindowContext(inputWords, word);
+    	HashMap<Integer, Integer> sentenceContext = buildSentenceWindowContext(trainingWords, word);
+    	return (double) manhattenDistance(queryContext, sentenceContext);
     }
 
     // Returns context vector for a single word in this specific sentence
