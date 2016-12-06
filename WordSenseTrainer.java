@@ -243,10 +243,7 @@ public class WordSenseTrainer {
     // Scores two sentences by looking at individual words in the training sentence
     // as well as the input sentence.
     // @param word Is the ambiguous word in inputSentence.
-    public double wordByWordScore(String sentence, String inputSentence, String word) {
-
-	String[] trainingWords = tokenizer.tokenize(sentence);
-	String[] inputWords = tokenizer.tokenize(sentence);
+    public double wordByWordScore(String[] trainingWords, String[] inputWords, String word) {
 
 	double finalScore = 0.0;
 
