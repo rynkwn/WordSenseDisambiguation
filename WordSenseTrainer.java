@@ -264,6 +264,8 @@ public class WordSenseTrainer {
 	for(int i = 0; i < inputWords.length; i++) {
 	    
 	    double windowScore = 0.0;
+
+	    double numWordsCompared = 0;
 	    
 	    // We don't want to perform this process on the actual input word.
 	    // Instead, we'll only look at nearby words.
@@ -278,9 +280,12 @@ public class WordSenseTrainer {
 		    
 		    HashMap<Integer, Integer> targetWordContext = context.get(trainingWords[j]);
 		    windowScore += (double) manhattenDistance(curWordContext, targetWordContext);
+		    numWordsCompared++;
 		    
 		}
 	    }
+
+	    windowScore /= numWordsCompared;
 
 	    finalScore += windowScore;
 	}
