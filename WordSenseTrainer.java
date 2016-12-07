@@ -168,21 +168,6 @@ public class WordSenseTrainer {
 	}
     }
 
-    
-    // Creates a random vector using VECTOR_SIZE and VECTOR_FILL constants.
-    public HashMap<Integer, Integer> createRandomVector() {
-	
-	HashMap<Integer, Integer> vector = new HashMap<Integer, Integer>();
-	Random r = new Random();
-	
-	while (vector.size() < VECTOR_FILL){
-	    // set random index in vector to 1 or -1 (1 - (0*2), or 1 - (1*2));
-	    vector.put(r.nextInt(VECTOR_SIZE), 1-(r.nextInt(2)*2));
-	}
-
-	return vector;
-    }
-
     // Retrieve list of sentences that use this word ranked by
     // closest word sense.
     public ArrayList<String[]> retrieve(String inputSentence, String word) {
@@ -291,6 +276,20 @@ public class WordSenseTrainer {
     //
     // Helper Methods
     //
+
+    // Creates a random vector using VECTOR_SIZE and VECTOR_FILL constants.
+    public HashMap<Integer, Integer> createRandomVector() {
+	
+	HashMap<Integer, Integer> vector = new HashMap<Integer, Integer>();
+	Random r = new Random();
+	
+	while (vector.size() < VECTOR_FILL){
+	    // set random index in vector to 1 or -1 (1 - (0*2), or 1 - (1*2));
+	    vector.put(r.nextInt(VECTOR_SIZE), 1-(r.nextInt(2)*2));
+	}
+
+	return vector;
+    }
 
     public int manhattenDistance(HashMap<Integer, Integer> vector1, HashMap<Integer, Integer> vector2) {
 	int dist = 0;
