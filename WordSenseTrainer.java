@@ -202,21 +202,9 @@ public class WordSenseTrainer {
 
     	// next:  sort results by distance between queryContext and each result's sentenceContext vector
     	// will need a comparator
-    	results.sort(new ScoreComparator(sentenceScores));
+    	Collections.sort(results, new ScoreComparator(sentenceScores));
 
     	return results;
-    }
-
-    class ScoreComparator implements Comparator<String[]>{
-    	HashMap<String[], Double> sentenceScores;
-
-    	public ScoreComparator(HashMap<String[], Double> scores){
-    		sentenceScores = scores;
-    	}
-
-    	public int compare(String[] a, String[] b){
-    		return (int)(sentenceScores.get(a) - sentenceScores.get(b));
-    	}
     }
     
     public double sentenceMatchScore(String[] trainingWords, String[] inputWords, String word) {
