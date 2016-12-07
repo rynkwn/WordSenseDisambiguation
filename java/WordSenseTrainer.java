@@ -39,7 +39,6 @@ public class WordSenseTrainer {
     // Takes in a String name of training corpus/Directory.
     public WordSenseTrainer(String dirName) throws FileNotFoundException {
 	
-
 	// Build up Sentence model/detector.
 	InputStream modelIn = new FileInputStream("en-sent.bin");
 	
@@ -118,7 +117,6 @@ public class WordSenseTrainer {
 		    e.printStackTrace();
 		}
 
-		// Does below work?
 		String[] sentences = sentenceDetector.sentDetect(content);
 
 		// For each sentence, build up context vector of relevant words.
