@@ -197,7 +197,7 @@ public class WordSenseTrainer {
 
     	HashMap<String[], Double> sentenceScores = new HashMap<String[], Double>();
     	for (String[] s: results){
-    		sentenceScores.put(s, sentenceMatchScore(s, tokens, word));
+    		sentenceScores.put(s, score(s, tokens, word));
     	}
 
     	// next:  sort results by distance between queryContext and each result's sentenceContext vector
@@ -207,6 +207,17 @@ public class WordSenseTrainer {
     	return results;
     }
     
+    // Score a sentence based on "similarity" with original sentence.
+    public double score(String[] trainingWords, String[] inputWords, String word) {
+	return sentenceMatchScore(trainingWords, inputWords, word);
+    }
+
+    
+    //////////////////////////////////
+    //
+    // Scoring Methods
+    //
+
     public double sentenceMatchScore(String[] trainingWords, String[] inputWords, String word) {
     	HashMap<Integer, Integer> queryContext = buildSentenceWindowContext(inputWords, word);
     	HashMap<Integer, Integer> sentenceContext = buildSentenceWindowContext(trainingWords, word);
@@ -232,11 +243,6 @@ public class WordSenseTrainer {
     	}
 
     	return res;
-    }
-    
-    // Score a sentence based on "similarity" with original sentence.
-    public double score(String sentence, String inputSentence, String word) {
-	return 0.0;
     }
 
     // Scores two sentences by looking at individual words in the training sentence
@@ -280,7 +286,6 @@ public class WordSenseTrainer {
 	
 	return finalScore;
     }
-
 
     //////////////////////////////////
     //
