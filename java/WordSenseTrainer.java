@@ -350,4 +350,26 @@ public class WordSenseTrainer {
 
 	return output;
     }
+    
+    // Prints the contents of our concordance map.
+    public void concordancePrint() {
+	for(String word : concordance.keySet()) {
+	    ArrayList<String[]> sentences = concordance.get(word);
+
+	    System.out.println(word);
+	    for(String[] sentence : sentences) {
+		System.out.print("\t");
+		printSentence(sentence);
+	    }
+	}
+    }
+
+    // Prints a sentence given in array form.
+    public void printSentence(String[] sent) {
+	for(String word : sent) {
+	    System.out.print(word + " ");
+	}
+
+	System.out.println();
+    }
 }
