@@ -29,6 +29,12 @@ public class WordSensor {
 	}
     }
 
+    
+    //////////////////////////////////
+    //
+    // Helper Methods
+    //
+
     public static void error(String message) {
 	System.out.println("____________________________________");
 	System.out.println(message);
