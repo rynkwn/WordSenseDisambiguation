@@ -1,4 +1,4 @@
-
+import java.util.Scanner;
 
 // The interface for WordSenseTrainer
 public class WordSensor {
@@ -22,10 +22,28 @@ public class WordSensor {
 	    return;
 	}
 
-	while(keepRunning) {
-	    // We read in the user's input.
 
-	    keepRunning = false;
+	// A scanner to read in user input.
+	Scanner scan = new Scanner(System.in);
+
+	String sentence;
+	String word;
+
+	while(keepRunning) {
+	    
+	    // We read in the user's input.
+	    prompt("Please enter a sentence.");
+	    sentence = scan.nextLine();
+
+
+	    // If the "sentence" is just a "q", we break.
+	    if(sentence.equalsIgnoreCase("q")) {
+		keepRunning = false;
+		break;
+	    }
+
+	    prompt("Which word in that sentence is ambiguous?");
+	    word = scan.next();
 	}
     }
 
@@ -35,9 +53,14 @@ public class WordSensor {
     // Helper Methods
     //
 
+    public static void prompt(String message) {
+	System.out.println(message);
+    }
+
     public static void error(String message) {
 	System.out.println("____________________________________");
-	System.out.println(message);
+	System.out.println("ERROR:");
+	System.out.println("\t" + message);
 	System.out.println("____________________________________");
     }
 }
