@@ -26,7 +26,7 @@ public class WordSenseTrainer {
 
     public static SentenceDetectorME sentenceDetector;
     public static Tokenizer tokenizer;
-    public HashMap<String, ArrayList<String[]>> concordance;
+    public HashMap<String, ArrayList<String[]>> concordance = new HashMap<String, ArrayList<String[]>>();
 
     // Mapping from Word -> (Index -> Value).
     public HashMap<String, HashMap<Integer, Integer>> randomIndex = new HashMap<String, HashMap<Integer, Integer>>();
@@ -82,6 +82,7 @@ public class WordSenseTrainer {
 	// For every file in our data set, we want to loop over.
 	File dataDir = new File(dirName);	
 	
+	processFiles(dataDir);
     }
 
     
@@ -170,6 +171,8 @@ public class WordSenseTrainer {
     // closest word sense.
     public ArrayList<String[]> retrieve(String inputSentence, String word) {
     	String[] tokens = tokenizer.tokenize(inputSentence);
+
+	//concordancePrint();
   
     	ArrayList<String[]> results = new ArrayList<String[]>();
 
