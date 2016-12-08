@@ -175,7 +175,6 @@ public class WordSenseTrainer {
     	String[] tokens = tokenizer.tokenize(inputSentence);
 
 	//concordancePrint();
-	System.out.println(word);
   
     	ArrayList<String[]> results = new ArrayList<String[]>();
 
@@ -229,9 +228,10 @@ public class WordSenseTrainer {
     	// build window context vector
     	HashMap<Integer, Integer> res = new HashMap<Integer, Integer>();
     	for (int i = Math.max(0,wordPos-CONTEXT_WINDOW_SIZE); i <= Math.min(sentence.length-1, wordPos + CONTEXT_WINDOW_SIZE); i++){
+
     		if (i != wordPos){
-    			sumVectors(res, randomIndex.get(sentence[i]));
-    		}    		
+    			sumVectors(res, getRandomVector(sentence[i]));
+    		}
     	}
 
     	return res;
@@ -283,6 +283,16 @@ public class WordSenseTrainer {
     //
     // Helper Methods
     //
+
+    // A safe way of getting a random vector.
+    public HashMap<Integer, Integer> getRandomVector(String word) {
+	if(randomIndex.containsKey(word))
+	    return randomIndex.get(word);
+
+	HashMap<Integer, Integer> vect = createRandomVector();
+	randomIndex.put(word, vect);
+	return vect;
+    }
 
     // Creates a random vector using VECTOR_SIZE and VECTOR_FILL constants.
     public HashMap<Integer, Integer> createRandomVector() {
