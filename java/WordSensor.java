@@ -34,8 +34,10 @@ public class WordSensor {
 	while(keepRunning) {
 	    
 	    // We read in the user's input.
+	    // TODO: GARY. IF YOU KNOW A BETTER WAY TO READ IN A FULL LINE OF INPUT
+	    // MINUS THE NEWLINE CHARACTER, LET ME KNOW. CURRENTLY HACKY.
 	    prompt("Please enter a sentence.");
-	    sentence = scan.nextLine();
+	    sentence = readNextLine(scan);
 
 
 	    // If the "sentence" is just a "q", we break.
@@ -45,7 +47,7 @@ public class WordSensor {
 	    }
 
 	    prompt("Which word in that sentence is ambiguous?");
-	    word = scan.nextLine();
+	    word = readNextLine(scan);
 
 	    flush(1);
 
@@ -69,6 +71,13 @@ public class WordSensor {
 	    }
 	    System.out.println();
 	}
+    }
+
+    // Reads the next line of input and removes the newline character at the end.
+    public static String readNextLine(Scanner scan) {
+	String line = scan.nextLine();
+	line = line.substring(0, line.length() - 1);
+	return line;
     }
 
     public static void prompt(String message) {
