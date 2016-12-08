@@ -43,7 +43,9 @@ public class WordSensor {
 	    }
 
 	    prompt("Which word in that sentence is ambiguous?");
-	    word = scan.next();
+	    word = scan.nextLine();
+
+	    flush(2);
 	}
     }
 
@@ -55,6 +57,13 @@ public class WordSensor {
 
     public static void prompt(String message) {
 	System.out.println(message);
+    }
+
+    // Creates n new lines.
+    public static void flush(int n) {
+	for(int i = 0; i < n; i++) {
+	    System.out.println();
+	}
     }
 
     public static void error(String message) {

@@ -40,7 +40,7 @@ public class WordSenseTrainer {
     public WordSenseTrainer(String dirName) throws FileNotFoundException {
 	
 	// Build up Sentence model/detector.
-	InputStream modelIn = new FileInputStream("en-sent.bin");
+	InputStream modelIn = new FileInputStream("bin/en-sent.bin");
 	
 	try {
 	    SentenceModel model = new SentenceModel(modelIn);
@@ -60,7 +60,7 @@ public class WordSenseTrainer {
 	}
 
 	// Build up token model/detector.
-	InputStream tokenModelIn = new FileInputStream("en-token.bin");
+	InputStream tokenModelIn = new FileInputStream("bin/en-token.bin");
 	
 	try {
 	    TokenizerModel tokenModel = new TokenizerModel(tokenModelIn);
