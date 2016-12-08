@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.util.ArrayList;
 
 // The interface for WordSenseTrainer
 public class WordSensor {
@@ -28,6 +29,7 @@ public class WordSensor {
 
 	String sentence;
 	String word;
+	ArrayList<String[]> results;
 
 	while(keepRunning) {
 	    
@@ -45,6 +47,11 @@ public class WordSensor {
 	    prompt("Which word in that sentence is ambiguous?");
 	    word = scan.nextLine();
 
+	    flush(1);
+
+	    results = wordSense.retrieve(sentence, word);
+	    printResults(results);
+
 	    flush(2);
 	}
     }
@@ -54,6 +61,15 @@ public class WordSensor {
     //
     // Helper Methods
     //
+
+    public static void printResults(ArrayList<String[]> results) {
+	for(String[] sentence : results) {
+	    for(String word : sentence) {
+		System.out.print(word + " ");
+	    }
+	    System.out.println();
+	}
+    }
 
     public static void prompt(String message) {
 	System.out.println(message);
