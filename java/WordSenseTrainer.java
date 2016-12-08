@@ -118,6 +118,8 @@ public class WordSenseTrainer {
 		    e.printStackTrace();
 		}
 
+		content = content.toLowerCase();
+
 		String[] sentences = sentenceDetector.sentDetect(content);
 
 		// For each sentence, build up context vector of relevant words.
@@ -173,22 +175,26 @@ public class WordSenseTrainer {
     	String[] tokens = tokenizer.tokenize(inputSentence);
 
 	//concordancePrint();
+	System.out.println(word);
   
     	ArrayList<String[]> results = new ArrayList<String[]>();
 
-    	// copy over sentences so we can sort them undestructively
-    	for (String[] sentence : concordance.get(word)){
+	// Always possible we don't actually have the word.
+	if(concordance.containsKey(word)) {
+	    // copy over sentences so we can sort them undestructively
+	    for (String[] sentence : concordance.get(word)){
     		results.add(sentence);
-    	}
-
-    	HashMap<String[], Double> sentenceScores = new HashMap<String[], Double>();
-    	for (String[] s: results){
+	    }
+	    
+	    HashMap<String[], Double> sentenceScores = new HashMap<String[], Double>();
+	    for (String[] s: results){
     		sentenceScores.put(s, score(s, tokens, word));
-    	}
-
-    	// next:  sort results by distance between queryContext and each result's sentenceContext vector
-    	// will need a comparator
-    	Collections.sort(results, new ScoreComparator(sentenceScores));
+	    }
+	    
+	    // next:  sort results by distance between queryContext and each result's sentenceContext vector
+	    // will need a comparator
+	    Collections.sort(results, new ScoreComparator(sentenceScores));	    
+	}
 
     	return results;
     }

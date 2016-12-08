@@ -65,18 +65,22 @@ public class WordSensor {
     //
 
     public static void printResults(ArrayList<String[]> results) {
-	for(String[] sentence : results) {
-	    for(String word : sentence) {
-		System.out.print(word + " ");
+	if(results.size() == 0) {
+	    System.out.println("No results!");
+	} else {
+	    for(String[] sentence : results) {
+		for(String word : sentence) {
+		    System.out.print(word + " ");
+		}
+		System.out.println();
 	    }
-	    System.out.println();
 	}
     }
 
     // Reads the next line of input and removes the newline character at the end.
     public static String readNextLine(Scanner scan) {
 	String line = scan.nextLine();
-	line = line.substring(0, line.length() - 1);
+	//line = line.substring(0, line.length());
 	return line;
     }
 
