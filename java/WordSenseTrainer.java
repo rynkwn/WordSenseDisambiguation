@@ -200,11 +200,14 @@ public class WordSenseTrainer {
 		 c <= Math.min(tokens.length-1, i+CONTEXT_WINDOW_SIZE);
 		 c++){
 		if (!tokens[c].equals(tokens[i])){
+		    
 		    HashMap<Integer, Integer> wordContext = context.get(tokens[i]);
 		    if (wordContext == null){
 			wordContext = new HashMap<Integer, Integer>();
 		    }
 		    sumVectors(wordContext, randomIndex.get(tokens[c]));
+
+		    context.put(tokens[i], wordContext);
 		}
 	    }
 	}
