@@ -204,10 +204,10 @@ public class WordSenseTrainer {
 		    HashMap<Integer, Integer> wordContext = context.get(tokens[i]);
 		    if (wordContext == null){
 			wordContext = new HashMap<Integer, Integer>();
+						
+			context.put(tokens[i], wordContext);
 		    }
 		    sumVectors(wordContext, randomIndex.get(tokens[c]));
-
-		    context.put(tokens[i], wordContext);
 		}
 	    }
 	}
@@ -217,6 +217,19 @@ public class WordSenseTrainer {
     // closest word sense.
     public ArrayList<String[]> retrieve(String inputSentence, String word) {
     	String[] tokens = tokenizer.tokenize(inputSentence);
+	String[] tags = posTagger.tag(tokens);
+	
+	int wordIndex = -1;
+
+	// Lemmatize tokens.
+	for(int i = 0; i < tokens.length; i++) {
+	    if(wordIndex < 0 && word.equalsIgnoreCase(tokens[i]))
+		wordIndex = i;
+	    tokens[i] = lemmatizer.lemmatize(tokens[i], tags[i]);
+	}
+
+	if(wordIndex >= 0)
+	    word = lemmatizer.lemmatize(tokens[wordIndex], tags[wordIndex]);
 
 	//concordancePrint();
   
@@ -287,7 +300,7 @@ public class WordSenseTrainer {
     // @param word Is the ambiguous word in inputSentence.
     public double wordByWordScore(String[] trainingWords, String[] inputWords, String word) {
 
-	// We want to compare contextVectors.
+	// We want to compare contextVectors, so let's process the new input.
 	processSentence(join(inputWords));
 
 	double finalScore = 0.0;
