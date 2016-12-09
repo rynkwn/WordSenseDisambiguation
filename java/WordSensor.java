@@ -52,7 +52,7 @@ public class WordSensor {
 	    flush(1);
 
 	    results = wordSense.retrieve(sentence, word);
-	    printResults(results);
+	    printResults(results, wordSense);
 
 	    flush(2);
 	}
@@ -64,7 +64,8 @@ public class WordSensor {
     // Helper Methods
     //
 
-    public static void printResults(ArrayList<String[]> results) {
+    public static void printResults(ArrayList<String[]> results, WordSenseTrainer wordSense) {
+
 	if(results.size() == 0) {
 	    System.out.println("No results!");
 	} else {
@@ -72,6 +73,8 @@ public class WordSensor {
 		for(String word : sentence) {
 		    System.out.print(word + " ");
 		}
+
+		System.out.print("\t" + wordSense.getScore(sentence));
 		System.out.println();
 	    }
 	}

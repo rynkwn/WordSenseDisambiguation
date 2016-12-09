@@ -39,6 +39,8 @@ public class WordSenseTrainer {
     public HashMap<String, HashMap<Integer, Integer>> randomIndex = new HashMap<String, HashMap<Integer, Integer>>();
     public HashMap<String, HashMap<Integer, Integer>> context = new HashMap<String, HashMap<Integer, Integer>>();
 
+    public HashMap<String[], Double> sentenceScores = new HashMap<String[], Double>();
+    
     // Constructor that does training.
     // Reading in the corpus and tokenizing it.
     // Doing random indexing, constructing the sentence mapping.
@@ -232,7 +234,6 @@ public class WordSenseTrainer {
     		results.add(sentence);
 	    }
 	    
-	    HashMap<String[], Double> sentenceScores = new HashMap<String[], Double>();
 	    for (String[] s: results){
     		sentenceScores.put(s, score(s, tokens, word));
 	    }
@@ -247,7 +248,7 @@ public class WordSenseTrainer {
     
     // Score a sentence based on "similarity" with original sentence.
     public double score(String[] trainingWords, String[] inputWords, String word) {
-	return wordByWordScore(trainingWords, inputWords, word);
+	return sentenceMatchScore(trainingWords, inputWords, word);
     }
 
     
@@ -492,5 +493,14 @@ public class WordSenseTrainer {
 	for(String s : ar)
 	    sb.append(s + " ");
 	return sb.toString();
+    }
+
+    // Try to get a sentence score.
+    public double getScore(String[] sentence) {
+	if(sentenceScores.containsKey(sentence)) {
+	    return sentenceScores.get(sentence);
+	}
+
+	return Double.MAX_VALUE;
     }
 }
