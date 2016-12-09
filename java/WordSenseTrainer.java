@@ -309,7 +309,7 @@ public class WordSenseTrainer {
 		    
 		    HashMap<Integer, Integer> targetWordContext = context.get(trainingWords[j]);
 
-		    windowScore += (double) manhattenDistance(curWordContext, targetWordContext);
+		    windowScore += (double) Math.pow(manhattenDistance(curWordContext, targetWordContext), 2);
 		    numWordsCompared++;
 		    
 		}
