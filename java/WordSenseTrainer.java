@@ -176,8 +176,6 @@ public class WordSenseTrainer {
 	String[] tokens = tokenizer.tokenize(sentence);
 	String[] tags = posTagger.tag(tokens);
 
-	
-
 	for(int i = 0; i < tokens.length; i++) {
 	    tokens[i] = lemmatizer.lemmatize(tokens[i], tags[i]);
 
@@ -243,7 +241,7 @@ public class WordSenseTrainer {
     
     // Score a sentence based on "similarity" with original sentence.
     public double score(String[] trainingWords, String[] inputWords, String word) {
-	return sentenceMatchScore(trainingWords, inputWords, word);
+	return wordByWordScore(trainingWords, inputWords, word);
     }
 
     
@@ -285,6 +283,9 @@ public class WordSenseTrainer {
     // @param word Is the ambiguous word in inputSentence.
     public double wordByWordScore(String[] trainingWords, String[] inputWords, String word) {
 
+	// We want to compare contextVectors.
+	processSentence(join(inputWords));
+
 	double finalScore = 0.0;
 
 	// For each word in the inputSentence, I want to look at a window of words in the
@@ -293,7 +294,6 @@ public class WordSenseTrainer {
 	for(int i = 0; i < inputWords.length; i++) {
 	    
 	    double windowScore = 0.0;
-
 	    double numWordsCompared = 0;
 	    
 	    // We don't want to perform this process on the actual input word.
@@ -308,6 +308,7 @@ public class WordSenseTrainer {
 		    j++) {
 		    
 		    HashMap<Integer, Integer> targetWordContext = context.get(trainingWords[j]);
+
 		    windowScore += (double) manhattenDistance(curWordContext, targetWordContext);
 		    numWordsCompared++;
 		    
@@ -433,5 +434,13 @@ public class WordSenseTrainer {
 	}
 
 	System.out.println();
+    }
+
+    // Joins an array of String.
+    public String join(String[] ar) {
+	StringBuilder sb = new StringBuilder();
+	for(String s : ar)
+	    sb.append(s + " ");
+	return sb.toString();
     }
 }
