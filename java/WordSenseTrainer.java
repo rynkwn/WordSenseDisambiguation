@@ -43,6 +43,8 @@ public class WordSenseTrainer {
     // Reading in the corpus and tokenizing it.
     // Doing random indexing, constructing the sentence mapping.
 
+
+    int dirCount = 0;
     // Takes in a String name of training corpus/Directory.
     public WordSenseTrainer(String dirName) throws FileNotFoundException {
 	
@@ -119,7 +121,6 @@ public class WordSenseTrainer {
 
 	// For every file in our data set, we want to loop over.
 	File dataDir = new File(dirName);	
-	
 	processFiles(dataDir);
     }
 
@@ -143,6 +144,10 @@ public class WordSenseTrainer {
 		}
 	    } else {
 		
+
+	    System.out.println(dirCount + ": "+ f.getPath());
+	    dirCount++;
+
 		// We have a file.
 
 		// Grab the contents of the file.
@@ -153,7 +158,7 @@ public class WordSenseTrainer {
 		try{
 
 			//Scanner s = new Scanner(f).useDelimiter("\\Z");
-			System.out.println(f);
+			//System.out.println(f);
 			content = new String(Files.readAllBytes(f.toPath()), StandardCharsets.UTF_8);
 		} catch(Exception e) {
 		    e.printStackTrace();
