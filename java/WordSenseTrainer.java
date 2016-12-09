@@ -195,22 +195,7 @@ public class WordSenseTrainer {
 	    entry.add(tokens);
 	}
 	
-	for (int i = 0; i < tokens.length; i++){
-	    for (int c = Math.max(0, i-CONTEXT_WINDOW_SIZE);
-		 c <= Math.min(tokens.length-1, i+CONTEXT_WINDOW_SIZE);
-		 c++){
-		if (!tokens[c].equals(tokens[i])){
-		    
-		    HashMap<Integer, Integer> wordContext = context.get(tokens[i]);
-		    if (wordContext == null){
-			wordContext = new HashMap<Integer, Integer>();
-						
-			context.put(tokens[i], wordContext);
-		    }
-		    sumVectors(wordContext, randomIndex.get(tokens[c]));
-		}
-	    }
-	}
+	buildContext(tokens);
     }
 
     // Retrieve list of sentences that use this word ranked by
@@ -299,9 +284,7 @@ public class WordSenseTrainer {
     // as well as the input sentence.
     // @param word Is the ambiguous word in inputSentence.
     public double wordByWordScore(String[] trainingWords, String[] inputWords, String word) {
-
-	// We want to compare contextVectors, so let's process the new input.
-	processSentence(join(inputWords));
+	HashMap<String, HashMap<Integer, Integer>> inputContext = buildContextVector(inputWords);
 
 	double finalScore = 0.0;
 
@@ -316,7 +299,7 @@ public class WordSenseTrainer {
 	    // We don't want to perform this process on the actual input word.
 	    // Instead, we'll only look at nearby words.
 	    if(!inputWords[i].equals(word)) {
-		HashMap<Integer, Integer> curWordContext = context.get(inputWords[i]);
+		HashMap<Integer, Integer> curWordContext = inputContext.get(inputWords[i]);
 		
 		// Now loop through the largest possible window constrained by
 		// WORD_BY_WORD_WINDOW_SIZE.
@@ -345,6 +328,51 @@ public class WordSenseTrainer {
     // Helper Methods
     //
 
+    // Add to our context vector.
+    public void buildContext(String[] tokens) {
+	for (int i = 0; i < tokens.length; i++){
+	    for (int c = Math.max(0, i-CONTEXT_WINDOW_SIZE);
+		 c <= Math.min(tokens.length-1, i+CONTEXT_WINDOW_SIZE);
+		 c++){
+		if (!tokens[c].equals(tokens[i])){
+		    
+		    HashMap<Integer, Integer> wordContext = context.get(tokens[i]);
+		    if (wordContext == null){
+			wordContext = new HashMap<Integer, Integer>();
+			
+			context.put(tokens[i], wordContext);
+		    }
+		    sumVectors(wordContext, getRandomVector(tokens[c]));
+		}
+	    }
+	}
+    }
+
+    // Builds a context vector for a given array of tokens, and returns the context vector. 
+    public HashMap<String, HashMap<Integer, Integer>> buildContextVector(String[] tokens) {
+	HashMap<String, HashMap<Integer, Integer>> contextVector = new HashMap<String, HashMap<Integer, Integer>>();
+
+	for (int i = 0; i < tokens.length; i++){
+	    for (int c = Math.max(0, i-CONTEXT_WINDOW_SIZE);
+		 c <= Math.min(tokens.length-1, i+CONTEXT_WINDOW_SIZE);
+		 c++){
+		if (!tokens[c].equals(tokens[i])){
+		    
+		    HashMap<Integer, Integer> wordContext = contextVector.get(tokens[i]);
+
+		    if (wordContext == null){
+			wordContext = new HashMap<Integer, Integer>();
+			contextVector.put(tokens[i], wordContext);
+		    } 
+		    
+		    sumVectors(wordContext, getRandomVector(tokens[c]));		    		    
+		}
+	    }
+	}
+
+	return contextVector;
+    }
+    
     // A safe way of getting a random vector.
     public HashMap<Integer, Integer> getRandomVector(String word) {
 	if(randomIndex.containsKey(word))
