@@ -2,6 +2,8 @@ import java.io.*; // Shorten afterwards.
 import java.util.*;
 import opennlp.tools.sentdetect.*;
 import opennlp.tools.tokenize.*;
+import opennlp.tools.postag.*;
+import opennlp.tools.lemmatizer.SimpleLemmatizer;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -26,6 +28,9 @@ public class WordSenseTrainer {
 
     public static SentenceDetectorME sentenceDetector;
     public static Tokenizer tokenizer;
+    public static POSTaggerME posTagger;
+    public static SimpleLemmatizer lemmatizer;
+
     public HashMap<String, ArrayList<String[]>> concordance = new HashMap<String, ArrayList<String[]>>();
 
     // Mapping from Word -> (Index -> Value).
@@ -78,7 +83,38 @@ public class WordSenseTrainer {
 		}
 	    }
 	}
+
+	// Build up a part of speech tagger
+	InputStream posModelIn = new FileInputStream("bin/en-pos-maxent.bin");
 	
+	try {
+	    POSModel posModel = new POSModel(posModelIn);
+	    posTagger = new POSTaggerME(posModel);
+	}
+	catch (IOException e) {
+	    e.printStackTrace();
+	}
+	finally {
+	    if (posModelIn != null) {
+		try {
+		    posModelIn.close();
+		}
+		catch (IOException e) {
+		}
+	    }
+	}
+
+	// Create Lemmatizer
+	InputStream lemmaIn = new FileInputStream("bin/en-lemmatizer.dict");
+	
+	lemmatizer = new SimpleLemmatizer(lemmaIn);
+
+	try {
+	    lemmaIn.close();
+	} catch(IOException e) {
+	    
+	}
+
 	// For every file in our data set, we want to loop over.
 	File dataDir = new File(dirName);	
 	
@@ -138,18 +174,25 @@ public class WordSenseTrainer {
     public void processSentence(String sentence) {
 	 
 	String[] tokens = tokenizer.tokenize(sentence);
+	String[] tags = posTagger.tag(tokens);
+
 	
-	for (String t : tokens){
+
+	for(int i = 0; i < tokens.length; i++) {
+	    tokens[i] = lemmatizer.lemmatize(tokens[i], tags[i]);
+
+	    String word = tokens[i];
+	    
 	    // Random indexing: generate the random vector for this word if it doesn't exist
-	    if (!randomIndex.containsKey(t)){
-		randomIndex.put(t, createRandomVector());
+	    if(!randomIndex.containsKey(word)) {
+		randomIndex.put(word, createRandomVector());
 	    }
 
 	    // add this sentence to this word's concordance entry
-	    ArrayList<String[]> entry = concordance.get(t);
+	    ArrayList<String[]> entry = concordance.get(word);
 	    if (entry == null){
 		entry = new ArrayList<String[]>();
-		concordance.put(t, entry);
+		concordance.put(word, entry);
 	    } 
 	    entry.add(tokens);
 	}
