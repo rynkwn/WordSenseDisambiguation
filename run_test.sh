@@ -12,7 +12,9 @@ echo Your OS is $os
 # If not linux, we assume Windows.
 case $os in
 	Linux*) path=$src:$jars ;;
-	*) path=$src;$jars ;;
+	*) path="$src;$jars" ;;
 esac
+
+echo Classpath is $path
 
 java -cp $path WordSensor TestData

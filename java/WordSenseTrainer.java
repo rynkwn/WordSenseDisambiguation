@@ -252,6 +252,7 @@ public class WordSenseTrainer {
     // Scoring Methods
     //
 
+    // Method 1:  Take context of window around target word in query and training sentence, score by manhattan distnace
     public double sentenceMatchScore(String[] trainingWords, String[] inputWords, String word) {
     	HashMap<Integer, Integer> queryContext = buildSentenceWindowContext(inputWords, word);
     	HashMap<Integer, Integer> sentenceContext = buildSentenceWindowContext(trainingWords, word);
