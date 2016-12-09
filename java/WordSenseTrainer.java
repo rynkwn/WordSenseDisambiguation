@@ -1,4 +1,6 @@
-import java.io.*; // Shorten afterwards.
+import java.nio.file.*; // Shorten afterwards.
+import java.nio.charset.*;
+import java.io.*;
 import java.util.*;
 import opennlp.tools.sentdetect.*;
 import opennlp.tools.tokenize.*;
@@ -14,7 +16,7 @@ public class WordSenseTrainer {
     //
     // GENERAL CONSTANTS
     //
-    public final int CONTEXT_WINDOW_SIZE = 3;
+    public final int CONTEXT_WINDOW_SIZE = 5;
     public final int VECTOR_SIZE = 2000;
     public final int VECTOR_FILL = 100;
 
@@ -149,8 +151,11 @@ public class WordSenseTrainer {
 		String content = "";
 		
 		try{
-		    content = new Scanner(f).useDelimiter("\\Z").next();
-		} catch(FileNotFoundException e) {
+
+			//Scanner s = new Scanner(f).useDelimiter("\\Z");
+			System.out.println(f);
+			content = new String(Files.readAllBytes(f.toPath()), StandardCharsets.UTF_8);
+		} catch(Exception e) {
 		    e.printStackTrace();
 		}
 

@@ -12,7 +12,7 @@ echo Your OS is $os
 # If not linux, we assume Windows.
 case $os in
 	Linux*) path=$src:$jars ;;
-	*) path=$src;$jars ;;
+	*) path="$src;$jars" ;;
 esac
 
 java -cp $path WordSensor Dataset
