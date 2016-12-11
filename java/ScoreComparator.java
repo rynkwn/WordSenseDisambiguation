@@ -10,6 +10,9 @@ class ScoreComparator implements Comparator<String[]>{
     }
     
     public int compare(String[] a, String[] b){
-	return (int)(sentenceScores.get(a) - sentenceScores.get(b));
+	double diff = sentenceScores.get(a) - sentenceScores.get(b);
+	if (diff > 0) return 1;
+	else if (diff < 0) return -1;
+	else return 0;
     }
 }
