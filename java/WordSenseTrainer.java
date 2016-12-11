@@ -227,8 +227,6 @@ public class WordSenseTrainer {
     	if(wordIndex >= 0)
     		word = lemmatizer.lemmatize(tokens[wordIndex], tags[wordIndex]);
 
-	//concordancePrint();
-
     	ArrayList<String[]> results = new ArrayList<String[]>();
 
 	// Always possible we don't actually have the word.
@@ -237,7 +235,7 @@ public class WordSenseTrainer {
     		for (String[] sentence : concordance.get(word)){
     			results.add(sentence);
     		}
-
+    		System.out.println("# of results:  "+ results.length);
     		for (String[] s: results){
     			sentenceScores.put(s, score(s, tokens, word, method));
     		}
@@ -288,12 +286,10 @@ public class WordSenseTrainer {
     	// build window context vector
     	HashMap<Integer, Integer> res = new HashMap<Integer, Integer>();
     	for (int i = Math.max(0,wordPos-CONTEXT_WINDOW_SIZE); i <= Math.min(sentence.length-1, wordPos + CONTEXT_WINDOW_SIZE); i++){
-    		System.out.print(sentence[i]);
     		if (i != wordPos){
     			sumVectors(res, getRandomVector(sentence[i]));
     		}
     	}
-    	System.out.println();
 
     	return res;
     }
