@@ -20,12 +20,17 @@ public class WordSenseTrainer {
     public final int VECTOR_SIZE = 2000;
     public final int VECTOR_FILL = 100;
 
+    public final int SENTENCE_MATCH_SCORE_IDENTIFIER = 0;
+    public final int WORD_BY_WORD_SCORE_IDENTIFIER = 1;
+
     //////////////////////////////////
     //
     // CONSTANTS RELATED TO wordByWordScore
     //
 
     public final int WORD_BY_WORD_WINDOW_SIZE = 3;
+
+    
 
 
     public static SentenceDetectorME sentenceDetector;
@@ -212,7 +217,7 @@ public class WordSenseTrainer {
 
     // Retrieve list of sentences that use this word ranked by
     // closest word sense.
-    public ArrayList<String[]> retrieve(String inputSentence, String word) {
+    public ArrayList<String[]> retrieve(String inputSentence, String word, int method) {
     	String[] tokens = tokenizer.tokenize(inputSentence);
 	String[] tags = posTagger.tag(tokens);
 	
@@ -240,7 +245,7 @@ public class WordSenseTrainer {
 	    }
 	    
 	    for (String[] s: results){
-    		sentenceScores.put(s, score(s, tokens, word));
+    		sentenceScores.put(s, score(s, tokens, word, method));
 	    }
 	    
 	    // next:  sort results by distance between queryContext and each result's sentenceContext vector
@@ -252,8 +257,15 @@ public class WordSenseTrainer {
     }
     
     // Score a sentence based on "similarity" with original sentence.
-    public double score(String[] trainingWords, String[] inputWords, String word) {
-	return sentenceMatchScore(trainingWords, inputWords, word);
+    public double score(String[] trainingWords, String[] inputWords, String word, int method) {
+	switch(method) {
+	case SENTENCE_MATCH_SCORE_IDENTIFIER:
+	    return sentenceMatchScore(trainingWords, inputWords, word);
+	case WORD_BY_WORD_SCORE_IDENTIFIER:
+	    return wordByWordScore(trainingWords, inputWords, word);    
+	}
+	
+	return - Double.MAX_VALUE;
     }
 
     

@@ -27,6 +27,8 @@ public class WordSensor {
 	// A scanner to read in user input.
 	Scanner scan = new Scanner(System.in);
 
+	int method = promptForScoringSystem(scan);
+
 	String sentence;
 	String word;
 	ArrayList<String[]> results;
@@ -51,7 +53,7 @@ public class WordSensor {
 
 	    flush(1);
 
-	    results = wordSense.retrieve(sentence, word);
+	    results = wordSense.retrieve(sentence, word, method);
 	    printResults(results, wordSense);
 
 	    flush(2);
@@ -85,6 +87,23 @@ public class WordSensor {
 	String line = scan.nextLine();
 	//line = line.substring(0, line.length());
 	return line;
+    }
+
+    public static int promptForScoringSystem(Scanner scan) {
+	flush(1);
+
+	System.out.println("Which scoring system would you like to use?");
+	System.out.println("0) Sentence Match -> Compare a window around the first instance of the ambiguous word in the input and training sentences");
+	System.out.println("1) Word by Word -> Look at every non-ambiguous word in the input sentence and compare its context vector with a window of words in the training sentence.");
+	
+	int val = -1;
+	while(val != 0 && val != 1) {
+	    prompt("Please enter 0 or 1");
+	    val = scan.nextInt();
+	    scan.nextLine(); // Need to flush out the new line character.
+	}
+
+	return val;
     }
 
     public static void prompt(String message) {
