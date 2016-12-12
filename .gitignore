@@ -3,3 +3,6 @@
 
 # Ignore javac residue
 *.class
+
+# Ignore data.ser file
+data.ser
