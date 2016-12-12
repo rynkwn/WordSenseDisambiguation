@@ -7,6 +7,8 @@ import opennlp.tools.tokenize.*;
 import opennlp.tools.postag.*;
 import opennlp.tools.lemmatizer.SimpleLemmatizer;
 
+import net.didion.jwnl.*;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 
