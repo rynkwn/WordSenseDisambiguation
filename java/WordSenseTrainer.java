@@ -479,9 +479,9 @@ public class WordSenseTrainer {
 		    HashMap<Integer, Integer> targetWordContext = context.get(trainingWords[j]);
 
 		    double curVal = cosineSimilarity(curWordContext, targetWordContext);
-		    curVal = Math.pow(curVal, 2); // Penalize score if not close.
+		    curVal = Math.pow(curVal, 2); // Give an added advantage to closer words.
 		    windowScore = Math.min(curVal, windowScore);
-		    //numWordsCompared++;
+		    numWordsCompared++;
 
     		}
 	    }
@@ -489,7 +489,7 @@ public class WordSenseTrainer {
 	    if(windowScore == 999999)
 		windowScore = 0;
 
-	    //windowScore /= numWordsCompared;
+	    windowScore /= numWordsCompared;
 
 	    finalScore += windowScore;
 	}
