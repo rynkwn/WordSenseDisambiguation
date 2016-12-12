@@ -17,4 +17,4 @@ esac
 
 echo Classpath is $path
 
-java -cp $path WordSensor TestData
+java -cp $path WordSensor TestData false

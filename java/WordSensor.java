@@ -11,6 +11,7 @@ public class WordSensor {
 
 	// Use the first argument as the directory name.
 	String dirName = args[0];
+	boolean useDefinitions = Boolean.parseBoolean(args[1]);
 
 	// We build up our Word Sense magic
 	WordSenseTrainer wordSense;
@@ -53,7 +54,7 @@ public class WordSensor {
 
 	    flush(1);
 
-	    results = wordSense.retrieve(sentence, word, method);
+	    results = wordSense.retrieve(sentence, word, method, useDefinitions);
 	    printResults(results, wordSense);
 
 	    flush(2);

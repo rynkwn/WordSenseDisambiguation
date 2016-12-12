@@ -262,7 +262,7 @@ public class WordSenseTrainer {
 
     // Retrieve the top 10 list of sentences that use this word ranked by
     // closest word sense.
-    public List<String[]> retrieve(String inputSentence, String word, int method) {
+    public List<String[]> retrieve(String inputSentence, String word, int method, boolean useDefinitions) {
     	String[] tokens = tokenizer.tokenize(inputSentence);
     	String[] tags = posTagger.tag(tokens);
 
