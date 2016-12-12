@@ -23,7 +23,7 @@ public class WordSenseTrainer {
     //
     // GENERAL CONSTANTS
     //
-    public final int CONTEXT_WINDOW_SIZE = 5;
+    public final int CONTEXT_WINDOW_SIZE = 7;
     public final int VECTOR_SIZE = 2000;
     public final int VECTOR_FILL = 100;
     public final int NUMBER_OF_FILES = 1000;
@@ -314,10 +314,13 @@ public class WordSenseTrainer {
 
 	    for (String[] s: results){
 		sentenceScores.put(s, score(s, tokens, word, method));
+		//System.out.println(sentenceScores.get(s));
 	    }
 
 	    // next:  sort results by distance between queryContext and each result's sentenceContext vector
 	    // will need a comparator
+
+	    
 	    Collections.sort(results, new ScoreComparator(sentenceScores));	    
     	}
 
@@ -374,7 +377,9 @@ public class WordSenseTrainer {
     	HashMap<Integer, Integer> res = new HashMap<Integer, Integer>();
     	for (int i = Math.max(0,wordPos-CONTEXT_WINDOW_SIZE); i <= Math.min(sentence.length-1, wordPos + CONTEXT_WINDOW_SIZE); i++){
 	    if (i != wordPos){
-		sumVectors(res, getRandomVector(sentence[i]));
+		if (context.keySet().contains(sentence[i])){
+		    sumVectors(res, getRandomVector(sentence[i]));
+		}	    
 	    }
     	}
 
@@ -386,8 +391,8 @@ public class WordSenseTrainer {
     // @param word Is the ambiguous word in inputSentence.
     public double wordByWordScore(String[] trainingWords, String[] inputWords, String word) {
 
-	trainingWords = removeStopWords(trainingWords);
-	inputWords = removeStopWords(inputWords);
+	//trainingWords = removeStopWords(trainingWords);
+	//inputWords = removeStopWords(inputWords);
 
     	HashMap<String, HashMap<Integer, Integer>> inputContext = buildContextVector(inputWords);
 
@@ -455,18 +460,6 @@ public class WordSenseTrainer {
     //
     // Helper Methods
     //
-
-    // Remove stop words
-    public String[] removeStopWords(String[] in){
-	ArrayList<String> out = new ArrayList();
-	for (String w: in){
-	    if (!stopwords.contains(w)){
-		out.add(w);
-	    }
-	}
-	return out.toArray(new String[out.size()]);
-    }
-
 
     // Add to our context vector.
     public void buildContext(String[] tokens) {
@@ -565,7 +558,9 @@ public class WordSenseTrainer {
 
 	// ||v1|| * ||v2|| should be set to the below value.
 	double sqrSize = magnitude(vector1)*magnitude(vector2);
+	System.out.println("SQARSIZE:"+sqrSize);
 	double dprod = (double) dotProduct(vector1, vector2);
+	System.out.println("DPROD:"+dprod);
 	double cosVal = dprod / sqrSize;
 
 	return cosVal;
@@ -588,7 +583,7 @@ public class WordSenseTrainer {
 	// I really only have to go through the indices for one of the HashVectors.
 	// If they don't share a common index, then the added sum is 0.
 	for(int index : v1.keySet()) {
-	    int val1 = (v1.containsKey(index)) ? v1.get(index) : 0;
+	    int val1 = v1.get(index);
 	    int val2 = (v2.containsKey(index)) ? v2.get(index) : 0;
 
 	    output += (val1 * val2);
@@ -600,9 +595,8 @@ public class WordSenseTrainer {
     public double magnitude(HashMap<Integer, Integer> v){
 	int sum = 0;
 	for (int i : v.keySet()){
-	    sum += v.get(i)*v.get(i);
+	    sum += Math.pow(v.get(i),2);
 	}
-
 	return Math.sqrt(sum);
     }
 

@@ -1,1 +1,12 @@
+Word Sense Disambiguation
 By Gary Chen and Ryan Kwon
+
+
+Compile using script "compile_all.sh".  
+
+Run using "run_program.sh". If "data.ser" is not in the directory, the program will build it from the Guardian training corpus (takes less than 10 minutes).  Otherwise, it will read in all data from the file (takes about 1 minute with the provided files, which was built from the first 1000 files of the Guardian corpus).  
+
+Program will prompt for which scoring method to use; sentence matching (option 0) currently works better.
+
+Follow prompts to enter a sentence and an ambiguous word in the sentence.  Results printed are top 10 most "similar" usages of the target word from the training corpus.
+
