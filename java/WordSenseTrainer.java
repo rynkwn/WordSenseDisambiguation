@@ -306,22 +306,30 @@ public class WordSenseTrainer {
 	    // Go through all senses of the word and aggregate them.
 	    try {
 		indexWord = dictionary.lookupIndexWord(POS.NOUN, word);
-		senses = indexWord.getSenses();
+		
+		if(indexWord != null)
+		    senses = indexWord.getSenses();
 	    } catch(JWNLException e) { }
 
 	    try {
 		indexWord = dictionary.lookupIndexWord(POS.VERB, word);
-		senses = concatSenses(senses, indexWord.getSenses());
+
+		if(indexWord != null) 
+		    senses = concatSenses(senses, indexWord.getSenses());
 	    } catch(JWNLException e) { }
 	    
 	    try {
 		indexWord = dictionary.lookupIndexWord(POS.ADJECTIVE, word);
+
+		if(indexWord != null)
 		senses = concatSenses(senses, indexWord.getSenses());
 	    } catch(JWNLException e) { }
 	    
 	    try {
 		indexWord = dictionary.lookupIndexWord(POS.ADVERB, word);
-		senses = concatSenses(senses, indexWord.getSenses());
+
+		if(indexWord != null)
+		    senses = concatSenses(senses, indexWord.getSenses());
 	    } catch(JWNLException e) { }
 
 	    // List of brief descriptions of each sense
@@ -349,6 +357,7 @@ public class WordSenseTrainer {
 	System.out.println("# of results:  "+ results.size());
 
 	for (String[] s: results){
+	    //printSentence(s);
 	    sentenceScores.put(s, score(s, tokens, word, method));
 	}
 
@@ -389,6 +398,8 @@ public class WordSenseTrainer {
     public double sentenceMatchScore(String[] trainingWords, String[] inputWords, String word) {
 	HashMap<Integer, Integer> queryContext = buildSentenceWindowContext(inputWords, word);
     	HashMap<Integer, Integer> sentenceContext = buildSentenceWindowContext(trainingWords, word);
+
+	System.out.println((queryContext == null) + " - " + (sentenceContext == null));
     	return (double) cosineSimilarity(queryContext, sentenceContext);
     }
 
@@ -399,6 +410,7 @@ public class WordSenseTrainer {
     	for (wordPos = 0; wordPos < sentence.length; wordPos++){
 	    if (sentence[wordPos].equals(word)) break;
     	}
+	
     	// word not found in sentence; shouldn't happen
     	if (wordPos >= sentence.length) return null;
 	 
@@ -482,6 +494,24 @@ public class WordSenseTrainer {
 	}
 
 	return finalScore;
+    }
+
+    
+    // Dictionary score. Specific to scoring the dictionary sentences.
+    public double dictionaryScore(String[] dictionarySent, String[] inputWords, String word) {
+	HashMap<Integer, Integer> dictContext = new HashMap<Integer, Integer>();
+	HashMap<Integer, Integer> inputContext = new HashMap<Integer, Integer>();
+
+	// We approximate a context vector for the entire sentence:
+	for(int i = 0; i < dictionarySent.length; i++) {
+	    sumVectors(dictContext, getRandomVector(dictionarySent[i]));
+	}
+
+	for(int i = 0; i < inputWords.length; i++) {
+	    sumVectors(inputContext, getRandomVector(inputWords[i]));
+	}
+
+	return cosineSimilarity(dictContext, inputContext);
     }
 
     //////////////////////////////////
