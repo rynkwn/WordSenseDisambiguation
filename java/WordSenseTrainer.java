@@ -7,7 +7,11 @@ import opennlp.tools.tokenize.*;
 import opennlp.tools.postag.*;
 import opennlp.tools.lemmatizer.SimpleLemmatizer;
 
-import net.didion.jwnl.*;
+//import net.didion.jwnl.*;
+import net.didion.jwnl.JWNL;
+import net.didion.jwnl.JWNLException;
+import net.didion.jwnl.dictionary.Dictionary;
+import net.didion.jwnl.data.POS;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -39,6 +43,11 @@ public class WordSenseTrainer {
     public static Tokenizer tokenizer;
     public static POSTaggerME posTagger;
     public static SimpleLemmatizer lemmatizer;
+
+    // WordNet dictionary
+    // properties.xml file taken from Roland-Kluge
+    // blog.roland-kluge.de/?p=430
+    public static Dictionary dictionary;
 
     public HashMap<String, ArrayList<String[]>> concordance = new HashMap<String, ArrayList<String[]>>();
 
@@ -125,9 +134,15 @@ public class WordSenseTrainer {
 
 	try {
 	    lemmaIn.close();
-	} catch(IOException e) {
+	} catch(IOException e) { }
 
+	// Create access point to WordNet
+	try {
+	    JWNL.initialize(new FileInputStream("bin/properties.xml"));
+	} catch(JWNLException e) {
+	    e.printStackTrace();
 	}
+	dictionary = Dictionary.getInstance();
 
 
 	/*	// Build stop words list
@@ -265,6 +280,7 @@ public class WordSenseTrainer {
     public List<String[]> retrieve(String inputSentence, String word, int method, boolean useDefinitions) {
     	String[] tokens = tokenizer.tokenize(inputSentence);
     	String[] tags = posTagger.tag(tokens);
+	printSentence(tags);
 
     	int wordIndex = -1;
 
@@ -279,10 +295,20 @@ public class WordSenseTrainer {
 	    word = lemmatizer.lemmatize(tokens[wordIndex], tags[wordIndex]);
 
     	ArrayList<String[]> results = new ArrayList<String[]>();
-
-	//reset sentenceScores
-	sentenceScores = new HashMap<String[], Double>();
 	
+	// If the user decides to try to return dictionary definitions.
+	if(useDefinitions) {
+
+	    // Need part of speech to query WordNet.
+	    String[] pos = posTagger.tag(new String[]{ word });
+	    POS wordPos;
+
+	    
+	    
+	    //Sysnet[] senses = dictionary.lookupIndexWord(
+
+	}
+
 	// Always possible we don't actually have the word.
     	if(concordance.containsKey(word)) {
 	    // copy over sentences so we can sort them undestructively
