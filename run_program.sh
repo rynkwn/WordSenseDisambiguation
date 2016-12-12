@@ -15,4 +15,4 @@ case $os in
 	*) path="$src;$jars;jars/*" ;;
 esac
 
-java -Xmx6g -cp $path WordSensor Dataset false
+java -Xmx1000g -cp $path WordSensor Dataset false
