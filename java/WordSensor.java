@@ -4,8 +4,15 @@ import java.util.List;
 // The interface for WordSenseTrainer
 public class WordSensor {
 
-    public static void main(String[] args) {
+    // method to use for scoring: 0 = sentence match score, 1 = word by word score
+    int scoreMethod;
+    // context window size (on either side)
+    int windowSize;
+    // what corpus to rank for retrieval; 0 = training corpus, 1 = dictionary
+    int rankCorpus;
 
+    public static void main(String[] args) {
+ 
 	// FLAG: Set to false if we should stop.
 	boolean keepRunning = true;
 
@@ -20,7 +27,7 @@ public class WordSensor {
 	    wordSense = new WordSenseTrainer(dirName);
 	} catch(Exception e) {
 	    e.printStackTrace();
-	    error("File not found, or file not a directory!");
+	    System.err.println("File not found, or file not a directory!");
 	    return;
 	}
 
@@ -118,12 +125,5 @@ public class WordSensor {
 	for(int i = 0; i < n; i++) {
 	    System.out.println();
 	}
-    }
-
-    public static void error(String message) {
-	System.out.println("____________________________________");
-	System.out.println("ERROR:");
-	System.out.println("\t" + message);
-	System.out.println("____________________________________");
-    }
+    }    
 }
