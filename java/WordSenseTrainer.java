@@ -302,6 +302,7 @@ public class WordSenseTrainer {
 	    IndexWord indexWord;
 	    Synset[] senses = new Synset[0];
 
+	    // Go through all senses of the word and aggregate them.
 	    try {
 		indexWord = dictionary.lookupIndexWord(POS.NOUN, word);
 		senses = indexWord.getSenses();
