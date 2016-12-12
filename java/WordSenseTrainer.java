@@ -326,7 +326,11 @@ public class WordSenseTrainer {
 	    Collections.sort(results, new ScoreComparator(sentenceScores));	    
     	}
 
-    	return results.subList(0, 10);
+	if(results.size() > 10) {
+	   return results.subList(0, 10);
+	} else {
+	    return results;
+	}
     }
     
     // Score a sentence based on "similarity" with original sentence.  Lemmatizes training sentence too.
