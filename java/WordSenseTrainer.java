@@ -7,7 +7,6 @@ import opennlp.tools.tokenize.*;
 import opennlp.tools.postag.*;
 import opennlp.tools.lemmatizer.SimpleLemmatizer;
 
-//import net.didion.jwnl.*;
 import net.didion.jwnl.JWNL;
 import net.didion.jwnl.JWNLException;
 import net.didion.jwnl.dictionary.Dictionary;
