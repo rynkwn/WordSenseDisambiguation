@@ -93,8 +93,9 @@ public class WordSensor {
 	flush(1);
 
 	System.out.println("Which scoring system would you like to use?");
-	System.out.println("0) Sentence Match -> Compare a window around the first instance of the ambiguous word in the input and training sentences");
-	System.out.println("1) Word by Word -> Look at every non-ambiguous word in the input sentence and compare its context vector with a window of words in the training sentence.");
+	flush(1);
+	System.out.println("\t0) Sentence Match -> Compare a window around the first instance of the ambiguous word in the input and training sentences");
+	System.out.println("\t1) Word by Word -> Look at every non-ambiguous word in the input sentence and compare its context vector with a window of words in the training sentence.");
 	
 	int val = -1;
 	while(val != 0 && val != 1) {
