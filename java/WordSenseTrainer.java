@@ -522,8 +522,6 @@ public class WordSenseTrainer {
     // Helper Methods
     //
 
-<<<<<<< HEAD
-=======
     // Remove stop words
     public String[] removeStopWords(String[] in){
 	ArrayList<String> out = new ArrayList();
@@ -542,8 +540,6 @@ public class WordSenseTrainer {
 	}
     }
 
-
->>>>>>> 9b97f079d872259dc9cfdb8d5854640e39084c5b
     // Add to our context vector.
     public void buildContext(String[] tokens) {
        	for (int i = 0; i < tokens.length; i++){
