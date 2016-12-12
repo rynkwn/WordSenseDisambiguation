@@ -1,6 +1,7 @@
 #!/bin/bash
 
-# Runs WordSensor on the large Guardian dataset.
+# Runs WordSensor on the small test dataset.
+# Also uses the dictionary definitions of the ambiguous word.
 
 src=java
 jars=jars/opennlp-tools-1.6.0.jar
@@ -15,4 +16,4 @@ case $os in
 	*) path="$src;$jars;jars/*" ;;
 esac
 
-java -Xmx6g -cp $path WordSensor Dataset false
+java -Xmx6g -cp $path WordSensor TestData true

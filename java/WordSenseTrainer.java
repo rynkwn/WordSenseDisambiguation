@@ -13,6 +13,8 @@ import net.didion.jwnl.JWNL;
 import net.didion.jwnl.JWNLException;
 import net.didion.jwnl.dictionary.Dictionary;
 import net.didion.jwnl.data.POS;
+import net.didion.jwnl.data.IndexWord;
+import net.didion.jwnl.data.Synset;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -30,6 +32,7 @@ public class WordSenseTrainer {
 
     public final int SENTENCE_MATCH_SCORE_IDENTIFIER = 0;
     public final int WORD_BY_WORD_SCORE_IDENTIFIER = 1;
+    public final int DICTIONARY_IDENTIFIER = 2;
 
     //////////////////////////////////
     //
@@ -37,7 +40,6 @@ public class WordSenseTrainer {
     //
 
     public final int WORD_BY_WORD_WINDOW_SIZE = 5;
-
 
 
 
@@ -274,7 +276,6 @@ public class WordSenseTrainer {
     public List<String[]> retrieve(String inputSentence, String word, int method, boolean useDefinitions) {
     	String[] tokens = tokenizer.tokenize(inputSentence);
     	String[] tags = posTagger.tag(tokens);
-	printSentence(tags);
 
     	int wordIndex = -1;
 
@@ -289,40 +290,79 @@ public class WordSenseTrainer {
 	    word = lemmatizer.lemmatize(tokens[wordIndex], tags[wordIndex]);
 
     	ArrayList<String[]> results = new ArrayList<String[]>();
+
+	// Reset sentence scores.
+	sentenceScores = new HashMap<String[], Double>();
 	
 	// If the user decides to try to return dictionary definitions.
 	if(useDefinitions) {
 
 	    // Need part of speech to query WordNet.
-	    String[] pos = posTagger.tag(new String[]{ word });
-	    POS wordPos;
+	    // http://blog.dpdearing.com/2011/12/opennlp-part-of-speech-pos-tags-penn-english-treebank/
 
-	    
-	    
-	    //Sysnet[] senses = dictionary.lookupIndexWord(
+	    IndexWord indexWord;
+	    Synset[] senses = new Synset[0];
 
+	    // Go through all senses of the word and aggregate them.
+	    try {
+		indexWord = dictionary.lookupIndexWord(POS.NOUN, word);
+		
+		if(indexWord != null)
+		    senses = indexWord.getSenses();
+	    } catch(JWNLException e) { }
+
+	    try {
+		indexWord = dictionary.lookupIndexWord(POS.VERB, word);
+
+		if(indexWord != null) 
+		    senses = concatSenses(senses, indexWord.getSenses());
+	    } catch(JWNLException e) { }
+	    
+	    try {
+		indexWord = dictionary.lookupIndexWord(POS.ADJECTIVE, word);
+
+		if(indexWord != null)
+		senses = concatSenses(senses, indexWord.getSenses());
+	    } catch(JWNLException e) { }
+	    
+	    try {
+		indexWord = dictionary.lookupIndexWord(POS.ADVERB, word);
+
+		if(indexWord != null)
+		    senses = concatSenses(senses, indexWord.getSenses());
+	    } catch(JWNLException e) { }
+
+	    // List of brief descriptions of each sense
+
+	    for(Synset sense : senses) {
+		String gloss = sense.getGloss();
+		String[] descrip = tokenizer.tokenize(gloss);
+		String[] pos = posTagger.tag(descrip);
+
+		lemmatize(descrip, pos);
+
+		results.add(descrip);
+	    }
+
+	    method = DICTIONARY_IDENTIFIER;
+	} else {
+
+	    // Always possible we don't actually have the word.
+	    if(concordance.containsKey(word)) {
+		// copy over sentences so we can sort them undestructively
+		for (String[] sentence : concordance.get(word)){
+		    results.add(sentence);
+		}		
+	    }
 	}
 
-	// Always possible we don't actually have the word.
-    	if(concordance.containsKey(word)) {
-	    // copy over sentences so we can sort them undestructively
-	    for (String[] sentence : concordance.get(word)){
-		results.add(sentence);
-	    }
+	System.out.println("# of results:  "+ results.size());
 
-	    System.out.println("# of results:  "+ results.size());
+	for (String[] s: results){
+	    sentenceScores.put(s, score(s, tokens, word, method));
+	}
 
-	    for (String[] s: results){
-		sentenceScores.put(s, score(s, tokens, word, method));
-		//System.out.println(sentenceScores.get(s));
-	    }
-
-	    // next:  sort results by distance between queryContext and each result's sentenceContext vector
-	    // will need a comparator
-
-	    
-	    Collections.sort(results, new ScoreComparator(sentenceScores));	    
-    	}
+	Collections.sort(results, new ScoreComparator(sentenceScores));
 
 	if(results.size() > 10) {
 	   return results.subList(0, 10);
@@ -343,7 +383,9 @@ public class WordSenseTrainer {
 	case SENTENCE_MATCH_SCORE_IDENTIFIER:
 	    return sentenceMatchScore(tokens, inputWords, word);
 	case WORD_BY_WORD_SCORE_IDENTIFIER:
-	    return wordByWordScore(tokens, inputWords, word);    
+	    return wordByWordScore(tokens, inputWords, word);
+	case DICTIONARY_IDENTIFIER:
+	    return dictionaryScore(tokens, inputWords, word);
     	}
 
     	return - Double.MAX_VALUE;
@@ -369,6 +411,7 @@ public class WordSenseTrainer {
     	for (wordPos = 0; wordPos < sentence.length; wordPos++){
 	    if (sentence[wordPos].equals(word)) break;
     	}
+	
     	// word not found in sentence; shouldn't happen
     	if (wordPos >= sentence.length) return null;
 	 
@@ -438,9 +481,9 @@ public class WordSenseTrainer {
 		    HashMap<Integer, Integer> targetWordContext = context.get(trainingWords[j]);
 
 		    double curVal = cosineSimilarity(curWordContext, targetWordContext);
-		    curVal = Math.pow(curVal, 2); // Penalize score if not close.
+		    curVal = Math.pow(curVal, 2); // Give an added advantage to closer words.
 		    windowScore = Math.min(curVal, windowScore);
-		    //numWordsCompared++;
+		    numWordsCompared++;
 
     		}
 	    }
@@ -448,7 +491,7 @@ public class WordSenseTrainer {
 	    if(windowScore == 999999)
 		windowScore = 0;
 
-	    //windowScore /= numWordsCompared;
+	    windowScore /= numWordsCompared;
 
 	    finalScore += windowScore;
 	}
@@ -456,11 +499,51 @@ public class WordSenseTrainer {
 	return finalScore;
     }
 
+    
+    // Dictionary score. Specific to scoring the dictionary sentences.
+    public double dictionaryScore(String[] dictionarySent, String[] inputWords, String word) {
+	HashMap<Integer, Integer> dictContext = new HashMap<Integer, Integer>();
+	HashMap<Integer, Integer> inputContext = new HashMap<Integer, Integer>();
+
+	// We approximate a context vector for the entire sentence:
+	for(int i = 0; i < dictionarySent.length; i++) {
+	    sumVectors(dictContext, getRandomVector(dictionarySent[i]));
+	}
+
+	for(int i = 0; i < inputWords.length; i++) {
+	    sumVectors(inputContext, getRandomVector(inputWords[i]));
+	}
+
+	return cosineSimilarity(dictContext, inputContext);
+    }
+
     //////////////////////////////////
     //
     // Helper Methods
     //
 
+<<<<<<< HEAD
+=======
+    // Remove stop words
+    public String[] removeStopWords(String[] in){
+	ArrayList<String> out = new ArrayList();
+	for (String w: in){
+	    if (!stopwords.contains(w)){
+		out.add(w);
+	    }
+	}
+	return out.toArray(new String[out.size()]);
+    }
+
+    // An in-place lemmatization of tokens.
+    public void lemmatize(String[] tokens, String[] posTags) {
+	for(int i = 0; i < tokens.length; i++) {
+	    tokens[i] = lemmatizer.lemmatize(tokens[i], posTags[i]);
+	}
+    }
+
+
+>>>>>>> 9b97f079d872259dc9cfdb8d5854640e39084c5b
     // Add to our context vector.
     public void buildContext(String[] tokens) {
        	for (int i = 0; i < tokens.length; i++){
@@ -628,6 +711,21 @@ public class WordSenseTrainer {
 	for(String s : ar)
 	    sb.append(s + " ");
 	return sb.toString();
+    }
+   
+    public Synset[] concatSenses(Synset[] ar1, Synset[] ar2) {
+	Synset[] ar = new Synset[ar1.length + ar2.length];
+	int index = 0;
+
+	for(Synset val : ar1) {
+	    ar[index++] = val;
+	}
+
+	for(Synset val : ar2) {
+	    ar[index++] = val;
+	}
+
+	return ar;
     }
 
     // Try to get a sentence score.
