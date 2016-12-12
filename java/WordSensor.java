@@ -89,6 +89,7 @@ public class WordSensor {
 	return line;
     }
 
+    // Prompt the user for which scoring system we should use.
     public static int promptForScoringSystem(Scanner scan) {
 	flush(1);
 
