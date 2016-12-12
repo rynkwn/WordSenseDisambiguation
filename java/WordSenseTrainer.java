@@ -28,7 +28,7 @@ public class WordSenseTrainer {
     // CONSTANTS RELATED TO wordByWordScore
     //
 
-    public final int WORD_BY_WORD_WINDOW_SIZE = 3;
+    public final int WORD_BY_WORD_WINDOW_SIZE = 5;
 
 
 
@@ -360,6 +360,9 @@ public class WordSenseTrainer {
     // @param word Is the ambiguous word in inputSentence.
     public double wordByWordScore(String[] trainingWords, String[] inputWords, String word) {
 
+	trainingWords = removeStopWords(trainingWords);
+	inputWords = removeStopWords(inputWords);
+
     	HashMap<String, HashMap<Integer, Integer>> inputContext = buildContextVector(inputWords);
 
 	// Captures the first instance of an ambiguous word.
@@ -387,8 +390,8 @@ public class WordSenseTrainer {
 
     	for(int i = 0; i < inputWords.length; i++) {
 
-	    double windowScore = 0.0;
-	    double numWordsCompared = 0;
+	    double windowScore = 999999;
+	    double numWordsCompared = 1;
 
 	    // We don't want to perform this process on the actual input word.
 	    // Instead, we'll only look at nearby words.
@@ -397,17 +400,22 @@ public class WordSenseTrainer {
 
 		// Now loop through the largest possible window constrained by
 		// WORD_BY_WORD_WINDOW_SIZE.
-		for(int j = Math.max(i + firstInstInput - WORD_BY_WORD_WINDOW_SIZE, 0);
-		    j <= Math.min(trainingWords.length - 1, i + firstInstInput + WORD_BY_WORD_WINDOW_SIZE);
+		for(int j = Math.max(i + firstInstTrain - WORD_BY_WORD_WINDOW_SIZE, 0);
+		    j <= Math.min(trainingWords.length - 1, i + firstInstTrain + WORD_BY_WORD_WINDOW_SIZE);
 		    j++) {
 
 		    HashMap<Integer, Integer> targetWordContext = context.get(trainingWords[j]);
 
-		    windowScore += (double) manhattenDistance(curWordContext, targetWordContext);
-		    numWordsCompared++;
+		    double curVal = cosineSimilarity(curWordContext, targetWordContext);
+		    curVal = Math.pow(curVal, 2); // Penalize score if not close.
+		    windowScore = Math.min(curVal, windowScore);
+		    //numWordsCompared++;
 
     		}
 	    }
+
+	    if(windowScore == 999999)
+		windowScore = 0;
 
 	    //windowScore /= numWordsCompared;
 
