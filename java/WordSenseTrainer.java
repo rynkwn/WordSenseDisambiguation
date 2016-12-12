@@ -11,6 +11,8 @@ import net.didion.jwnl.JWNL;
 import net.didion.jwnl.JWNLException;
 import net.didion.jwnl.dictionary.Dictionary;
 import net.didion.jwnl.data.POS;
+import net.didion.jwnl.data.IndexWord;
+import net.didion.jwnl.data.Synset;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -279,7 +281,6 @@ public class WordSenseTrainer {
     public List<String[]> retrieve(String inputSentence, String word, int method, boolean useDefinitions) {
     	String[] tokens = tokenizer.tokenize(inputSentence);
     	String[] tags = posTagger.tag(tokens);
-	printSentence(tags);
 
     	int wordIndex = -1;
 
@@ -294,37 +295,68 @@ public class WordSenseTrainer {
 	    word = lemmatizer.lemmatize(tokens[wordIndex], tags[wordIndex]);
 
     	ArrayList<String[]> results = new ArrayList<String[]>();
+
+	// Reset sentence scores.
+	sentenceScores = new HashMap<String[], Double>();
 	
 	// If the user decides to try to return dictionary definitions.
 	if(useDefinitions) {
 
 	    // Need part of speech to query WordNet.
-	    String[] pos = posTagger.tag(new String[]{ word });
-	    POS wordPos;
+	    // http://blog.dpdearing.com/2011/12/opennlp-part-of-speech-pos-tags-penn-english-treebank/
 
-	    
-	    
-	    //Sysnet[] senses = dictionary.lookupIndexWord(
+	    IndexWord indexWord;
+	    Synset[] senses = new Synset[0];
 
+	    try {
+		indexWord = dictionary.lookupIndexWord(POS.NOUN, word);
+		senses = indexWord.getSenses();
+	    } catch(JWNLException e) { }
+
+	    try {
+		indexWord = dictionary.lookupIndexWord(POS.VERB, word);
+		senses = concatSenses(senses, indexWord.getSenses());
+	    } catch(JWNLException e) { }
+	    
+	    try {
+		indexWord = dictionary.lookupIndexWord(POS.ADJECTIVE, word);
+		senses = concatSenses(senses, indexWord.getSenses());
+	    } catch(JWNLException e) { }
+	    
+	    try {
+		indexWord = dictionary.lookupIndexWord(POS.ADVERB, word);
+		senses = concatSenses(senses, indexWord.getSenses());
+	    } catch(JWNLException e) { }
+
+	    // List of brief descriptions of each sense
+
+	    for(Synset sense : senses) {
+		String gloss = sense.getGloss();
+		String[] descrip = tokenizer.tokenize(gloss);
+		String[] pos = posTagger.tag(descrip);
+
+		lemmatize(descrip, pos);
+
+		results.add(descrip);
+	    }
+	} else {
+
+	    // Always possible we don't actually have the word.
+	    if(concordance.containsKey(word)) {
+		// copy over sentences so we can sort them undestructively
+		for (String[] sentence : concordance.get(word)){
+		    results.add(sentence);
+		}		
+	    }
 	}
 
-	// Always possible we don't actually have the word.
-    	if(concordance.containsKey(word)) {
-	    // copy over sentences so we can sort them undestructively
-	    for (String[] sentence : concordance.get(word)){
-		results.add(sentence);
-	    }
+	System.out.println("# of results:  "+ results.size());
 
-	    System.out.println("# of results:  "+ results.size());
+	for (String[] s: results){
+	    sentenceScores.put(s, score(s, tokens, word, method));
+	}
 
-	    for (String[] s: results){
-		sentenceScores.put(s, score(s, tokens, word, method));
-	    }
-
-	    // next:  sort results by distance between queryContext and each result's sentenceContext vector
-	    // will need a comparator
-	    Collections.sort(results, new ScoreComparator(sentenceScores));	    
-    	}
+	Collections.sort(results, new ScoreComparator(sentenceScores));
 
 	if(results.size() > 10) {
 	   return results.subList(0, 10);
@@ -470,6 +502,13 @@ public class WordSenseTrainer {
 	    }
 	}
 	return out.toArray(new String[out.size()]);
+    }
+
+    // An in-place lemmatization of tokens.
+    public void lemmatize(String[] tokens, String[] posTags) {
+	for(int i = 0; i < tokens.length; i++) {
+	    tokens[i] = lemmatizer.lemmatize(tokens[i], posTags[i]);
+	}
     }
 
 
@@ -639,6 +678,21 @@ public class WordSenseTrainer {
 	for(String s : ar)
 	    sb.append(s + " ");
 	return sb.toString();
+    }
+   
+    public Synset[] concatSenses(Synset[] ar1, Synset[] ar2) {
+	Synset[] ar = new Synset[ar1.length + ar2.length];
+	int index = 0;
+
+	for(Synset val : ar1) {
+	    ar[index++] = val;
+	}
+
+	for(Synset val : ar2) {
+	    ar[index++] = val;
+	}
+
+	return ar;
     }
 
     // Try to get a sentence score.
