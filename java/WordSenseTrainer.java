@@ -401,8 +401,6 @@ public class WordSenseTrainer {
     public double sentenceMatchScore(String[] trainingWords, String[] inputWords, String word) {
 	HashMap<Integer, Integer> queryContext = buildSentenceWindowContext(inputWords, word);
     	HashMap<Integer, Integer> sentenceContext = buildSentenceWindowContext(trainingWords, word);
-
-	System.out.println((queryContext == null) + " - " + (sentenceContext == null));
     	return (double) cosineSimilarity(queryContext, sentenceContext);
     }
 
