@@ -5,4 +5,4 @@
 *.class
 
 # Ignore data.ser file
-data.ser
+*.ser
