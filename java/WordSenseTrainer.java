@@ -234,10 +234,12 @@ public class WordSenseTrainer {
 
     	String[] tokens = tokenizer.tokenize(sentence);
 	String[] tags = posTagger.tag(tokens);
+	String[] lemmatizedWords = new String[tokens.length];
 
     	for(int i = 0; i < tokens.length; i++) {
 
 	    String word =  lemmatizer.lemmatize(tokens[i], tags[i]);
+	    lemmatizedWords[i] = word;
 
 	    // Random indexing: generate the random vector for this word if it doesn't exist
 	    if(!randomIndex.containsKey(word)) {
@@ -253,7 +255,7 @@ public class WordSenseTrainer {
 	    entry.add(tokens);
     	}
 
-    	buildContext(tokens);
+    	buildContext(lemmatizedWords);
     }
 
     // Retrieve list of sentences that use this word ranked by
@@ -357,7 +359,26 @@ public class WordSenseTrainer {
     // as well as the input sentence.
     // @param word Is the ambiguous word in inputSentence.
     public double wordByWordScore(String[] trainingWords, String[] inputWords, String word) {
+
     	HashMap<String, HashMap<Integer, Integer>> inputContext = buildContextVector(inputWords);
+
+	// Captures the first instance of an ambiguous word.
+	int firstInstInput = -1;
+	int firstInstTrain = -1;
+
+	for(int i = 0; i < inputWords.length; i++) {
+	    if(inputWords[i].equals(word)) {
+		firstInstInput = i;
+		break;
+	    }
+	}
+
+	for(int i = 0; i < trainingWords.length; i++) {
+	    if(trainingWords[i].equals(word)) {
+		firstInstTrain = i;
+		break;
+	    }
+	}
 
     	double finalScore = 0.0;
 
@@ -376,19 +397,19 @@ public class WordSenseTrainer {
 
 		// Now loop through the largest possible window constrained by
 		// WORD_BY_WORD_WINDOW_SIZE.
-		for(int j = Math.max(0, i - WORD_BY_WORD_WINDOW_SIZE);
-		    j <= Math.min(trainingWords.length - 1, i + WORD_BY_WORD_WINDOW_SIZE);
+		for(int j = Math.max(i + firstInstInput - WORD_BY_WORD_WINDOW_SIZE, 0);
+		    j <= Math.min(trainingWords.length - 1, i + firstInstInput + WORD_BY_WORD_WINDOW_SIZE);
 		    j++) {
 
 		    HashMap<Integer, Integer> targetWordContext = context.get(trainingWords[j]);
 
-		    windowScore += (double) Math.pow(manhattenDistance(curWordContext, targetWordContext), 2);
+		    windowScore += (double) manhattenDistance(curWordContext, targetWordContext);
 		    numWordsCompared++;
 
     		}
 	    }
 
-	    windowScore /= numWordsCompared;
+	    //windowScore /= numWordsCompared;
 
 	    finalScore += windowScore;
 	}
@@ -415,7 +436,7 @@ public class WordSenseTrainer {
 
     // Add to our context vector.
     public void buildContext(String[] tokens) {
-	for (int i = 0; i < tokens.length; i++){
+       	for (int i = 0; i < tokens.length; i++){
 	    for (int c = Math.max(0, i-CONTEXT_WINDOW_SIZE);
 		 c <= Math.min(tokens.length-1, i+CONTEXT_WINDOW_SIZE);
 		 c++){
