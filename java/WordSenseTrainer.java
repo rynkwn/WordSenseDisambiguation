@@ -1,3 +1,14 @@
+/***************************
+ * WordSenseTrainer.java
+ *
+ * Builds data structures for word sense disambiguation and
+ * performs retrieval on training or dictionary sentences using
+ * specified scoring method to rank results.
+ *
+ * (c) 2016 Gary Chen, Ryan Kwon
+ ***************************/
+
+
 import java.nio.file.*; // Shorten afterwards.
 import java.nio.charset.*;
 import java.io.*;
@@ -637,9 +648,7 @@ public class WordSenseTrainer {
 
 	// ||v1|| * ||v2|| should be set to the below value.
 	double sqrSize = magnitude(vector1)*magnitude(vector2);
-	System.out.println("SQARSIZE:"+sqrSize);
 	double dprod = (double) dotProduct(vector1, vector2);
-	System.out.println("DPROD:"+dprod);
 	double cosVal = dprod / sqrSize;
 
 	return cosVal;
@@ -733,20 +742,6 @@ public class WordSenseTrainer {
 	return Double.MAX_VALUE;
     }
 
-    /*    public double contextDistanceTwoWords(String w1, String w2){
-	HashMap<Integer, Integer> c1 = context.get(w1);
-	if (c1 == null){
-	    System.out.println("w1 not found");
-	    c1 = new HashMap<Integer, Integer>();
-	}
-	HashMap<Integer, Integer> c2 = context.get(w2);
-	if (c2 == null){
-	    System.out.println("w2 not found");
-	    c2 = 
-	}
-	return cosineSimilarity(c1, c2);
-	}*/
-
     public static void main( String args[]){
 	// Use the first argument as the directory name.
 	String dirName = args[0];
@@ -767,8 +762,6 @@ public class WordSenseTrainer {
 	    System.out.println("two word to check contexts of: ");
 	    String w1 = scan.next();
 	    String w2 = scan.next();
-	    
-	    // System.out.println(wordSense.contextDistanceTwoWords(w1, w2));
 	}
     }
 }
