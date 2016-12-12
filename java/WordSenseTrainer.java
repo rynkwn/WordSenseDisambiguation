@@ -7,6 +7,8 @@ import opennlp.tools.tokenize.*;
 import opennlp.tools.postag.*;
 import opennlp.tools.lemmatizer.SimpleLemmatizer;
 
+import org.nustaq.serialization.*;
+
 import net.didion.jwnl.*;
 
 import java.util.ArrayList;
@@ -129,14 +131,6 @@ public class WordSenseTrainer {
 
 	}
 
-
-	/*	// Build stop words list
-	File stopwordsFile = new File("stopwords.txt");
-	Scanner stopScanner = new Scanner(stopwordsFile);
-	while (stopScanner.hasNext()){
-	    stopwords.add(stopScanner.next());
-	    }*/
-
 	if (!new File("data.ser").exists()){
 	    // No serialized data on hand
 	    // For every file in our data set, we want to loop over.
@@ -144,11 +138,11 @@ public class WordSenseTrainer {
 	    processFiles(dataDir);
 	    
 	    //write data to file
-	    ObjectOutputStream oos = null;
+	    FSTObjectOutput oos = null;
 	    FileOutputStream fout = null;
 	    try{
 		fout = new FileOutputStream("data.ser", true);
-		oos = new ObjectOutputStream(fout);
+		oos = new FSTObjectOutput(fout);
 		oos.writeObject(context);
 		oos.writeObject(concordance);
 		oos.writeObject(randomIndex);
@@ -162,10 +156,10 @@ public class WordSenseTrainer {
 	    }
 	} else {
 	    // read in context and concordance from file
-	    ObjectInputStream objectinputstream = null;
+	    FSTObjectInput objectinputstream = null;
 	    try {
 		FileInputStream streamIn = new FileInputStream("data.ser");
-		objectinputstream = new ObjectInputStream(streamIn);
+		objectinputstream = new FSTObjectInput(streamIn);
 		context = (HashMap<String, HashMap<Integer, Integer>>) objectinputstream.readObject();
 		concordance = (HashMap<String, ArrayList<String[]>>) objectinputstream.readObject();
 		randomIndex = (HashMap<String, HashMap<Integer, Integer>>) objectinputstream.readObject();
@@ -544,7 +538,7 @@ public class WordSenseTrainer {
 	double dprod = (double) dotProduct(vector1, vector2);
 	double cosVal = dprod / sqrSize;
 
-	return -cosVal;
+	return cosVal;
     }
 
     // Adds contents of v2 to v1, and returns v1

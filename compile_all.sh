@@ -9,8 +9,8 @@ echo Your OS is $os
 
 # If not linux, we assume Windows.
 case $os in
-	Linux*) jars=$jars:jars/jwnl.jar ;;
-	*) jars=$jars;jars/jwnl.jar ;;
+	Linux*) jars=$jars:jars/jwnl.jar:fst-2.47.jar ;;
+	*) jars=$jars;jars/jwnl.jar;fst-2.47.jar ;;
 esac
 
 javac -cp $jars $java
