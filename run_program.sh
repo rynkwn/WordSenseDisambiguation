@@ -11,8 +11,8 @@ echo Your OS is $os
 
 # If not linux, we assume Windows.
 case $os in
-	Linux*) path=$src:$jars:jars/jwnl.jar:jars/commons-logging-1.2.jar ;;
-	*) path="$src;$jars;jars.jwnl.jar;jars/commons-logging-1.2.jar" ;;
+	Linux*) path=$src:$jars:jars/* ;;
+	*) path="$src;$jars;jars/*" ;;
 esac
 
-java -cp $path WordSensor Dataset false
+java -Xmx6g -cp $path WordSensor Dataset false
