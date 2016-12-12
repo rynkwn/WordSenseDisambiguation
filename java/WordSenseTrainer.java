@@ -32,6 +32,7 @@ public class WordSenseTrainer {
 
     public final int SENTENCE_MATCH_SCORE_IDENTIFIER = 0;
     public final int WORD_BY_WORD_SCORE_IDENTIFIER = 1;
+    public final int DICTIONARY_IDENTIFIER = 2;
 
     //////////////////////////////////
     //
@@ -39,7 +40,6 @@ public class WordSenseTrainer {
     //
 
     public final int WORD_BY_WORD_WINDOW_SIZE = 5;
-
 
 
 
@@ -343,6 +343,8 @@ public class WordSenseTrainer {
 
 		results.add(descrip);
 	    }
+
+	    method = DICTIONARY_IDENTIFIER;
 	} else {
 
 	    // Always possible we don't actually have the word.
@@ -357,7 +359,6 @@ public class WordSenseTrainer {
 	System.out.println("# of results:  "+ results.size());
 
 	for (String[] s: results){
-	    //printSentence(s);
 	    sentenceScores.put(s, score(s, tokens, word, method));
 	}
 
@@ -382,7 +383,9 @@ public class WordSenseTrainer {
 	case SENTENCE_MATCH_SCORE_IDENTIFIER:
 	    return sentenceMatchScore(tokens, inputWords, word);
 	case WORD_BY_WORD_SCORE_IDENTIFIER:
-	    return wordByWordScore(tokens, inputWords, word);    
+	    return wordByWordScore(tokens, inputWords, word);
+	case DICTIONARY_IDENTIFIER:
+	    return dictionaryScore(tokens, inputWords, word);
     	}
 
     	return - Double.MAX_VALUE;
