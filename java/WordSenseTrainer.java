@@ -258,9 +258,9 @@ public class WordSenseTrainer {
     	buildContext(lemmatizedWords);
     }
 
-    // Retrieve list of sentences that use this word ranked by
+    // Retrieve the top 10 list of sentences that use this word ranked by
     // closest word sense.
-    public ArrayList<String[]> retrieve(String inputSentence, String word, int method) {
+    public List<String[]> retrieve(String inputSentence, String word, int method) {
     	String[] tokens = tokenizer.tokenize(inputSentence);
     	String[] tags = posTagger.tag(tokens);
 
@@ -299,7 +299,7 @@ public class WordSenseTrainer {
 	    Collections.sort(results, new ScoreComparator(sentenceScores));	    
     	}
 
-    	return results;
+    	return results.subList(0, 10);
     }
     
     // Score a sentence based on "similarity" with original sentence.  Lemmatizes training sentence too.

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-import java.util.ArrayList;
+import java.util.List;
 
 // The interface for WordSenseTrainer
 public class WordSensor {
@@ -31,7 +31,7 @@ public class WordSensor {
 
 	String sentence;
 	String word;
-	ArrayList<String[]> results;
+	List<String[]> results;
 
 	while(keepRunning) {
 	    
@@ -66,7 +66,7 @@ public class WordSensor {
     // Helper Methods
     //
 
-    public static void printResults(ArrayList<String[]> results, WordSenseTrainer wordSense) {
+    public static void printResults(List<String[]> results, WordSenseTrainer wordSense) {
 
 	if(results.size() == 0) {
 	    System.out.println("No results!");
