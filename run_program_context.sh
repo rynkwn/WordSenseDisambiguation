@@ -11,8 +11,8 @@ echo Your OS is $os
 
 # If not linux, we assume Windows.
 case $os in
-	Linux*) path=$src:$jars ;;
-	*) path="$src;$jars" ;;
+	Linux*) path=$src:$jars:jars/jwnl.jar:jars/commons-logging-1.2.jar ;;
+	*) path="$src;$jars;jars.jwnl.jar;jars/commons-logging-1.2.jar" ;;
 esac
 
 java -cp $path WordSenseTrainer Dataset false
