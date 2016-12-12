@@ -14,7 +14,7 @@ In order to run the project, these commands should be executed in terminal:
 
 `sh run_program.sh` -> Reads in a subset of the Guardian data set and creates a data file `data.ser`. This process may take 3-4 minutes. Once `data.ser` exists however, `run_program.sh` will read and execute in under a minute. This will allow you to interact with the program after selecting a scoring method of your choice. This author strongly recommends Sentence Match.
 
-After entering in a sentence as well as specifying the ambiguous word in the sentence, the program will then retrieve the top 10 closest sentences to your proposal from the training corpus.
+You will then be asked to enter in a sentence as well as specifying the ambiguous word (`w`) in the sentence. The program will then retrieve the top 10 sentences from the training corpus that appear to use `w` in the same sense.
 
 `sh run_program_with_dict.sh` -> Reads in a subset of the Guardian data set, but retrieves definitions from WordNet rather than the Guardian text.
 
