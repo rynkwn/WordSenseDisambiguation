@@ -26,6 +26,7 @@ public class WordSenseTrainer {
     public final int CONTEXT_WINDOW_SIZE = 5;
     public final int VECTOR_SIZE = 2000;
     public final int VECTOR_FILL = 100;
+    public final int NUMBER_OF_FILES = 1000;
 
     public final int SENTENCE_MATCH_SCORE_IDENTIFIER = 0;
     public final int WORD_BY_WORD_SCORE_IDENTIFIER = 1;
@@ -199,7 +200,7 @@ public class WordSenseTrainer {
      */
     public void processFiles( File f ) {
 	// do not try to index fs that cannot be read
-    	if ( f.canRead() && fileCount < 500) {
+    	if ( f.canRead() && fileCount < NUMBER_OF_FILES) {
 	    if ( f.isDirectory() ) {
 		String[] fs = f.list();
 		// an IO error could occur
