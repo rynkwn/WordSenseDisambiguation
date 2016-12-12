@@ -64,7 +64,7 @@ public class WordSensor {
 	    results = wordSense.retrieve(sentence, word, method, useDefinitions);
 	    printResults(results, wordSense);
 
-	    flush(2);
+	    flush(1);
 	}
     }
 
@@ -80,12 +80,12 @@ public class WordSensor {
 	    System.out.println("No results!");
 	} else {
 	    for(String[] sentence : results) {
+		System.out.print(wordSense.getScore(sentence) + "\t");
+
 		for(String word : sentence) {
 		    System.out.print(word + " ");
 		}
-
-		System.out.print("\t" + wordSense.getScore(sentence));
-		System.out.println();
+		System.out.println("\n");
 	    }
 	}
     }
